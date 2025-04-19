@@ -1,0 +1,5912 @@
+[
+  {
+    "ID_PLAYA": 301101,
+    "NOMBRE_PLAYA": "Raco de l'Albir",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3011,
+    "NOMBRE_MUNICIPIO": "l'Alfàs del Pi",
+    "LATITUD": "38º 34' 31\"",
+    "LONGITUD": "-00º 03' 52\""
+  },
+  {
+    "ID_PLAYA": 301401,
+    "NOMBRE_PLAYA": "Sant Joan / San Juan",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3014,
+    "NOMBRE_MUNICIPIO": "Alicante/Alacant",
+    "LATITUD": "38º 22' 48\"",
+    "LONGITUD": "-00º 24' 32\""
+  },
+  {
+    "ID_PLAYA": 301408,
+    "NOMBRE_PLAYA": "El Postiguet",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3014,
+    "NOMBRE_MUNICIPIO": "Alicante/Alacant",
+    "LATITUD": "38º 20' 46\"",
+    "LONGITUD": "-00º 28' 38\""
+  },
+  {
+    "ID_PLAYA": 301410,
+    "NOMBRE_PLAYA": "Saladar",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3014,
+    "NOMBRE_MUNICIPIO": "Alicante/Alacant",
+    "LATITUD": "38º 17' 02\"",
+    "LONGITUD": "-00º 31' 08\""
+  },
+  {
+    "ID_PLAYA": 301808,
+    "NOMBRE_PLAYA": "La Roda",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3018,
+    "NOMBRE_MUNICIPIO": "Altea",
+    "LATITUD": "38º 36' 29\"",
+    "LONGITUD": "-00º 02' 16\""
+  },
+  {
+    "ID_PLAYA": 301809,
+    "NOMBRE_PLAYA": "Cap Blanch",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3018,
+    "NOMBRE_MUNICIPIO": "Altea",
+    "LATITUD": "38º 35' 36\"",
+    "LONGITUD": "-00º 03' 10\""
+  },
+  {
+    "ID_PLAYA": 303102,
+    "NOMBRE_PLAYA": "Llevant / Playa de Levante",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3031,
+    "NOMBRE_MUNICIPIO": "Benidorm",
+    "LATITUD": "38º 32' 12\"",
+    "LONGITUD": "-00º 07' 05\""
+  },
+  {
+    "ID_PLAYA": 303104,
+    "NOMBRE_PLAYA": "Ponent / Playa de Poniente",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3031,
+    "NOMBRE_MUNICIPIO": "Benidorm",
+    "LATITUD": "38º 32' 14\"",
+    "LONGITUD": "-00º 08' 55\""
+  },
+  {
+    "ID_PLAYA": 304105,
+    "NOMBRE_PLAYA": "Cala Fustera",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3041,
+    "NOMBRE_MUNICIPIO": "Benissa",
+    "LATITUD": "38º 39' 53\"",
+    "LONGITUD": "0º 05' 16\""
+  },
+  {
+    "ID_PLAYA": 304704,
+    "NOMBRE_PLAYA": "La Fossa",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3047,
+    "NOMBRE_MUNICIPIO": "Calp",
+    "LATITUD": "38º 38' 46\"",
+    "LONGITUD": "0º 04' 24\""
+  },
+  {
+    "ID_PLAYA": 304707,
+    "NOMBRE_PLAYA": "Cantal Roig",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3047,
+    "NOMBRE_MUNICIPIO": "Calp",
+    "LATITUD": "38º 37' 54\"",
+    "LONGITUD": "0º 00' 16\""
+  },
+  {
+    "ID_PLAYA": 304709,
+    "NOMBRE_PLAYA": "Arenal/Bol",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3047,
+    "NOMBRE_MUNICIPIO": "Calp",
+    "LATITUD": "38º 36' 35\"",
+    "LONGITUD": "-00º 02' 10\""
+  },
+  {
+    "ID_PLAYA": 305013,
+    "NOMBRE_PLAYA": "Carrer la Mar",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3050,
+    "NOMBRE_MUNICIPIO": "el Campello",
+    "LATITUD": "38º 25' 30\"",
+    "LONGITUD": "-00º 23' 20\""
+  },
+  {
+    "ID_PLAYA": 306301,
+    "NOMBRE_PLAYA": "Les Devesses",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3063,
+    "NOMBRE_MUNICIPIO": "Dénia",
+    "LATITUD": "38º 52' 15\"",
+    "LONGITUD": "-00º 00' 26\""
+  },
+  {
+    "ID_PLAYA": 306308,
+    "NOMBRE_PLAYA": "Les Boves / Les Marines",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3063,
+    "NOMBRE_MUNICIPIO": "Dénia",
+    "LATITUD": "38º 51' 29\"",
+    "LONGITUD": "0º 04' 33\""
+  },
+  {
+    "ID_PLAYA": 306310,
+    "NOMBRE_PLAYA": "Marineta Cassiana",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3063,
+    "NOMBRE_MUNICIPIO": "Dénia",
+    "LATITUD": "38º 50' 04\"",
+    "LONGITUD": "0º 07' 33\""
+  },
+  {
+    "ID_PLAYA": 306502,
+    "NOMBRE_PLAYA": "Arenales del Sol",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3065,
+    "NOMBRE_MUNICIPIO": "Elche/Elx",
+    "LATITUD": "38º 14' 28\"",
+    "LONGITUD": "-00º 30' 49\""
+  },
+  {
+    "ID_PLAYA": 306505,
+    "NOMBRE_PLAYA": "La Marina / Les Pesqueres - El Rebollo",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3065,
+    "NOMBRE_MUNICIPIO": "Elche/Elx",
+    "LATITUD": "38º 08' 19\"",
+    "LONGITUD": "-00º 39' 09\""
+  },
+  {
+    "ID_PLAYA": 306901,
+    "NOMBRE_PLAYA": "Finestrat / La Cala",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3069,
+    "NOMBRE_MUNICIPIO": "Finestrat",
+    "LATITUD": "38º 31' 33\"",
+    "LONGITUD": "-00º 09' 58\""
+  },
+  {
+    "ID_PLAYA": 307605,
+    "NOMBRE_PLAYA": "Centro / La Roqueta",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3076,
+    "NOMBRE_MUNICIPIO": "Guardamar del Segura",
+    "LATITUD": "38º 04' 31\"",
+    "LONGITUD": "-00º 38' 50\""
+  },
+  {
+    "ID_PLAYA": 308204,
+    "NOMBRE_PLAYA": "El Arenal",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3082,
+    "NOMBRE_MUNICIPIO": "Jávea/Xàbia",
+    "LATITUD": "38º 46' 27\"",
+    "LONGITUD": "0º 11' 27\""
+  },
+  {
+    "ID_PLAYA": 308211,
+    "NOMBRE_PLAYA": "La Granadella",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3082,
+    "NOMBRE_MUNICIPIO": "Jávea/Xàbia",
+    "LATITUD": "38º 43' 50\"",
+    "LONGITUD": "0º 11' 52\""
+  },
+  {
+    "ID_PLAYA": 309907,
+    "NOMBRE_PLAYA": "Cala Capitan",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3099,
+    "NOMBRE_MUNICIPIO": "Orihuela",
+    "LATITUD": "37º 55' 19\"",
+    "LONGITUD": "-00º 43' 18\""
+  },
+  {
+    "ID_PLAYA": 309908,
+    "NOMBRE_PLAYA": "Cala Roig",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3099,
+    "NOMBRE_MUNICIPIO": "Orihuela",
+    "LATITUD": "37º 54' 12\"",
+    "LONGITUD": "-00º 43' 42\""
+  },
+  {
+    "ID_PLAYA": 309911,
+    "NOMBRE_PLAYA": "Campoamor / Barranco Rubio",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3099,
+    "NOMBRE_MUNICIPIO": "Orihuela",
+    "LATITUD": "37º 53' 46\"",
+    "LONGITUD": "-00º 45' 06\""
+  },
+  {
+    "ID_PLAYA": 312103,
+    "NOMBRE_PLAYA": "Varador - Calas del Este",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3121,
+    "NOMBRE_MUNICIPIO": "Santa Pola",
+    "LATITUD": "38º 11' 26\"",
+    "LONGITUD": "-00º 32' 05\""
+  },
+  {
+    "ID_PLAYA": 312108,
+    "NOMBRE_PLAYA": "Tamarit",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3121,
+    "NOMBRE_MUNICIPIO": "Santa Pola",
+    "LATITUD": "38º 11' 17\"",
+    "LONGITUD": "-00º 35' 49\""
+  },
+  {
+    "ID_PLAYA": 312803,
+    "NOMBRE_PLAYA": "L'Ampolla",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3128,
+    "NOMBRE_MUNICIPIO": "Teulada",
+    "LATITUD": "38º 41' 18\"",
+    "LONGITUD": "0º 07' 53\""
+  },
+  {
+    "ID_PLAYA": 313302,
+    "NOMBRE_PLAYA": "La Mata",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3133,
+    "NOMBRE_MUNICIPIO": "Torrevieja",
+    "LATITUD": "38º 01' 34\"",
+    "LONGITUD": "-00º 39' 08\""
+  },
+  {
+    "ID_PLAYA": 313909,
+    "NOMBRE_PLAYA": "Paradis",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3139,
+    "NOMBRE_MUNICIPIO": "Villajoyosa/la Vila Joiosa",
+    "LATITUD": "38º 29' 54\"",
+    "LONGITUD": "-00º 15' 25\""
+  },
+  {
+    "ID_PLAYA": 390208,
+    "NOMBRE_PLAYA": "Port / El Puerto",
+    "ID_PROVINCIA": 3,
+    "NOMBRE_PROVINCIA": "Alacant/Alicante",
+    "ID_MUNICIPIO": 3902,
+    "NOMBRE_MUNICIPIO": "Pilar de la Horadada",
+    "LATITUD": "37º 49' 15\"",
+    "LONGITUD": "-00º 46' 45\""
+  },
+  {
+    "ID_PLAYA": 400308,
+    "NOMBRE_PLAYA": "Poniente",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4003,
+    "NOMBRE_MUNICIPIO": "Adra",
+    "LATITUD": "36º 44' 39\"",
+    "LONGITUD": "-03º 11' 06\""
+  },
+  {
+    "ID_PLAYA": 400309,
+    "NOMBRE_PLAYA": "San Nicolás",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4003,
+    "NOMBRE_MUNICIPIO": "Adra",
+    "LATITUD": "36º 44' 40\"",
+    "LONGITUD": "-03º 04' 01\""
+  },
+  {
+    "ID_PLAYA": 401304,
+    "NOMBRE_PLAYA": "San Miguel/Las Conchas/Zapillo",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4013,
+    "NOMBRE_MUNICIPIO": "Almería",
+    "LATITUD": "36º 49' 46\"",
+    "LONGITUD": "-02º 27' 10\""
+  },
+  {
+    "ID_PLAYA": 401310,
+    "NOMBRE_PLAYA": "Retamar",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4013,
+    "NOMBRE_MUNICIPIO": "Almería",
+    "LATITUD": "36º 50' 01\"",
+    "LONGITUD": "-02º 18' 53\""
+  },
+  {
+    "ID_PLAYA": 401313,
+    "NOMBRE_PLAYA": "San Miguel de Cabo de Gata",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4013,
+    "NOMBRE_MUNICIPIO": "Almería",
+    "LATITUD": "36º 47' 35\"",
+    "LONGITUD": "-02º 15' 21\""
+  },
+  {
+    "ID_PLAYA": 402901,
+    "NOMBRE_PLAYA": "Berja-Balanegra",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4029,
+    "NOMBRE_MUNICIPIO": "Berja",
+    "LATITUD": "36º 44' 51\"",
+    "LONGITUD": "-02º 54' 38\""
+  },
+  {
+    "ID_PLAYA": 403203,
+    "NOMBRE_PLAYA": "El Lancon",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4032,
+    "NOMBRE_MUNICIPIO": "Carboneras",
+    "LATITUD": "37º 00' 41\"",
+    "LONGITUD": "-01º 52' 51\""
+  },
+  {
+    "ID_PLAYA": 403204,
+    "NOMBRE_PLAYA": "Los Barquicos/Los Cocones",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4032,
+    "NOMBRE_MUNICIPIO": "Carboneras",
+    "LATITUD": "36º 59' 47\"",
+    "LONGITUD": "-01º 53' 37\""
+  },
+  {
+    "ID_PLAYA": 403501,
+    "NOMBRE_PLAYA": "Pozo del Esparto",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4035,
+    "NOMBRE_MUNICIPIO": "Cuevas del Almanzora",
+    "LATITUD": "37º 20' 11\"",
+    "LONGITUD": "-01º 41' 23\""
+  },
+  {
+    "ID_PLAYA": 403510,
+    "NOMBRE_PLAYA": "Villaricos",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4035,
+    "NOMBRE_MUNICIPIO": "Cuevas del Almanzora",
+    "LATITUD": "37º 14' 51\"",
+    "LONGITUD": "-01º 46' 19\""
+  },
+  {
+    "ID_PLAYA": 404901,
+    "NOMBRE_PLAYA": "Garrucha",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4049,
+    "NOMBRE_MUNICIPIO": "Garrucha",
+    "LATITUD": "37º 10' 45\"",
+    "LONGITUD": "-01º 49' 13\""
+  },
+  {
+    "ID_PLAYA": 406401,
+    "NOMBRE_PLAYA": "Marina de la Torre",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4064,
+    "NOMBRE_MUNICIPIO": "Mojácar",
+    "LATITUD": "37º 09' 45\"",
+    "LONGITUD": "-01º 49' 21\""
+  },
+  {
+    "ID_PLAYA": 406403,
+    "NOMBRE_PLAYA": "El Descargador",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4064,
+    "NOMBRE_MUNICIPIO": "Mojácar",
+    "LATITUD": "37º 08' 31\"",
+    "LONGITUD": "-01º 49' 34\""
+  },
+  {
+    "ID_PLAYA": 406601,
+    "NOMBRE_PLAYA": "Aguamarga",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4066,
+    "NOMBRE_MUNICIPIO": "Níjar",
+    "LATITUD": "36º 56' 24\"",
+    "LONGITUD": "-01º 56' 01\""
+  },
+  {
+    "ID_PLAYA": 406614,
+    "NOMBRE_PLAYA": "San José",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4066,
+    "NOMBRE_MUNICIPIO": "Níjar",
+    "LATITUD": "36º 45' 37\"",
+    "LONGITUD": "-02º 06' 26\""
+  },
+  {
+    "ID_PLAYA": 407506,
+    "NOMBRE_PLAYA": "Mar Serena",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4075,
+    "NOMBRE_MUNICIPIO": "Pulpí",
+    "LATITUD": "37º 21' 30\"",
+    "LONGITUD": "-01º 40' 11\""
+  },
+  {
+    "ID_PLAYA": 407904,
+    "NOMBRE_PLAYA": "La Romanilla",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4079,
+    "NOMBRE_MUNICIPIO": "Roquetas de Mar",
+    "LATITUD": "36º 46' 14\"",
+    "LONGITUD": "-02º 36' 05\""
+  },
+  {
+    "ID_PLAYA": 407906,
+    "NOMBRE_PLAYA": "Urbanización Roquetas del Mar",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4079,
+    "NOMBRE_MUNICIPIO": "Roquetas de Mar",
+    "LATITUD": "36º 44' 25\"",
+    "LONGITUD": "-02º 36' 39\""
+  },
+  {
+    "ID_PLAYA": 410002,
+    "NOMBRE_PLAYA": "Puerto del Rey",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4100,
+    "NOMBRE_MUNICIPIO": "Vera",
+    "LATITUD": "37º 12' 10\"",
+    "LONGITUD": "-01º 48' 34\""
+  },
+  {
+    "ID_PLAYA": 490201,
+    "NOMBRE_PLAYA": "Balerma",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4902,
+    "NOMBRE_MUNICIPIO": "El Ejido",
+    "LATITUD": "36º 43' 20\"",
+    "LONGITUD": "-02º 52' 39\""
+  },
+  {
+    "ID_PLAYA": 490204,
+    "NOMBRE_PLAYA": "San Miguel-Poniente Almerimar",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4902,
+    "NOMBRE_MUNICIPIO": "El Ejido",
+    "LATITUD": "36º 42' 27\"",
+    "LONGITUD": "-02º 48' 53\""
+  },
+  {
+    "ID_PLAYA": 490205,
+    "NOMBRE_PLAYA": "Levante Almerimar",
+    "ID_PROVINCIA": 4,
+    "NOMBRE_PROVINCIA": "Almería",
+    "ID_MUNICIPIO": 4902,
+    "NOMBRE_MUNICIPIO": "El Ejido",
+    "LATITUD": "36º 41' 23\"",
+    "LONGITUD": "-02º 46' 41\""
+  },
+  {
+    "ID_PLAYA": 700201,
+    "NOMBRE_PLAYA": "Son Bou",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7002,
+    "NOMBRE_MUNICIPIO": "Alaior",
+    "LATITUD": "39º 54' 10\"",
+    "LONGITUD": "4º 04' 00\""
+  },
+  {
+    "ID_PLAYA": 700307,
+    "NOMBRE_PLAYA": "Alcúdia",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7003,
+    "NOMBRE_MUNICIPIO": "Alcúdia",
+    "LATITUD": "39º 49' 50\"",
+    "LONGITUD": "3º 07' 13\""
+  },
+  {
+    "ID_PLAYA": 700506,
+    "NOMBRE_PLAYA": "Sant Elm",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7005,
+    "NOMBRE_MUNICIPIO": "Andratx",
+    "LATITUD": "39º 34' 45\"",
+    "LONGITUD": "2º 21' 18\""
+  },
+  {
+    "ID_PLAYA": 700513,
+    "NOMBRE_PLAYA": "Camp de Mar",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7005,
+    "NOMBRE_MUNICIPIO": "Andratx",
+    "LATITUD": "39º 32' 19\"",
+    "LONGITUD": "2º 25' 26\""
+  },
+  {
+    "ID_PLAYA": 701102,
+    "NOMBRE_PLAYA": "Palmira",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7011,
+    "NOMBRE_MUNICIPIO": "Calvià",
+    "LATITUD": "39º 32' 08\"",
+    "LONGITUD": "2º 27' 31\""
+  },
+  {
+    "ID_PLAYA": 701103,
+    "NOMBRE_PLAYA": "Cala Santa Ponça",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7011,
+    "NOMBRE_MUNICIPIO": "Calvià",
+    "LATITUD": "39º 31' 03\"",
+    "LONGITUD": "2º 28' 53\""
+  },
+  {
+    "ID_PLAYA": 701105,
+    "NOMBRE_PLAYA": "Magalluf",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7011,
+    "NOMBRE_MUNICIPIO": "Calvià",
+    "LATITUD": "39º 30' 31\"",
+    "LONGITUD": "2º 32' 14\""
+  },
+  {
+    "ID_PLAYA": 701303,
+    "NOMBRE_PLAYA": "Es Trenc",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7013,
+    "NOMBRE_MUNICIPIO": "Campos",
+    "LATITUD": "39º 20' 49\"",
+    "LONGITUD": "2º 59' 03\""
+  },
+  {
+    "ID_PLAYA": 701401,
+    "NOMBRE_PLAYA": "Cala Mesquida",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7014,
+    "NOMBRE_MUNICIPIO": "Capdepera",
+    "LATITUD": "39º 44' 45\"",
+    "LONGITUD": "3º 26' 06\""
+  },
+  {
+    "ID_PLAYA": 701403,
+    "NOMBRE_PLAYA": "Cala Agulla",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7014,
+    "NOMBRE_MUNICIPIO": "Capdepera",
+    "LATITUD": "39º 43' 25\"",
+    "LONGITUD": "3º 27' 14\""
+  },
+  {
+    "ID_PLAYA": 701406,
+    "NOMBRE_PLAYA": "Sa Font de Sa Cala",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7014,
+    "NOMBRE_MUNICIPIO": "Capdepera",
+    "LATITUD": "39º 40' 00\"",
+    "LONGITUD": "3º 27' 12\""
+  },
+  {
+    "ID_PLAYA": 701506,
+    "NOMBRE_PLAYA": "Cala Santandria",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7015,
+    "NOMBRE_MUNICIPIO": "Ciutadella de Menorca",
+    "LATITUD": "39º 58' 46\"",
+    "LONGITUD": "3º 50' 25\""
+  },
+  {
+    "ID_PLAYA": 701507,
+    "NOMBRE_PLAYA": "Cala Blanca",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7015,
+    "NOMBRE_MUNICIPIO": "Ciutadella de Menorca",
+    "LATITUD": "39º 58' 07\"",
+    "LONGITUD": "3º 50' 11\""
+  },
+  {
+    "ID_PLAYA": 701509,
+    "NOMBRE_PLAYA": "Son Xoriguer",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7015,
+    "NOMBRE_MUNICIPIO": "Ciutadella de Menorca",
+    "LATITUD": "39º 55' 37\"",
+    "LONGITUD": "3º 50' 35\""
+  },
+  {
+    "ID_PLAYA": 701906,
+    "NOMBRE_PLAYA": "Sa Calobra",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7019,
+    "NOMBRE_MUNICIPIO": "Escorca",
+    "LATITUD": "39º 51' 08\"",
+    "LONGITUD": "2º 48' 03\""
+  },
+  {
+    "ID_PLAYA": 702201,
+    "NOMBRE_PLAYA": "Cala Marçal",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7022,
+    "NOMBRE_MUNICIPIO": "Felanitx",
+    "LATITUD": "39º 24' 39\"",
+    "LONGITUD": "3º 15' 34\""
+  },
+  {
+    "ID_PLAYA": 702302,
+    "NOMBRE_PLAYA": "Cala Galdana",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7023,
+    "NOMBRE_MUNICIPIO": "Ferreries",
+    "LATITUD": "39º 56' 19\"",
+    "LONGITUD": "3º 57' 42\""
+  },
+  {
+    "ID_PLAYA": 702402,
+    "NOMBRE_PLAYA": "Playa de Llevant",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7024,
+    "NOMBRE_MUNICIPIO": "Formentera",
+    "LATITUD": "38º 44' 56\"",
+    "LONGITUD": "1º 26' 24\""
+  },
+  {
+    "ID_PLAYA": 702413,
+    "NOMBRE_PLAYA": "Playa de Migjorn",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7024,
+    "NOMBRE_MUNICIPIO": "Formentera",
+    "LATITUD": "38º 41' 07\"",
+    "LONGITUD": "1º 28' 07\""
+  },
+  {
+    "ID_PLAYA": 702414,
+    "NOMBRE_PLAYA": "Cala Saona",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7024,
+    "NOMBRE_MUNICIPIO": "Formentera",
+    "LATITUD": "38º 41' 40\"",
+    "LONGITUD": "1º 23' 23\""
+  },
+  {
+    "ID_PLAYA": 702601,
+    "NOMBRE_PLAYA": "Talamanca",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7026,
+    "NOMBRE_MUNICIPIO": "Eivissa",
+    "LATITUD": "38º 55' 06\"",
+    "LONGITUD": "1º 27' 22\""
+  },
+  {
+    "ID_PLAYA": 702603,
+    "NOMBRE_PLAYA": "Ses Figueretes",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7026,
+    "NOMBRE_MUNICIPIO": "Eivissa",
+    "LATITUD": "38º 54' 19\"",
+    "LONGITUD": "1º 25' 23\""
+  },
+  {
+    "ID_PLAYA": 703209,
+    "NOMBRE_PLAYA": "Es Grau",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7032,
+    "NOMBRE_MUNICIPIO": "Maó-Mahón",
+    "LATITUD": "39º 57' 04\"",
+    "LONGITUD": "4º 15' 06\""
+  },
+  {
+    "ID_PLAYA": 703211,
+    "NOMBRE_PLAYA": "Cala Mesquida",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7032,
+    "NOMBRE_MUNICIPIO": "Maó-Mahón",
+    "LATITUD": "39º 55' 03\"",
+    "LONGITUD": "4º 17' 12\""
+  },
+  {
+    "ID_PLAYA": 703301,
+    "NOMBRE_PLAYA": "S'Illot / Cala Moreira",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7033,
+    "NOMBRE_MUNICIPIO": "Manacor",
+    "LATITUD": "39º 34' 01\"",
+    "LONGITUD": "3º 22' 27\""
+  },
+  {
+    "ID_PLAYA": 703307,
+    "NOMBRE_PLAYA": "Cala Estany",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7033,
+    "NOMBRE_MUNICIPIO": "Manacor",
+    "LATITUD": "39º 31' 04\"",
+    "LONGITUD": "3º 18' 42\""
+  },
+  {
+    "ID_PLAYA": 703316,
+    "NOMBRE_PLAYA": "Es Domingos Gran",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7033,
+    "NOMBRE_MUNICIPIO": "Manacor",
+    "LATITUD": "39º 27' 34\"",
+    "LONGITUD": "3º 16' 46\""
+  },
+  {
+    "ID_PLAYA": 703706,
+    "NOMBRE_PLAYA": "Tirant",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7037,
+    "NOMBRE_MUNICIPIO": "Es Mercadal",
+    "LATITUD": "40º 02' 06\"",
+    "LONGITUD": "4º 06' 05\""
+  },
+  {
+    "ID_PLAYA": 703710,
+    "NOMBRE_PLAYA": "Arenal d'en Castell",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7037,
+    "NOMBRE_MUNICIPIO": "Es Mercadal",
+    "LATITUD": "40º 01' 04\"",
+    "LONGITUD": "4º 11' 05\""
+  },
+  {
+    "ID_PLAYA": 703901,
+    "NOMBRE_PLAYA": "Muro",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7039,
+    "NOMBRE_MUNICIPIO": "Muro",
+    "LATITUD": "39º 47' 23\"",
+    "LONGITUD": "3º 07' 50\""
+  },
+  {
+    "ID_PLAYA": 704001,
+    "NOMBRE_PLAYA": "Cala Major",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7040,
+    "NOMBRE_MUNICIPIO": "Palma",
+    "LATITUD": "39º 33' 12\"",
+    "LONGITUD": "2º 36' 27\""
+  },
+  {
+    "ID_PLAYA": 704007,
+    "NOMBRE_PLAYA": "Playa de Palma",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7040,
+    "NOMBRE_MUNICIPIO": "Palma",
+    "LATITUD": "39º 31' 25\"",
+    "LONGITUD": "2º 44' 17\""
+  },
+  {
+    "ID_PLAYA": 704202,
+    "NOMBRE_PLAYA": "Cala Barques",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7042,
+    "NOMBRE_MUNICIPIO": "Pollença",
+    "LATITUD": "39º 55' 22\"",
+    "LONGITUD": "3º 03' 25\""
+  },
+  {
+    "ID_PLAYA": 704208,
+    "NOMBRE_PLAYA": "Cala Formentor",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7042,
+    "NOMBRE_MUNICIPIO": "Pollença",
+    "LATITUD": "39º 55' 45\"",
+    "LONGITUD": "3º 08' 15\""
+  },
+  {
+    "ID_PLAYA": 704210,
+    "NOMBRE_PLAYA": "Pollença / Llenaire",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7042,
+    "NOMBRE_MUNICIPIO": "Pollença",
+    "LATITUD": "39º 53' 23\"",
+    "LONGITUD": "3º 04' 46\""
+  },
+  {
+    "ID_PLAYA": 704605,
+    "NOMBRE_PLAYA": "Cala Grasió",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7046,
+    "NOMBRE_MUNICIPIO": "Sant Antoni de Portmany",
+    "LATITUD": "38º 59' 36\"",
+    "LONGITUD": "1º 17' 28\""
+  },
+  {
+    "ID_PLAYA": 704608,
+    "NOMBRE_PLAYA": "San Antonio / Es Regueró",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7046,
+    "NOMBRE_MUNICIPIO": "Sant Antoni de Portmany",
+    "LATITUD": "38º 58' 44\"",
+    "LONGITUD": "1º 18' 31\""
+  },
+  {
+    "ID_PLAYA": 704806,
+    "NOMBRE_PLAYA": "Cala Bassa",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7048,
+    "NOMBRE_MUNICIPIO": "Sant Josep de sa Talaia",
+    "LATITUD": "38º 58' 09\"",
+    "LONGITUD": "1º 14' 27\""
+  },
+  {
+    "ID_PLAYA": 704817,
+    "NOMBRE_PLAYA": "Cala Vedella",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7048,
+    "NOMBRE_MUNICIPIO": "Sant Josep de sa Talaia",
+    "LATITUD": "38º 54' 53\"",
+    "LONGITUD": "1º 13' 31\""
+  },
+  {
+    "ID_PLAYA": 704821,
+    "NOMBRE_PLAYA": "Cala d'Hort",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7048,
+    "NOMBRE_MUNICIPIO": "Sant Josep de sa Talaia",
+    "LATITUD": "38º 53' 30\"",
+    "LONGITUD": "1º 13' 30\""
+  },
+  {
+    "ID_PLAYA": 704834,
+    "NOMBRE_PLAYA": "Ses Salines / Mitjon",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7048,
+    "NOMBRE_MUNICIPIO": "Sant Josep de sa Talaia",
+    "LATITUD": "38º 50' 34\"",
+    "LONGITUD": "1º 23' 29\""
+  },
+  {
+    "ID_PLAYA": 704836,
+    "NOMBRE_PLAYA": "En Bossa",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7048,
+    "NOMBRE_MUNICIPIO": "Sant Josep de sa Talaia",
+    "LATITUD": "38º 53' 15\"",
+    "LONGITUD": "1º 26' 17\""
+  },
+  {
+    "ID_PLAYA": 705005,
+    "NOMBRE_PLAYA": "Port Sant Miquel",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7050,
+    "NOMBRE_MUNICIPIO": "Sant Joan de Labritja",
+    "LATITUD": "39º 04' 54\"",
+    "LONGITUD": "1º 26' 29\""
+  },
+  {
+    "ID_PLAYA": 705016,
+    "NOMBRE_PLAYA": "Portinatx",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7050,
+    "NOMBRE_MUNICIPIO": "Sant Joan de Labritja",
+    "LATITUD": "39º 06' 55\"",
+    "LONGITUD": "1º 31' 17\""
+  },
+  {
+    "ID_PLAYA": 705019,
+    "NOMBRE_PLAYA": "Cala San Vicente",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7050,
+    "NOMBRE_MUNICIPIO": "Sant Joan de Labritja",
+    "LATITUD": "39º 04' 37\"",
+    "LONGITUD": "1º 35' 37\""
+  },
+  {
+    "ID_PLAYA": 705101,
+    "NOMBRE_PLAYA": "Cala Millor",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7051,
+    "NOMBRE_MUNICIPIO": "Sant Llorenç des Cardassar",
+    "LATITUD": "39º 35' 47\"",
+    "LONGITUD": "3º 23' 09\""
+  },
+  {
+    "ID_PLAYA": 705104,
+    "NOMBRE_PLAYA": "Sa Coma",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7051,
+    "NOMBRE_MUNICIPIO": "Sant Llorenç des Cardassar",
+    "LATITUD": "39º 34' 31\"",
+    "LONGITUD": "3º 22' 41\""
+  },
+  {
+    "ID_PLAYA": 705202,
+    "NOMBRE_PLAYA": "Punta Prima",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7052,
+    "NOMBRE_MUNICIPIO": "Sant Lluís",
+    "LATITUD": "39º 48' 53\"",
+    "LONGITUD": "4º 16' 54\""
+  },
+  {
+    "ID_PLAYA": 705416,
+    "NOMBRE_PLAYA": "Santa Eulària",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7054,
+    "NOMBRE_MUNICIPIO": "Santa Eulària des Riu",
+    "LATITUD": "38º 58' 58\"",
+    "LONGITUD": "1º 32' 33\""
+  },
+  {
+    "ID_PLAYA": 705418,
+    "NOMBRE_PLAYA": "Cala Llonga",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7054,
+    "NOMBRE_MUNICIPIO": "Santa Eulària des Riu",
+    "LATITUD": "38º 57' 13\"",
+    "LONGITUD": "1º 31' 16\""
+  },
+  {
+    "ID_PLAYA": 705501,
+    "NOMBRE_PLAYA": "C'An Picafort",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7055,
+    "NOMBRE_MUNICIPIO": "Santa Margalida",
+    "LATITUD": "39º 46' 14\"",
+    "LONGITUD": "3º 09' 06\""
+  },
+  {
+    "ID_PLAYA": 705706,
+    "NOMBRE_PLAYA": "Cala Mondragó",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7057,
+    "NOMBRE_MUNICIPIO": "Santanyí",
+    "LATITUD": "39º 21' 03\"",
+    "LONGITUD": "3º 11' 09\""
+  },
+  {
+    "ID_PLAYA": 705707,
+    "NOMBRE_PLAYA": "Cala Santanyí",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7057,
+    "NOMBRE_MUNICIPIO": "Santanyí",
+    "LATITUD": "39º 19' 53\"",
+    "LONGITUD": "3º 08' 52\""
+  },
+  {
+    "ID_PLAYA": 705904,
+    "NOMBRE_PLAYA": "Colonia de Sant Jordi / Ees Dolç",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7059,
+    "NOMBRE_MUNICIPIO": "Ses Salines",
+    "LATITUD": "39º 19' 03\"",
+    "LONGITUD": "3º 00' 18\""
+  },
+  {
+    "ID_PLAYA": 706101,
+    "NOMBRE_PLAYA": "Puerto de Sóller",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7061,
+    "NOMBRE_MUNICIPIO": "Sóller",
+    "LATITUD": "39º 47' 37\"",
+    "LONGITUD": "2º 41' 49\""
+  },
+  {
+    "ID_PLAYA": 706202,
+    "NOMBRE_PLAYA": "Es Ribell",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7062,
+    "NOMBRE_MUNICIPIO": "Son Servera",
+    "LATITUD": "39º 38' 12\"",
+    "LONGITUD": "3º 24' 17\""
+  },
+  {
+    "ID_PLAYA": 790202,
+    "NOMBRE_PLAYA": "Sant Tomas",
+    "ID_PROVINCIA": 7,
+    "NOMBRE_PROVINCIA": "Illes Balears",
+    "ID_MUNICIPIO": 7902,
+    "NOMBRE_MUNICIPIO": "Es Migjorn Gran",
+    "LATITUD": "39º 54' 54\"",
+    "LONGITUD": "4º 02' 32\""
+  },
+  {
+    "ID_PLAYA": 800601,
+    "NOMBRE_PLAYA": "D'Arenys",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8006,
+    "NOMBRE_MUNICIPIO": "Arenys de Mar",
+    "LATITUD": "41º 34' 46\"",
+    "LONGITUD": "2º 33' 12\""
+  },
+  {
+    "ID_PLAYA": 801502,
+    "NOMBRE_PLAYA": "Del Centre",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8015,
+    "NOMBRE_MUNICIPIO": "Badalona",
+    "LATITUD": "41º 27' 03\"",
+    "LONGITUD": "2º 15' 18\""
+  },
+  {
+    "ID_PLAYA": 801903,
+    "NOMBRE_PLAYA": "Del Bogatell",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8019,
+    "NOMBRE_MUNICIPIO": "Barcelona",
+    "LATITUD": "41º 23' 48\"",
+    "LONGITUD": "2º 12' 19\""
+  },
+  {
+    "ID_PLAYA": 801905,
+    "NOMBRE_PLAYA": "La Barceloneta",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8019,
+    "NOMBRE_MUNICIPIO": "Barcelona",
+    "LATITUD": "41º 23' 08\"",
+    "LONGITUD": "2º 12' 02\""
+  },
+  {
+    "ID_PLAYA": 802901,
+    "NOMBRE_PLAYA": "Cabrera",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8029,
+    "NOMBRE_MUNICIPIO": "Cabrera de Mar",
+    "LATITUD": "41º 30' 30\"",
+    "LONGITUD": "2º 24' 14\""
+  },
+  {
+    "ID_PLAYA": 803201,
+    "NOMBRE_PLAYA": "La Riera - Els Tres Micos",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8032,
+    "NOMBRE_MUNICIPIO": "Caldes d'Estrac",
+    "LATITUD": "41º 34' 01\"",
+    "LONGITUD": "2º 31' 22\""
+  },
+  {
+    "ID_PLAYA": 803501,
+    "NOMBRE_PLAYA": "Gran - Garbí",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8035,
+    "NOMBRE_MUNICIPIO": "Calella",
+    "LATITUD": "41º 36' 53\"",
+    "LONGITUD": "2º 39' 52\""
+  },
+  {
+    "ID_PLAYA": 804001,
+    "NOMBRE_PLAYA": "Canet",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8040,
+    "NOMBRE_MUNICIPIO": "Canet de Mar",
+    "LATITUD": "41º 35' 18\"",
+    "LONGITUD": "2º 35' 08\""
+  },
+  {
+    "ID_PLAYA": 805601,
+    "NOMBRE_PLAYA": "Castelldefels",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8056,
+    "NOMBRE_MUNICIPIO": "Castelldefels",
+    "LATITUD": "41º 15' 59\"",
+    "LONGITUD": "1º 58' 50\""
+  },
+  {
+    "ID_PLAYA": 807401,
+    "NOMBRE_PLAYA": "Llarga",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8074,
+    "NOMBRE_MUNICIPIO": "Cubelles",
+    "LATITUD": "41º 12' 12\"",
+    "LONGITUD": "1º 41' 05\""
+  },
+  {
+    "ID_PLAYA": 808901,
+    "NOMBRE_PLAYA": "Gavà",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8089,
+    "NOMBRE_MUNICIPIO": "Gavà",
+    "LATITUD": "41º 16' 03\"",
+    "LONGITUD": "2º 00' 47\""
+  },
+  {
+    "ID_PLAYA": 811002,
+    "NOMBRE_PLAYA": "Malgrat",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8110,
+    "NOMBRE_MUNICIPIO": "Malgrat de Mar",
+    "LATITUD": "41º 38' 45\"",
+    "LONGITUD": "2º 45' 05\""
+  },
+  {
+    "ID_PLAYA": 811801,
+    "NOMBRE_PLAYA": "Ocata",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8118,
+    "NOMBRE_MUNICIPIO": "El Masnou",
+    "LATITUD": "41º 29' 02\"",
+    "LONGITUD": "2º 20' 17\""
+  },
+  {
+    "ID_PLAYA": 812103,
+    "NOMBRE_PLAYA": "Varador",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8121,
+    "NOMBRE_MUNICIPIO": "Mataró",
+    "LATITUD": "41º 32' 13\"",
+    "LONGITUD": "2º 27' 02\""
+  },
+  {
+    "ID_PLAYA": 812602,
+    "NOMBRE_PLAYA": "Montgat",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8126,
+    "NOMBRE_MUNICIPIO": "Montgat",
+    "LATITUD": "41º 28' 06\"",
+    "LONGITUD": "2º 17' 04\""
+  },
+  {
+    "ID_PLAYA": 816301,
+    "NOMBRE_PLAYA": "Pineda de Mar",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8163,
+    "NOMBRE_MUNICIPIO": "Pineda de Mar",
+    "LATITUD": "41º 37' 24\"",
+    "LONGITUD": "2º 41' 41\""
+  },
+  {
+    "ID_PLAYA": 817203,
+    "NOMBRE_PLAYA": "Pla de l'Os",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8172,
+    "NOMBRE_MUNICIPIO": "Premià de Mar",
+    "LATITUD": "41º 29' 14\"",
+    "LONGITUD": "2º 21' 02\""
+  },
+  {
+    "ID_PLAYA": 819703,
+    "NOMBRE_PLAYA": "Sant Andreu de Llavaneres",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8197,
+    "NOMBRE_MUNICIPIO": "Sant Andreu de Llavaneres",
+    "LATITUD": "41º 33' 26\"",
+    "LONGITUD": "2º 30' 01\""
+  },
+  {
+    "ID_PLAYA": 823504,
+    "NOMBRE_PLAYA": "Sant Pol",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8235,
+    "NOMBRE_MUNICIPIO": "Sant Pol de Mar",
+    "LATITUD": "41º 36' 18\"",
+    "LONGITUD": "2º 37' 55\""
+  },
+  {
+    "ID_PLAYA": 826101,
+    "NOMBRE_PLAYA": "Santa Susanna",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8261,
+    "NOMBRE_MUNICIPIO": "Santa Susanna",
+    "LATITUD": "41º 37' 46\"",
+    "LONGITUD": "2º 42' 39\""
+  },
+  {
+    "ID_PLAYA": 826401,
+    "NOMBRE_PLAYA": "Sant Vicenç de Montalt",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8264,
+    "NOMBRE_MUNICIPIO": "Sant Vicenç de Montalt",
+    "LATITUD": "41º 33' 48\"",
+    "LONGITUD": "2º 30' 54\""
+  },
+  {
+    "ID_PLAYA": 827009,
+    "NOMBRE_PLAYA": "L'Estanyol",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8270,
+    "NOMBRE_MUNICIPIO": "Sitges",
+    "LATITUD": "41º 13' 59\"",
+    "LONGITUD": "1º 48' 05\""
+  },
+  {
+    "ID_PLAYA": 830702,
+    "NOMBRE_PLAYA": "Ribes Roges",
+    "ID_PROVINCIA": 8,
+    "NOMBRE_PROVINCIA": "Barcelona",
+    "ID_MUNICIPIO": 8307,
+    "NOMBRE_MUNICIPIO": "Vilanova i la Geltrú",
+    "LATITUD": "41º 12' 51\"",
+    "LONGITUD": "1º 43' 29\""
+  },
+  {
+    "ID_PLAYA": 1100401,
+    "NOMBRE_PLAYA": "El Rinconcillo",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11004,
+    "NOMBRE_MUNICIPIO": "Algeciras",
+    "LATITUD": "36º 09' 59\"",
+    "LONGITUD": "-05º 26' 13\""
+  },
+  {
+    "ID_PLAYA": 1100402,
+    "NOMBRE_PLAYA": "Getares / San García",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11004,
+    "NOMBRE_MUNICIPIO": "Algeciras",
+    "LATITUD": "36º 05' 41\"",
+    "LONGITUD": "-05º 26' 39\""
+  },
+  {
+    "ID_PLAYA": 1100702,
+    "NOMBRE_PLAYA": "Caños de Meca",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11007,
+    "NOMBRE_MUNICIPIO": "Barbate",
+    "LATITUD": "36º 11' 16\"",
+    "LONGITUD": "-06º 01' 36\""
+  },
+  {
+    "ID_PLAYA": 1100703,
+    "NOMBRE_PLAYA": "El Carmen",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11007,
+    "NOMBRE_MUNICIPIO": "Barbate",
+    "LATITUD": "36º 11' 17\"",
+    "LONGITUD": "-05º 55' 07\""
+  },
+  {
+    "ID_PLAYA": 1100706,
+    "NOMBRE_PLAYA": "Zahara de los Atunes",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11007,
+    "NOMBRE_MUNICIPIO": "Barbate",
+    "LATITUD": "36º 07' 53\"",
+    "LONGITUD": "-05º 50' 34\""
+  },
+  {
+    "ID_PLAYA": 1100801,
+    "NOMBRE_PLAYA": "Palmones",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11008,
+    "NOMBRE_MUNICIPIO": "Los Barrios",
+    "LATITUD": "36º 10' 35\"",
+    "LONGITUD": "-05º 25' 37\""
+  },
+  {
+    "ID_PLAYA": 1101201,
+    "NOMBRE_PLAYA": "La Caleta",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11012,
+    "NOMBRE_MUNICIPIO": "Cádiz",
+    "LATITUD": "36º 31' 50\"",
+    "LONGITUD": "-06º 18' 19\""
+  },
+  {
+    "ID_PLAYA": 1101203,
+    "NOMBRE_PLAYA": "La Victoria",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11012,
+    "NOMBRE_MUNICIPIO": "Cádiz",
+    "LATITUD": "36º 30' 01\"",
+    "LONGITUD": "-06º 16' 26\""
+  },
+  {
+    "ID_PLAYA": 1101401,
+    "NOMBRE_PLAYA": "Roche",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11014,
+    "NOMBRE_MUNICIPIO": "Conil de la Frontera",
+    "LATITUD": "36º 19' 07\"",
+    "LONGITUD": "-06º 09' 20\""
+  },
+  {
+    "ID_PLAYA": 1101406,
+    "NOMBRE_PLAYA": "La Fontanilla",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11014,
+    "NOMBRE_MUNICIPIO": "Conil de la Frontera",
+    "LATITUD": "36º 16' 42\"",
+    "LONGITUD": "-06º 05' 45\""
+  },
+  {
+    "ID_PLAYA": 1101503,
+    "NOMBRE_PLAYA": "La Barrosa",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11015,
+    "NOMBRE_MUNICIPIO": "Chiclana de la Frontera",
+    "LATITUD": "36º 21' 56\"",
+    "LONGITUD": "-06º 10' 43\""
+  },
+  {
+    "ID_PLAYA": 1101602,
+    "NOMBRE_PLAYA": "Cruz del Mar",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11016,
+    "NOMBRE_MUNICIPIO": "Chipiona",
+    "LATITUD": "36º 44' 38\"",
+    "LONGITUD": "-06º 26' 03\""
+  },
+  {
+    "ID_PLAYA": 1101604,
+    "NOMBRE_PLAYA": "Regla",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11016,
+    "NOMBRE_MUNICIPIO": "Chipiona",
+    "LATITUD": "36º 43' 57\"",
+    "LONGITUD": "-06º 26' 19\""
+  },
+  {
+    "ID_PLAYA": 1102205,
+    "NOMBRE_PLAYA": "Levante - La Atunara",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11022,
+    "NOMBRE_MUNICIPIO": "La Línea de la Concepción",
+    "LATITUD": "36º 10' 23\"",
+    "LONGITUD": "-05º 20' 10\""
+  },
+  {
+    "ID_PLAYA": 1102207,
+    "NOMBRE_PLAYA": "Poniente",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11022,
+    "NOMBRE_MUNICIPIO": "La Línea de la Concepción",
+    "LATITUD": "36º 09' 44\"",
+    "LONGITUD": "-05º 21' 26\""
+  },
+  {
+    "ID_PLAYA": 1102701,
+    "NOMBRE_PLAYA": "Fuentebravía - Santa Catalina",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11027,
+    "NOMBRE_MUNICIPIO": "El Puerto de Santa María",
+    "LATITUD": "36º 36' 04\"",
+    "LONGITUD": "-06º 16' 32\""
+  },
+  {
+    "ID_PLAYA": 1102704,
+    "NOMBRE_PLAYA": "La Puntilla",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11027,
+    "NOMBRE_MUNICIPIO": "El Puerto de Santa María",
+    "LATITUD": "36º 35' 14\"",
+    "LONGITUD": "-06º 14' 20\""
+  },
+  {
+    "ID_PLAYA": 1102705,
+    "NOMBRE_PLAYA": "Valdelagrana",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11027,
+    "NOMBRE_MUNICIPIO": "El Puerto de Santa María",
+    "LATITUD": "36º 34' 23\"",
+    "LONGITUD": "-06º 13' 24\""
+  },
+  {
+    "ID_PLAYA": 1103001,
+    "NOMBRE_PLAYA": "La Ballena",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11030,
+    "NOMBRE_MUNICIPIO": "Rota",
+    "LATITUD": "36º 41' 18\"",
+    "LONGITUD": "-06º 24' 59\""
+  },
+  {
+    "ID_PLAYA": 1103003,
+    "NOMBRE_PLAYA": "Punta Candor",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11030,
+    "NOMBRE_MUNICIPIO": "Rota",
+    "LATITUD": "36º 38' 59\"",
+    "LONGITUD": "-06º 23' 35\""
+  },
+  {
+    "ID_PLAYA": 1103005,
+    "NOMBRE_PLAYA": "La Costilla",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11030,
+    "NOMBRE_MUNICIPIO": "Rota",
+    "LATITUD": "36º 37' 07\"",
+    "LONGITUD": "-06º 21' 43\""
+  },
+  {
+    "ID_PLAYA": 1103006,
+    "NOMBRE_PLAYA": "El Rompidillo - El Chorrillo",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11030,
+    "NOMBRE_MUNICIPIO": "Rota",
+    "LATITUD": "36º 37' 30\"",
+    "LONGITUD": "-06º 20' 55\""
+  },
+  {
+    "ID_PLAYA": 1103101,
+    "NOMBRE_PLAYA": "Camposoto - El Castillo",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11031,
+    "NOMBRE_MUNICIPIO": "San Fernando",
+    "LATITUD": "36º 24' 22\"",
+    "LONGITUD": "-06º 13' 06\""
+  },
+  {
+    "ID_PLAYA": 1103203,
+    "NOMBRE_PLAYA": "La Calzada - Piletas",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11032,
+    "NOMBRE_MUNICIPIO": "Sanlúcar de Barrameda",
+    "LATITUD": "36º 46' 54\"",
+    "LONGITUD": "-06º 21' 50\""
+  },
+  {
+    "ID_PLAYA": 1103302,
+    "NOMBRE_PLAYA": "Torreguadiaro",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11033,
+    "NOMBRE_MUNICIPIO": "San Roque",
+    "LATITUD": "36º 17' 50\"",
+    "LONGITUD": "-05º 16' 13\""
+  },
+  {
+    "ID_PLAYA": 1103504,
+    "NOMBRE_PLAYA": "Bolonia",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11035,
+    "NOMBRE_MUNICIPIO": "Tarifa",
+    "LATITUD": "36º 05' 07\"",
+    "LONGITUD": "-05º 46' 01\""
+  },
+  {
+    "ID_PLAYA": 1103506,
+    "NOMBRE_PLAYA": "Los Lances",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11035,
+    "NOMBRE_MUNICIPIO": "Tarifa",
+    "LATITUD": "36º 02' 07\"",
+    "LONGITUD": "-05º 37' 29\""
+  },
+  {
+    "ID_PLAYA": 1103901,
+    "NOMBRE_PLAYA": "El Palmar",
+    "ID_PROVINCIA": 11,
+    "NOMBRE_PROVINCIA": "Cádiz",
+    "ID_MUNICIPIO": 11039,
+    "NOMBRE_MUNICIPIO": "Vejer de la Frontera",
+    "LATITUD": "36º 13' 11\"",
+    "LONGITUD": "-06º 03' 44\""
+  },
+  {
+    "ID_PLAYA": 1200402,
+    "NOMBRE_PLAYA": "Las Fuentes",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12004,
+    "NOMBRE_MUNICIPIO": "Alcalà de Xivert",
+    "LATITUD": "40º 15' 14\"",
+    "LONGITUD": "0º 17' 16\""
+  },
+  {
+    "ID_PLAYA": 1200403,
+    "NOMBRE_PLAYA": "El Carregador",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12004,
+    "NOMBRE_MUNICIPIO": "Alcalà de Xivert",
+    "LATITUD": "40º 14' 28\"",
+    "LONGITUD": "0º 16' 33\""
+  },
+  {
+    "ID_PLAYA": 1200902,
+    "NOMBRE_PLAYA": "La Torre",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12009,
+    "NOMBRE_MUNICIPIO": "Almassora",
+    "LATITUD": "39º 55' 26\"",
+    "LONGITUD": "-00º 00' 08\""
+  },
+  {
+    "ID_PLAYA": 1201101,
+    "NOMBRE_PLAYA": "Casa Blanca",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12011,
+    "NOMBRE_MUNICIPIO": "Almenara",
+    "LATITUD": "39º 41' 40\"",
+    "LONGITUD": "-00º 11' 58\""
+  },
+  {
+    "ID_PLAYA": 1202702,
+    "NOMBRE_PLAYA": "El Morrongo",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12027,
+    "NOMBRE_MUNICIPIO": "Benicarló",
+    "LATITUD": "40º 24' 48\"",
+    "LONGITUD": "0º 25' 56\""
+  },
+  {
+    "ID_PLAYA": 1202802,
+    "NOMBRE_PLAYA": "L'Almadrava",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12028,
+    "NOMBRE_MUNICIPIO": "Benicasim/Benicàssim",
+    "LATITUD": "40º 03' 12\"",
+    "LONGITUD": "0º 04' 38\""
+  },
+  {
+    "ID_PLAYA": 1202805,
+    "NOMBRE_PLAYA": "Heliopolis",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12028,
+    "NOMBRE_MUNICIPIO": "Benicasim/Benicàssim",
+    "LATITUD": "40º 01' 44\"",
+    "LONGITUD": "0º 02' 44\""
+  },
+  {
+    "ID_PLAYA": 1203201,
+    "NOMBRE_PLAYA": "El Arenal",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12032,
+    "NOMBRE_MUNICIPIO": "Borriana/Burriana",
+    "LATITUD": "39º 52' 03\"",
+    "LONGITUD": "-00º 03' 46\""
+  },
+  {
+    "ID_PLAYA": 1204003,
+    "NOMBRE_PLAYA": "El Pinar",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12040,
+    "NOMBRE_MUNICIPIO": "Castellón de la Plana/Castelló de la Plana",
+    "LATITUD": "39º 59' 17\"",
+    "LONGITUD": "-00º 01' 37\""
+  },
+  {
+    "ID_PLAYA": 1205301,
+    "NOMBRE_PLAYA": "Las Casas / Les Cases",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12053,
+    "NOMBRE_MUNICIPIO": "Chilches/Xilxes",
+    "LATITUD": "39º 46' 05\"",
+    "LONGITUD": "-00º 09' 54\""
+  },
+  {
+    "ID_PLAYA": 1207703,
+    "NOMBRE_PLAYA": "Masbo",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12077,
+    "NOMBRE_MUNICIPIO": "Moncofa",
+    "LATITUD": "39º 48' 02\"",
+    "LONGITUD": "-00º 07' 46\""
+  },
+  {
+    "ID_PLAYA": 1208201,
+    "NOMBRE_PLAYA": "Nules",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12082,
+    "NOMBRE_MUNICIPIO": "Nules",
+    "LATITUD": "39º 49' 33\"",
+    "LONGITUD": "-00º 06' 35\""
+  },
+  {
+    "ID_PLAYA": 1208502,
+    "NOMBRE_PLAYA": "Morro de Gos",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12085,
+    "NOMBRE_MUNICIPIO": "Oropesa del Mar/Orpesa",
+    "LATITUD": "40º 05' 35\"",
+    "LONGITUD": "0º 08' 49\""
+  },
+  {
+    "ID_PLAYA": 1208503,
+    "NOMBRE_PLAYA": "La Concha",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12085,
+    "NOMBRE_MUNICIPIO": "Oropesa del Mar/Orpesa",
+    "LATITUD": "40º 05' 83\"",
+    "LONGITUD": "0º 08' 20\""
+  },
+  {
+    "ID_PLAYA": 1208901,
+    "NOMBRE_PLAYA": "Playa Norte",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12089,
+    "NOMBRE_MUNICIPIO": "Peníscola/Peñíscola",
+    "LATITUD": "40º 21' 43\"",
+    "LONGITUD": "0º 24' 11\""
+  },
+  {
+    "ID_PLAYA": 1211701,
+    "NOMBRE_PLAYA": "Norte de Torreblanca",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12117,
+    "NOMBRE_MUNICIPIO": "Torreblanca",
+    "LATITUD": "40º 11' 42\"",
+    "LONGITUD": "0º 13' 29\""
+  },
+  {
+    "ID_PLAYA": 1213810,
+    "NOMBRE_PLAYA": "Forti",
+    "ID_PROVINCIA": 12,
+    "NOMBRE_PROVINCIA": "Castelló/Castellón",
+    "ID_MUNICIPIO": 12138,
+    "NOMBRE_MUNICIPIO": "Torrechiva",
+    "LATITUD": "40º 28' 12\"",
+    "LONGITUD": "0º 28' 43\""
+  },
+  {
+    "ID_PLAYA": 1500401,
+    "NOMBRE_PLAYA": "Ares",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15004,
+    "NOMBRE_MUNICIPIO": "Ares",
+    "LATITUD": "43º 25' 38\"",
+    "LONGITUD": "-08º 14' 30\""
+  },
+  {
+    "ID_PLAYA": 1500403,
+    "NOMBRE_PLAYA": "Seselle",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15004,
+    "NOMBRE_MUNICIPIO": "Ares",
+    "LATITUD": "43º 25' 43\"",
+    "LONGITUD": "-08º 13' 30\""
+  },
+  {
+    "ID_PLAYA": 1500501,
+    "NOMBRE_PLAYA": "Barrañán",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15005,
+    "NOMBRE_MUNICIPIO": "Arteixo",
+    "LATITUD": "43º 18' 42\"",
+    "LONGITUD": "-08º 32' 59\""
+  },
+  {
+    "ID_PLAYA": 1500801,
+    "NOMBRE_PLAYA": "Gandarío",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15008,
+    "NOMBRE_MUNICIPIO": "Bergondo",
+    "LATITUD": "43º 20' 36\"",
+    "LONGITUD": "-08º 14' 13\""
+  },
+  {
+    "ID_PLAYA": 1501101,
+    "NOMBRE_PLAYA": "Barraña",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15011,
+    "NOMBRE_MUNICIPIO": "Boiro",
+    "LATITUD": "42º 38' 22\"",
+    "LONGITUD": "-08º 53' 02\""
+  },
+  {
+    "ID_PLAYA": 1501103,
+    "NOMBRE_PLAYA": "Mañóns",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15011,
+    "NOMBRE_MUNICIPIO": "Boiro",
+    "LATITUD": "42º 36' 43\"",
+    "LONGITUD": "-08º 52' 20\""
+  },
+  {
+    "ID_PLAYA": 1501501,
+    "NOMBRE_PLAYA": "Magdalena, Cabanas",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15015,
+    "NOMBRE_MUNICIPIO": "Cabanas",
+    "LATITUD": "43º 25' 09\"",
+    "LONGITUD": "-08º 10' 11\""
+  },
+  {
+    "ID_PLAYA": 1501602,
+    "NOMBRE_PLAYA": "Arou",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15016,
+    "NOMBRE_MUNICIPIO": "Camariñas",
+    "LATITUD": "43º 11' 05\"",
+    "LONGITUD": "-09º 06' 22\""
+  },
+  {
+    "ID_PLAYA": 1501902,
+    "NOMBRE_PLAYA": "Razo-Baldaio",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15019,
+    "NOMBRE_MUNICIPIO": "Carballo",
+    "LATITUD": "43º 17' 54\"",
+    "LONGITUD": "-08º 40' 33\""
+  },
+  {
+    "ID_PLAYA": 1502001,
+    "NOMBRE_PLAYA": "Carnota",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15020,
+    "NOMBRE_MUNICIPIO": "Carnota",
+    "LATITUD": "42º 49' 27\"",
+    "LONGITUD": "-09º 06' 14\""
+  },
+  {
+    "ID_PLAYA": 1502202,
+    "NOMBRE_PLAYA": "Magdalena",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15022,
+    "NOMBRE_MUNICIPIO": "Cedeira",
+    "LATITUD": "43º 39' 14\"",
+    "LONGITUD": "-08º 02' 59\""
+  },
+  {
+    "ID_PLAYA": 1502301,
+    "NOMBRE_PLAYA": "Estorde",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15023,
+    "NOMBRE_MUNICIPIO": "Cee",
+    "LATITUD": "42º 56' 40\"",
+    "LONGITUD": "-09º 13' 01\""
+  },
+  {
+    "ID_PLAYA": 1502802,
+    "NOMBRE_PLAYA": "Quenxe",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15028,
+    "NOMBRE_MUNICIPIO": "Corcubión",
+    "LATITUD": "42º 56' 23\"",
+    "LONGITUD": "-09º 11' 23\""
+  },
+  {
+    "ID_PLAYA": 1503005,
+    "NOMBRE_PLAYA": "Riazor-Orzán",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15030,
+    "NOMBRE_MUNICIPIO": "A Coruña",
+    "LATITUD": "43º 22' 14\"",
+    "LONGITUD": "-08º 24' 21\""
+  },
+  {
+    "ID_PLAYA": 1503401,
+    "NOMBRE_PLAYA": "Ezaro",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15034,
+    "NOMBRE_MUNICIPIO": "Dumbría",
+    "LATITUD": "42º 54' 29\"",
+    "LONGITUD": "-09º 07' 29\""
+  },
+  {
+    "ID_PLAYA": 1503603,
+    "NOMBRE_PLAYA": "Doniños",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15036,
+    "NOMBRE_MUNICIPIO": "Ferrol",
+    "LATITUD": "43º 29' 59\"",
+    "LONGITUD": "-08º 19' 00\""
+  },
+  {
+    "ID_PLAYA": 1503608,
+    "NOMBRE_PLAYA": "San Xurxo",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15036,
+    "NOMBRE_MUNICIPIO": "Ferrol",
+    "LATITUD": "43º 31' 47\"",
+    "LONGITUD": "-08º 17' 43\""
+  },
+  {
+    "ID_PLAYA": 1503701,
+    "NOMBRE_PLAYA": "Langosteira",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15037,
+    "NOMBRE_MUNICIPIO": "Fisterra",
+    "LATITUD": "42º 55' 19\"",
+    "LONGITUD": "-09º 15' 41\""
+  },
+  {
+    "ID_PLAYA": 1503707,
+    "NOMBRE_PLAYA": "Sardiñeiro",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15037,
+    "NOMBRE_MUNICIPIO": "Fisterra",
+    "LATITUD": "42º 56' 30\"",
+    "LONGITUD": "-09º 13' 55\""
+  },
+  {
+    "ID_PLAYA": 1504001,
+    "NOMBRE_PLAYA": "Laxe",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15040,
+    "NOMBRE_MUNICIPIO": "Laxe",
+    "LATITUD": "43º 13' 04\"",
+    "LONGITUD": "-08º 59' 52\""
+  },
+  {
+    "ID_PLAYA": 1504101,
+    "NOMBRE_PLAYA": "Caión",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15041,
+    "NOMBRE_MUNICIPIO": "A Laracha",
+    "LATITUD": "43º 18' 56\"",
+    "LONGITUD": "-08º 36' 30\""
+  },
+  {
+    "ID_PLAYA": 1504302,
+    "NOMBRE_PLAYA": "Maior, Malpica",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15043,
+    "NOMBRE_MUNICIPIO": "Malpica de Bergantiños",
+    "LATITUD": "43º 19' 28\"",
+    "LONGITUD": "-08º 48' 54\""
+  },
+  {
+    "ID_PLAYA": 1504303,
+    "NOMBRE_PLAYA": "Barizo",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15043,
+    "NOMBRE_MUNICIPIO": "Malpica de Bergantiños",
+    "LATITUD": "43º 18' 47\"",
+    "LONGITUD": "-08º 52' 25\""
+  },
+  {
+    "ID_PLAYA": 1504402,
+    "NOMBRE_PLAYA": "Bares",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15044,
+    "NOMBRE_MUNICIPIO": "Mañón",
+    "LATITUD": "43º 46' 17\"",
+    "LONGITUD": "-07º 40' 28\""
+  },
+  {
+    "ID_PLAYA": 1504801,
+    "NOMBRE_PLAYA": "Grande de Miño",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15048,
+    "NOMBRE_MUNICIPIO": "Miño",
+    "LATITUD": "43º 21' 30\"",
+    "LONGITUD": "-08º 12' 33\""
+  },
+  {
+    "ID_PLAYA": 1504803,
+    "NOMBRE_PLAYA": "Perbes",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15048,
+    "NOMBRE_MUNICIPIO": "Miño",
+    "LATITUD": "43º 22' 35\"",
+    "LONGITUD": "-08º 12' 46\""
+  },
+  {
+    "ID_PLAYA": 1505202,
+    "NOMBRE_PLAYA": "Lago",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15052,
+    "NOMBRE_MUNICIPIO": "Muxía",
+    "LATITUD": "43º 06' 27\"",
+    "LONGITUD": "-09º 09' 51\""
+  },
+  {
+    "ID_PLAYA": 1505204,
+    "NOMBRE_PLAYA": "Os Muiños, Area Maior",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15052,
+    "NOMBRE_MUNICIPIO": "Muxía",
+    "LATITUD": "43º 05' 28\"",
+    "LONGITUD": "-09º 11' 28\""
+  },
+  {
+    "ID_PLAYA": 1505205,
+    "NOMBRE_PLAYA": "Lourido",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15052,
+    "NOMBRE_MUNICIPIO": "Muxía",
+    "LATITUD": "43º 05' 17\"",
+    "LONGITUD": "-09º 13' 17\""
+  },
+  {
+    "ID_PLAYA": 1505301,
+    "NOMBRE_PLAYA": "San Francisco",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15053,
+    "NOMBRE_MUNICIPIO": "Muros",
+    "LATITUD": "42º 45' 33\"",
+    "LONGITUD": "-09º 04' 24\""
+  },
+  {
+    "ID_PLAYA": 1505303,
+    "NOMBRE_PLAYA": "Esteiro",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15053,
+    "NOMBRE_MUNICIPIO": "Muros",
+    "LATITUD": "42º 47' 24\"",
+    "LONGITUD": "-08º 58' 06\""
+  },
+  {
+    "ID_PLAYA": 1505701,
+    "NOMBRE_PLAYA": "Boa Grande",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15057,
+    "NOMBRE_MUNICIPIO": "Noia",
+    "LATITUD": "42º 46' 45\"",
+    "LONGITUD": "-08º 55' 48\""
+  },
+  {
+    "ID_PLAYA": 1505703,
+    "NOMBRE_PLAYA": "Testal",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15057,
+    "NOMBRE_MUNICIPIO": "Noia",
+    "LATITUD": "42º 47' 27\"",
+    "LONGITUD": "-08º 54' 57\""
+  },
+  {
+    "ID_PLAYA": 1505801,
+    "NOMBRE_PLAYA": "Bastiagueiro",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15058,
+    "NOMBRE_MUNICIPIO": "Oleiros",
+    "LATITUD": "43º 20' 33\"",
+    "LONGITUD": "-08º 21' 40\""
+  },
+  {
+    "ID_PLAYA": 1505802,
+    "NOMBRE_PLAYA": "Mera",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15058,
+    "NOMBRE_MUNICIPIO": "Oleiros",
+    "LATITUD": "43º 22' 47\"",
+    "LONGITUD": "-08º 20' 17\""
+  },
+  {
+    "ID_PLAYA": 1505803,
+    "NOMBRE_PLAYA": "Santa Cristina",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15058,
+    "NOMBRE_MUNICIPIO": "Oleiros",
+    "LATITUD": "43º 20' 26\"",
+    "LONGITUD": "-08º 22' 42\""
+  },
+  {
+    "ID_PLAYA": 1506101,
+    "NOMBRE_PLAYA": "Espasante",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15061,
+    "NOMBRE_MUNICIPIO": "Ortigueira",
+    "LATITUD": "43º 43' 17\"",
+    "LONGITUD": "-07º 48' 27\""
+  },
+  {
+    "ID_PLAYA": 1506102,
+    "NOMBRE_PLAYA": "Morouzos",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15061,
+    "NOMBRE_MUNICIPIO": "Ortigueira",
+    "LATITUD": "43º 42' 10\"",
+    "LONGITUD": "-07º 50' 39\""
+  },
+  {
+    "ID_PLAYA": 1506201,
+    "NOMBRE_PLAYA": "Broña",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15062,
+    "NOMBRE_MUNICIPIO": "Outes",
+    "LATITUD": "42º 48' 12\"",
+    "LONGITUD": "-08º 55' 39\""
+  },
+  {
+    "ID_PLAYA": 1506701,
+    "NOMBRE_PLAYA": "Areal",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15067,
+    "NOMBRE_MUNICIPIO": "A Pobra do Caramiñal",
+    "LATITUD": "42º 35' 56\"",
+    "LONGITUD": "-08º 55' 54\""
+  },
+  {
+    "ID_PLAYA": 1506702,
+    "NOMBRE_PLAYA": "Cabío-Lombiña",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15067,
+    "NOMBRE_MUNICIPIO": "A Pobra do Caramiñal",
+    "LATITUD": "42º 35' 27\"",
+    "LONGITUD": "-08º 55' 15\""
+  },
+  {
+    "ID_PLAYA": 1506802,
+    "NOMBRE_PLAYA": "Balarés",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15068,
+    "NOMBRE_MUNICIPIO": "Ponteceso",
+    "LATITUD": "43º 14' 36\"",
+    "LONGITUD": "-08º 56' 25\""
+  },
+  {
+    "ID_PLAYA": 1506803,
+    "NOMBRE_PLAYA": "Hermida",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15068,
+    "NOMBRE_MUNICIPIO": "Ponteceso",
+    "LATITUD": "43º 15' 47\"",
+    "LONGITUD": "-08º 57' 01\""
+  },
+  {
+    "ID_PLAYA": 1506901,
+    "NOMBRE_PLAYA": "Ber",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15069,
+    "NOMBRE_MUNICIPIO": "Pontedeume",
+    "LATITUD": "43º 23' 55\"",
+    "LONGITUD": "-08º 12' 36\""
+  },
+  {
+    "ID_PLAYA": 1507101,
+    "NOMBRE_PLAYA": "Aguieira",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15071,
+    "NOMBRE_MUNICIPIO": "Porto do Son",
+    "LATITUD": "42º 44' 29\"",
+    "LONGITUD": "-08º 58' 06\""
+  },
+  {
+    "ID_PLAYA": 1507104,
+    "NOMBRE_PLAYA": "Coira",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15071,
+    "NOMBRE_MUNICIPIO": "Porto do Son",
+    "LATITUD": "42º 45' 22\"",
+    "LONGITUD": "-08º 56' 59\""
+  },
+  {
+    "ID_PLAYA": 1507109,
+    "NOMBRE_PLAYA": "Queiruga",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15071,
+    "NOMBRE_MUNICIPIO": "Porto do Son",
+    "LATITUD": "42º 40' 37\"",
+    "LONGITUD": "-09º 01' 45\""
+  },
+  {
+    "ID_PLAYA": 1507110,
+    "NOMBRE_PLAYA": "As Furnas",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15071,
+    "NOMBRE_MUNICIPIO": "Porto do Son",
+    "LATITUD": "42º 38' 50\"",
+    "LONGITUD": "-09º 02' 05\""
+  },
+  {
+    "ID_PLAYA": 1507111,
+    "NOMBRE_PLAYA": "Baroña",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15071,
+    "NOMBRE_MUNICIPIO": "Porto do Son",
+    "LATITUD": "42º 41' 25\"",
+    "LONGITUD": "-09º 01' 39\""
+  },
+  {
+    "ID_PLAYA": 1507202,
+    "NOMBRE_PLAYA": "Tanxil",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15072,
+    "NOMBRE_MUNICIPIO": "Rianxo",
+    "LATITUD": "42º 38' 44\"",
+    "LONGITUD": "-08º 48' 36\""
+  },
+  {
+    "ID_PLAYA": 1507302,
+    "NOMBRE_PLAYA": "O Castro, Aguiño",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15073,
+    "NOMBRE_MUNICIPIO": "Ribeira",
+    "LATITUD": "42º 31' 44\"",
+    "LONGITUD": "-09º 00' 27\""
+  },
+  {
+    "ID_PLAYA": 1507304,
+    "NOMBRE_PLAYA": "Coroso",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15073,
+    "NOMBRE_MUNICIPIO": "Ribeira",
+    "LATITUD": "42º 34' 04\"",
+    "LONGITUD": "-08º 59' 09\""
+  },
+  {
+    "ID_PLAYA": 1507305,
+    "NOMBRE_PLAYA": "Corrubedo",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15073,
+    "NOMBRE_MUNICIPIO": "Ribeira",
+    "LATITUD": "42º 34' 30\"",
+    "LONGITUD": "-09º 02' 49\""
+  },
+  {
+    "ID_PLAYA": 1507506,
+    "NOMBRE_PLAYA": "San Pedro",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15075,
+    "NOMBRE_MUNICIPIO": "Sada",
+    "LATITUD": "43º 23' 02\"",
+    "LONGITUD": "-08º 17' 14\""
+  },
+  {
+    "ID_PLAYA": 1507507,
+    "NOMBRE_PLAYA": "Sada",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15075,
+    "NOMBRE_MUNICIPIO": "Sada",
+    "LATITUD": "43º 20' 59\"",
+    "LONGITUD": "-08º 14' 55\""
+  },
+  {
+    "ID_PLAYA": 1508701,
+    "NOMBRE_PLAYA": "Frouxeira",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15087,
+    "NOMBRE_MUNICIPIO": "Valdoviño",
+    "LATITUD": "43º 36' 46\"",
+    "LONGITUD": "-08º 10' 10\""
+  },
+  {
+    "ID_PLAYA": 1590101,
+    "NOMBRE_PLAYA": "A Concha, Cariño",
+    "ID_PROVINCIA": 15,
+    "NOMBRE_PROVINCIA": "A Coruña",
+    "ID_MUNICIPIO": 15901,
+    "NOMBRE_MUNICIPIO": "Cariño",
+    "LATITUD": "43º 44' 11\"",
+    "LONGITUD": "-07º 52' 22\""
+  },
+  {
+    "ID_PLAYA": 1701303,
+    "NOMBRE_PLAYA": "Sa Riera",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17013,
+    "NOMBRE_MUNICIPIO": "Albanyà",
+    "LATITUD": "41º 58' 21\"",
+    "LONGITUD": "3º 12' 38\""
+  },
+  {
+    "ID_PLAYA": 1702303,
+    "NOMBRE_PLAYA": "Blanes",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17023,
+    "NOMBRE_MUNICIPIO": "Blanes",
+    "LATITUD": "41º 40' 30\"",
+    "LONGITUD": "2º 47' 35\""
+  },
+  {
+    "ID_PLAYA": 1702304,
+    "NOMBRE_PLAYA": "S'Abanell",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17023,
+    "NOMBRE_MUNICIPIO": "Blanes",
+    "LATITUD": "41º 40' 07\"",
+    "LONGITUD": "2º 47' 14\""
+  },
+  {
+    "ID_PLAYA": 1703209,
+    "NOMBRE_PLAYA": "Gran de Cadaqués",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17032,
+    "NOMBRE_MUNICIPIO": "Cadaqués",
+    "LATITUD": "42º 17' 20\"",
+    "LONGITUD": "3º 16' 43\""
+  },
+  {
+    "ID_PLAYA": 1703402,
+    "NOMBRE_PLAYA": "Torre Valentina - Sant Antoni",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17034,
+    "NOMBRE_MUNICIPIO": "Calonge",
+    "LATITUD": "41º 50' 38\"",
+    "LONGITUD": "3º 06' 00\""
+  },
+  {
+    "ID_PLAYA": 1704702,
+    "NOMBRE_PLAYA": "Empúriabrava",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17047,
+    "NOMBRE_MUNICIPIO": "Castelló d'Empúries",
+    "LATITUD": "42º 14' 34\"",
+    "LONGITUD": "3º 07' 47\""
+  },
+  {
+    "ID_PLAYA": 1704805,
+    "NOMBRE_PLAYA": "Platja d'Aro",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17048,
+    "NOMBRE_MUNICIPIO": "Castell-Platja d'Aro",
+    "LATITUD": "41º 48' 50\"",
+    "LONGITUD": "3º 04' 03\""
+  },
+  {
+    "ID_PLAYA": 1705402,
+    "NOMBRE_PLAYA": "En Goixa",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17054,
+    "NOMBRE_MUNICIPIO": "Colera",
+    "LATITUD": "42º 24' 22\"",
+    "LONGITUD": "3º 09' 19\""
+  },
+  {
+    "ID_PLAYA": 1706209,
+    "NOMBRE_PLAYA": "Riells",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17062,
+    "NOMBRE_MUNICIPIO": "L'Escala",
+    "LATITUD": "42º 06' 54\"",
+    "LONGITUD": "3º 08' 22\""
+  },
+  {
+    "ID_PLAYA": 1709203,
+    "NOMBRE_PLAYA": "El Port",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17092,
+    "NOMBRE_MUNICIPIO": "Llançà",
+    "LATITUD": "42º 22' 22\"",
+    "LONGITUD": "3º 09' 35\""
+  },
+  {
+    "ID_PLAYA": 1709507,
+    "NOMBRE_PLAYA": "Lloret",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17095,
+    "NOMBRE_MUNICIPIO": "Lloret de Mar",
+    "LATITUD": "41º 42' 02\"",
+    "LONGITUD": "2º 51' 08\""
+  },
+  {
+    "ID_PLAYA": 1709509,
+    "NOMBRE_PLAYA": "Fenals",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17095,
+    "NOMBRE_MUNICIPIO": "Lloret de Mar",
+    "LATITUD": "41º 41' 44\"",
+    "LONGITUD": "2º 50' 01\""
+  },
+  {
+    "ID_PLAYA": 1711703,
+    "NOMBRE_PLAYA": "Llafranc",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17117,
+    "NOMBRE_MUNICIPIO": "Palafrugell",
+    "LATITUD": "41º 53' 37\"",
+    "LONGITUD": "3º 11' 38\""
+  },
+  {
+    "ID_PLAYA": 1711804,
+    "NOMBRE_PLAYA": "De la Fosca",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17118,
+    "NOMBRE_MUNICIPIO": "Palamós",
+    "LATITUD": "41º 51' 28\"",
+    "LONGITUD": "3º 08' 36\""
+  },
+  {
+    "ID_PLAYA": 1712401,
+    "NOMBRE_PLAYA": "Pals",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17124,
+    "NOMBRE_MUNICIPIO": "Pals",
+    "LATITUD": "41º 59' 19\"",
+    "LONGITUD": "3º 12' 08\""
+  },
+  {
+    "ID_PLAYA": 1713803,
+    "NOMBRE_PLAYA": "Portbou",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17138,
+    "NOMBRE_MUNICIPIO": "Portbou",
+    "LATITUD": "42º 25' 38\"",
+    "LONGITUD": "3º 09' 38\""
+  },
+  {
+    "ID_PLAYA": 1714003,
+    "NOMBRE_PLAYA": "Port de la Selva",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17140,
+    "NOMBRE_MUNICIPIO": "El Port de la Selva",
+    "LATITUD": "42º 20' 06\"",
+    "LONGITUD": "3º 12' 05\""
+  },
+  {
+    "ID_PLAYA": 1715203,
+    "NOMBRE_PLAYA": "De Roses",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17152,
+    "NOMBRE_MUNICIPIO": "Roses",
+    "LATITUD": "42º 15' 51\"",
+    "LONGITUD": "3º 09' 42\""
+  },
+  {
+    "ID_PLAYA": 1716001,
+    "NOMBRE_PLAYA": "Sant Pol",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17160,
+    "NOMBRE_MUNICIPIO": "Sant Feliu de Guíxols",
+    "LATITUD": "41º 47' 26\"",
+    "LONGITUD": "3º 02' 56\""
+  },
+  {
+    "ID_PLAYA": 1716002,
+    "NOMBRE_PLAYA": "Sant Feliu de Guíxols",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17160,
+    "NOMBRE_MUNICIPIO": "Sant Feliu de Guíxols",
+    "LATITUD": "41º 46' 48\"",
+    "LONGITUD": "3º 01' 48\""
+  },
+  {
+    "ID_PLAYA": 1717801,
+    "NOMBRE_PLAYA": "Sant Pere Pescador",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17178,
+    "NOMBRE_MUNICIPIO": "Sant Pere Pescador",
+    "LATITUD": "42º 10' 43\"",
+    "LONGITUD": "3º 06' 36\""
+  },
+  {
+    "ID_PLAYA": 1719902,
+    "NOMBRE_PLAYA": "L'Estartit",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17199,
+    "NOMBRE_MUNICIPIO": "Torroella de Montgrí",
+    "LATITUD": "42º 02' 54\"",
+    "LONGITUD": "3º 11' 50\""
+  },
+  {
+    "ID_PLAYA": 1720207,
+    "NOMBRE_PLAYA": "Gran de Tossa",
+    "ID_PROVINCIA": 17,
+    "NOMBRE_PROVINCIA": "Girona",
+    "ID_MUNICIPIO": 17202,
+    "NOMBRE_MUNICIPIO": "Tossa de Mar",
+    "LATITUD": "41º 43' 13\"",
+    "LONGITUD": "2º 56' 04\""
+  },
+  {
+    "ID_PLAYA": 1800606,
+    "NOMBRE_PLAYA": "La Rábita",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18006,
+    "NOMBRE_MUNICIPIO": "Albuñol",
+    "LATITUD": "36º 44' 54\"",
+    "LONGITUD": "-03º 10' 15\""
+  },
+  {
+    "ID_PLAYA": 1801701,
+    "NOMBRE_PLAYA": "Cantarriján",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18017,
+    "NOMBRE_MUNICIPIO": "Almuñécar",
+    "LATITUD": "36º 44' 15\"",
+    "LONGITUD": "-03º 46' 21\""
+  },
+  {
+    "ID_PLAYA": 1801703,
+    "NOMBRE_PLAYA": "La Herradura",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18017,
+    "NOMBRE_MUNICIPIO": "Almuñécar",
+    "LATITUD": "36º 44' 08\"",
+    "LONGITUD": "-03º 44' 37\""
+  },
+  {
+    "ID_PLAYA": 1801707,
+    "NOMBRE_PLAYA": "San Cristobal-La China",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18017,
+    "NOMBRE_MUNICIPIO": "Almuñécar",
+    "LATITUD": "36º 43' 54\"",
+    "LONGITUD": "-03º 41' 10\""
+  },
+  {
+    "ID_PLAYA": 1801709,
+    "NOMBRE_PLAYA": "Puerta del Mar-Fuentepiedra",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18017,
+    "NOMBRE_MUNICIPIO": "Almuñécar",
+    "LATITUD": "36º 43' 51\"",
+    "LONGITUD": "-03º 41' 14\""
+  },
+  {
+    "ID_PLAYA": 1801710,
+    "NOMBRE_PLAYA": "Velilla",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18017,
+    "NOMBRE_MUNICIPIO": "Almuñécar",
+    "LATITUD": "36º 44' 22\"",
+    "LONGITUD": "-03º 40' 00\""
+  },
+  {
+    "ID_PLAYA": 1809302,
+    "NOMBRE_PLAYA": "Sotillo-Castell de Ferro",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18093,
+    "NOMBRE_MUNICIPIO": "Gualchos",
+    "LATITUD": "36º 43' 15\"",
+    "LONGITUD": "-03º 21' 34\""
+  },
+  {
+    "ID_PLAYA": 1812401,
+    "NOMBRE_PLAYA": "Cambriles",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18124,
+    "NOMBRE_MUNICIPIO": "Lújar",
+    "LATITUD": "36º 43' 48\"",
+    "LONGITUD": "-03º 20' 60\""
+  },
+  {
+    "ID_PLAYA": 1814002,
+    "NOMBRE_PLAYA": "Pelaillo-Poniente",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18140,
+    "NOMBRE_MUNICIPIO": "Motril",
+    "LATITUD": "36º 43' 22\"",
+    "LONGITUD": "-03º 32' 14\""
+  },
+  {
+    "ID_PLAYA": 1814004,
+    "NOMBRE_PLAYA": "Torrenueva",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18140,
+    "NOMBRE_MUNICIPIO": "Motril",
+    "LATITUD": "36º 42' 12\"",
+    "LONGITUD": "-03º 29' 13\""
+  },
+  {
+    "ID_PLAYA": 1814008,
+    "NOMBRE_PLAYA": "Calahonda",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18140,
+    "NOMBRE_MUNICIPIO": "Motril",
+    "LATITUD": "36º 41' 60\"",
+    "LONGITUD": "-03º 24' 52\""
+  },
+  {
+    "ID_PLAYA": 1816201,
+    "NOMBRE_PLAYA": "La Mamola",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18162,
+    "NOMBRE_MUNICIPIO": "Polopos",
+    "LATITUD": "36º 44' 53\"",
+    "LONGITUD": "-03º 16' 34\""
+  },
+  {
+    "ID_PLAYA": 1817001,
+    "NOMBRE_PLAYA": "El Lance",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18170,
+    "NOMBRE_MUNICIPIO": "Rubite",
+    "LATITUD": "36º 44' 25\"",
+    "LONGITUD": "-03º 18' 24\""
+  },
+  {
+    "ID_PLAYA": 1817304,
+    "NOMBRE_PLAYA": "La Charca-Solamar",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18173,
+    "NOMBRE_MUNICIPIO": "Salobreña",
+    "LATITUD": "36º 44' 13\"",
+    "LONGITUD": "-03º 35' 21\""
+  },
+  {
+    "ID_PLAYA": 1817704,
+    "NOMBRE_PLAYA": "Melicena",
+    "ID_PROVINCIA": 18,
+    "NOMBRE_PROVINCIA": "Granada",
+    "ID_MUNICIPIO": 18177,
+    "NOMBRE_MUNICIPIO": "Sorvilán",
+    "LATITUD": "36º 45' 15\"",
+    "LONGITUD": "-03º 14' 22\""
+  },
+  {
+    "ID_PLAYA": 2002901,
+    "NOMBRE_PLAYA": "Deba-Deva",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20029,
+    "NOMBRE_MUNICIPIO": "Deba",
+    "LATITUD": "43º 17' 59\"",
+    "LONGITUD": "-02º 21' 05\""
+  },
+  {
+    "ID_PLAYA": 2003602,
+    "NOMBRE_PLAYA": "Hondarribia-Fuenterrabía",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20036,
+    "NOMBRE_MUNICIPIO": "Hondarribia",
+    "LATITUD": "43º 22' 50\"",
+    "LONGITUD": "-01º 47' 36\""
+  },
+  {
+    "ID_PLAYA": 2003903,
+    "NOMBRE_PLAYA": "Gaztetape-Gastetape",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20039,
+    "NOMBRE_MUNICIPIO": "Getaria",
+    "LATITUD": "43º 18' 20\"",
+    "LONGITUD": "-02º 12' 18\""
+  },
+  {
+    "ID_PLAYA": 2003904,
+    "NOMBRE_PLAYA": "Malkorbe-Marcorbe",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20039,
+    "NOMBRE_MUNICIPIO": "Getaria",
+    "LATITUD": "43º 18' 12\"",
+    "LONGITUD": "-02º 12' 03\""
+  },
+  {
+    "ID_PLAYA": 2005601,
+    "NOMBRE_PLAYA": "Saturraran",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20056,
+    "NOMBRE_MUNICIPIO": "Mutriku",
+    "LATITUD": "43º 19' 23\"",
+    "LONGITUD": "-02º 24' 34\""
+  },
+  {
+    "ID_PLAYA": 2005604,
+    "NOMBRE_PLAYA": "Mutriku-Motrico",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20056,
+    "NOMBRE_MUNICIPIO": "Mutriku",
+    "LATITUD": "43º 18' 43\"",
+    "LONGITUD": "-02º 22' 45\""
+  },
+  {
+    "ID_PLAYA": 2006102,
+    "NOMBRE_PLAYA": "La Antilla-San Juan",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20061,
+    "NOMBRE_MUNICIPIO": "Orio",
+    "LATITUD": "43º 17' 32\"",
+    "LONGITUD": "-02º 07' 36\""
+  },
+  {
+    "ID_PLAYA": 2006902,
+    "NOMBRE_PLAYA": "Ondarreta-Ondarreta",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20069,
+    "NOMBRE_MUNICIPIO": "Donostia/San Sebastián",
+    "LATITUD": "43º 19' 05\"",
+    "LONGITUD": "-01º 59' 58\""
+  },
+  {
+    "ID_PLAYA": 2006904,
+    "NOMBRE_PLAYA": "La Kontxa-La Concha",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20069,
+    "NOMBRE_MUNICIPIO": "Donostia/San Sebastián",
+    "LATITUD": "43º 19' 02\"",
+    "LONGITUD": "-01º 59' 20\""
+  },
+  {
+    "ID_PLAYA": 2006905,
+    "NOMBRE_PLAYA": "La Zurriola",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20069,
+    "NOMBRE_MUNICIPIO": "Donostia/San Sebastián",
+    "LATITUD": "43º 19' 04\"",
+    "LONGITUD": "-01º 58' 25\""
+  },
+  {
+    "ID_PLAYA": 2007901,
+    "NOMBRE_PLAYA": "Zarautz-Zarauz",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20079,
+    "NOMBRE_MUNICIPIO": "Zarautz",
+    "LATITUD": "43º 17' 29\"",
+    "LONGITUD": "-02º 09' 43\""
+  },
+  {
+    "ID_PLAYA": 2008102,
+    "NOMBRE_PLAYA": "Itzurun-San Telmo",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20081,
+    "NOMBRE_MUNICIPIO": "Zumaia",
+    "LATITUD": "43º 18' 05\"",
+    "LONGITUD": "-02º 15' 37\""
+  },
+  {
+    "ID_PLAYA": 2008103,
+    "NOMBRE_PLAYA": "Santixo-Santiago",
+    "ID_PROVINCIA": 20,
+    "NOMBRE_PROVINCIA": "Gipuzkoa",
+    "ID_MUNICIPIO": 20081,
+    "NOMBRE_MUNICIPIO": "Zumaia",
+    "LATITUD": "43º 18' 10\"",
+    "LONGITUD": "-02º 14' 46\""
+  },
+  {
+    "ID_PLAYA": 2100502,
+    "NOMBRE_PLAYA": "Matalascañas",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21005,
+    "NOMBRE_MUNICIPIO": "Almonte",
+    "LATITUD": "36º 57' 32\"",
+    "LONGITUD": "-06º 29' 40\""
+  },
+  {
+    "ID_PLAYA": 2101001,
+    "NOMBRE_PLAYA": "Isla Canela",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21010,
+    "NOMBRE_MUNICIPIO": "Ayamonte",
+    "LATITUD": "37º 10' 24\"",
+    "LONGITUD": "-07º 22' 27\""
+  },
+  {
+    "ID_PLAYA": 2102102,
+    "NOMBRE_PLAYA": "El Portil",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21021,
+    "NOMBRE_MUNICIPIO": "Cartaya",
+    "LATITUD": "37º 12' 26\"",
+    "LONGITUD": "-07º 02' 17\""
+  },
+  {
+    "ID_PLAYA": 2104101,
+    "NOMBRE_PLAYA": "El Espigón",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21041,
+    "NOMBRE_MUNICIPIO": "Huelva",
+    "LATITUD": "37º 10' 34\"",
+    "LONGITUD": "-06º 56' 52\""
+  },
+  {
+    "ID_PLAYA": 2104202,
+    "NOMBRE_PLAYA": "Central",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21042,
+    "NOMBRE_MUNICIPIO": "Isla Cristina",
+    "LATITUD": "37º 11' 42\"",
+    "LONGITUD": "-07º 18' 25\""
+  },
+  {
+    "ID_PLAYA": 2104203,
+    "NOMBRE_PLAYA": "Del Hoyo",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21042,
+    "NOMBRE_MUNICIPIO": "Isla Cristina",
+    "LATITUD": "37º 11' 25\"",
+    "LONGITUD": "-07º 16' 51\""
+  },
+  {
+    "ID_PLAYA": 2104205,
+    "NOMBRE_PLAYA": "Islantilla",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21042,
+    "NOMBRE_MUNICIPIO": "Isla Cristina",
+    "LATITUD": "37º 12' 21\"",
+    "LONGITUD": "-07º 14' 19\""
+  },
+  {
+    "ID_PLAYA": 2104402,
+    "NOMBRE_PLAYA": "Antilla",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21044,
+    "NOMBRE_MUNICIPIO": "Lepe",
+    "LATITUD": "37º 12' 22\"",
+    "LONGITUD": "-07º 12' 29\""
+  },
+  {
+    "ID_PLAYA": 2105001,
+    "NOMBRE_PLAYA": "El Parador",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21050,
+    "NOMBRE_MUNICIPIO": "Moguer",
+    "LATITUD": "37º 06' 46\"",
+    "LONGITUD": "-06º 46' 27\""
+  },
+  {
+    "ID_PLAYA": 2105501,
+    "NOMBRE_PLAYA": "De Mazagón",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21055,
+    "NOMBRE_MUNICIPIO": "Palos de la Frontera",
+    "LATITUD": "37º 07' 52\"",
+    "LONGITUD": "-06º 49' 34\""
+  },
+  {
+    "ID_PLAYA": 2106002,
+    "NOMBRE_PLAYA": "La Bota",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21060,
+    "NOMBRE_MUNICIPIO": "Punta Umbría",
+    "LATITUD": "37º 12' 13\"",
+    "LONGITUD": "-07º 13' 09\""
+  },
+  {
+    "ID_PLAYA": 2106004,
+    "NOMBRE_PLAYA": "Punta Umbría",
+    "ID_PROVINCIA": 21,
+    "NOMBRE_PROVINCIA": "Huelva",
+    "ID_MUNICIPIO": 21060,
+    "NOMBRE_MUNICIPIO": "Punta Umbría",
+    "LATITUD": "37º 11' 31\"",
+    "LONGITUD": "-06º 59' 46\""
+  },
+  {
+    "ID_PLAYA": 2700501,
+    "NOMBRE_PLAYA": "Altar, San Cosme",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27005,
+    "NOMBRE_MUNICIPIO": "Barreiros",
+    "LATITUD": "43º 34' 03\"",
+    "LONGITUD": "-07º 14' 15\""
+  },
+  {
+    "ID_PLAYA": 2700503,
+    "NOMBRE_PLAYA": "San Miguel Reinante/Area Longa",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27005,
+    "NOMBRE_MUNICIPIO": "Barreiros",
+    "LATITUD": "43º 33' 55\"",
+    "LONGITUD": "-07º 12' 59\""
+  },
+  {
+    "ID_PLAYA": 2700504,
+    "NOMBRE_PLAYA": "Valea, Benquerencia",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27005,
+    "NOMBRE_MUNICIPIO": "Barreiros",
+    "LATITUD": "43º 33' 50\"",
+    "LONGITUD": "-07º 12' 22\""
+  },
+  {
+    "ID_PLAYA": 2701302,
+    "NOMBRE_PLAYA": "O Torno",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27013,
+    "NOMBRE_MUNICIPIO": "Cervo",
+    "LATITUD": "43º 41' 53\"",
+    "LONGITUD": "-07º 26' 23\""
+  },
+  {
+    "ID_PLAYA": 2701901,
+    "NOMBRE_PLAYA": "A Rapadoira",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27019,
+    "NOMBRE_MUNICIPIO": "Foz",
+    "LATITUD": "43º 34' 22\"",
+    "LONGITUD": "-07º 14' 50\""
+  },
+  {
+    "ID_PLAYA": 2701902,
+    "NOMBRE_PLAYA": "Area Longa",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27019,
+    "NOMBRE_MUNICIPIO": "Foz",
+    "LATITUD": "43º 36' 25\"",
+    "LONGITUD": "-07º 18' 11\""
+  },
+  {
+    "ID_PLAYA": 2702501,
+    "NOMBRE_PLAYA": "Esteiro",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27025,
+    "NOMBRE_MUNICIPIO": "Xove",
+    "LATITUD": "43º 42' 42\"",
+    "LONGITUD": "-07º 33' 29\""
+  },
+  {
+    "ID_PLAYA": 2702503,
+    "NOMBRE_PLAYA": "Lago",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27025,
+    "NOMBRE_MUNICIPIO": "Xove",
+    "LATITUD": "43º 42' 35\"",
+    "LONGITUD": "-07º 28' 45\""
+  },
+  {
+    "ID_PLAYA": 2705005,
+    "NOMBRE_PLAYA": "Os Castros",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27050,
+    "NOMBRE_MUNICIPIO": "Quiroga",
+    "LATITUD": "43º 33' 25\"",
+    "LONGITUD": "-07º 02' 55\""
+  },
+  {
+    "ID_PLAYA": 2705101,
+    "NOMBRE_PLAYA": "As Catedrais",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27051,
+    "NOMBRE_MUNICIPIO": "Ribadeo",
+    "LATITUD": "43º 33' 19\"",
+    "LONGITUD": "-07º 09' 31\""
+  },
+  {
+    "ID_PLAYA": 2706401,
+    "NOMBRE_PLAYA": "Abrela",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27064,
+    "NOMBRE_MUNICIPIO": "O Vicedo",
+    "LATITUD": "43º 42' 04\"",
+    "LONGITUD": "-07º 36' 47\""
+  },
+  {
+    "ID_PLAYA": 2706402,
+    "NOMBRE_PLAYA": "Area Longa",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27064,
+    "NOMBRE_MUNICIPIO": "O Vicedo",
+    "LATITUD": "43º 43' 59\"",
+    "LONGITUD": "-07º 41' 34\""
+  },
+  {
+    "ID_PLAYA": 2706403,
+    "NOMBRE_PLAYA": "Areagrande, San Roman",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27064,
+    "NOMBRE_MUNICIPIO": "O Vicedo",
+    "LATITUD": "43º 43' 07\"",
+    "LONGITUD": "-07º 37' 32\""
+  },
+  {
+    "ID_PLAYA": 2706405,
+    "NOMBRE_PLAYA": "Xilloi",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27064,
+    "NOMBRE_MUNICIPIO": "O Vicedo",
+    "LATITUD": "43º 44' 40\"",
+    "LONGITUD": "-07º 39' 06\""
+  },
+  {
+    "ID_PLAYA": 2706601,
+    "NOMBRE_PLAYA": "Area",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27066,
+    "NOMBRE_MUNICIPIO": "Viveiro",
+    "LATITUD": "43º 41' 33\"",
+    "LONGITUD": "-07º 34' 34\""
+  },
+  {
+    "ID_PLAYA": 2706602,
+    "NOMBRE_PLAYA": "Covas",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27066,
+    "NOMBRE_MUNICIPIO": "Viveiro",
+    "LATITUD": "43º 40' 17\"",
+    "LONGITUD": "-07º 36' 08\""
+  },
+  {
+    "ID_PLAYA": 2790201,
+    "NOMBRE_PLAYA": "A Marosa",
+    "ID_PROVINCIA": 27,
+    "NOMBRE_PROVINCIA": "Lugo",
+    "ID_MUNICIPIO": 27902,
+    "NOMBRE_MUNICIPIO": "Burela",
+    "LATITUD": "43º 40' 30\"",
+    "LONGITUD": "-07º 22' 19\""
+  },
+  {
+    "ID_PLAYA": 2902503,
+    "NOMBRE_PLAYA": "Bil-Bil y Arroyo de la Miel",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29025,
+    "NOMBRE_MUNICIPIO": "Benalmádena",
+    "LATITUD": "36º 35' 24\"",
+    "LONGITUD": "-04º 31' 41\""
+  },
+  {
+    "ID_PLAYA": 2902514,
+    "NOMBRE_PLAYA": "Carvajal",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29025,
+    "NOMBRE_MUNICIPIO": "Benalmádena",
+    "LATITUD": "36º 34' 20\"",
+    "LONGITUD": "-04º 35' 20\""
+  },
+  {
+    "ID_PLAYA": 2904101,
+    "NOMBRE_PLAYA": "Ancha",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29041,
+    "NOMBRE_MUNICIPIO": "Casares",
+    "LATITUD": "36º 22' 38\"",
+    "LONGITUD": "-05º 13' 10\""
+  },
+  {
+    "ID_PLAYA": 2905106,
+    "NOMBRE_PLAYA": "La Rada",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29051,
+    "NOMBRE_MUNICIPIO": "Estepona",
+    "LATITUD": "36º 25' 29\"",
+    "LONGITUD": "-05º 08' 41\""
+  },
+  {
+    "ID_PLAYA": 2905402,
+    "NOMBRE_PLAYA": "Los Boliches - Las Gaviotas",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29054,
+    "NOMBRE_MUNICIPIO": "Fuengirola",
+    "LATITUD": "36º 33' 29\"",
+    "LONGITUD": "-04º 36' 31\""
+  },
+  {
+    "ID_PLAYA": 2906707,
+    "NOMBRE_PLAYA": "La Malagueta",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29067,
+    "NOMBRE_MUNICIPIO": "Málaga",
+    "LATITUD": "36º 43' 09\"",
+    "LONGITUD": "-04º 24' 28\""
+  },
+  {
+    "ID_PLAYA": 2906712,
+    "NOMBRE_PLAYA": "El Dedo - El Chanquete",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29067,
+    "NOMBRE_MUNICIPIO": "Málaga",
+    "LATITUD": "36º 43' 01\"",
+    "LONGITUD": "-04º 20' 58\""
+  },
+  {
+    "ID_PLAYA": 2906801,
+    "NOMBRE_PLAYA": "Sabinillas",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29068,
+    "NOMBRE_MUNICIPIO": "Manilva",
+    "LATITUD": "36º 21' 59\"",
+    "LONGITUD": "-05º 13' 28\""
+  },
+  {
+    "ID_PLAYA": 2906906,
+    "NOMBRE_PLAYA": "Rio Verde - Puerto Banús",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29069,
+    "NOMBRE_MUNICIPIO": "Marbella",
+    "LATITUD": "36º 29' 47\"",
+    "LONGITUD": "-04º 56' 32\""
+  },
+  {
+    "ID_PLAYA": 2906912,
+    "NOMBRE_PLAYA": "La Bajadilla",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29069,
+    "NOMBRE_MUNICIPIO": "Marbella",
+    "LATITUD": "36º 30' 28\"",
+    "LONGITUD": "-04º 52' 38\""
+  },
+  {
+    "ID_PLAYA": 2906921,
+    "NOMBRE_PLAYA": "Alicate - Costa Bella - Pinomar",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29069,
+    "NOMBRE_MUNICIPIO": "Marbella",
+    "LATITUD": "36º 29' 54\"",
+    "LONGITUD": "-04º 48' 34\""
+  },
+  {
+    "ID_PLAYA": 2907002,
+    "NOMBRE_PLAYA": "La Butibamba",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29070,
+    "NOMBRE_MUNICIPIO": "Mijas",
+    "LATITUD": "36º 30' 01\"",
+    "LONGITUD": "-04º 40' 58\""
+  },
+  {
+    "ID_PLAYA": 2907502,
+    "NOMBRE_PLAYA": "Torrecilla",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29075,
+    "NOMBRE_MUNICIPIO": "Nerja",
+    "LATITUD": "36º 44' 31\"",
+    "LONGITUD": "-03º 52' 58\""
+  },
+  {
+    "ID_PLAYA": 2907509,
+    "NOMBRE_PLAYA": "Burriana",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29075,
+    "NOMBRE_MUNICIPIO": "Nerja",
+    "LATITUD": "36º 45' 05\"",
+    "LONGITUD": "-03º 51' 57\""
+  },
+  {
+    "ID_PLAYA": 2908202,
+    "NOMBRE_PLAYA": "Rincón de la Victoria",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29082,
+    "NOMBRE_MUNICIPIO": "Rincón de la Victoria",
+    "LATITUD": "36º 42' 51\"",
+    "LONGITUD": "-04º 16' 51\""
+  },
+  {
+    "ID_PLAYA": 2909103,
+    "NOMBRE_PLAYA": "Ferrara - Las Lindes",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29091,
+    "NOMBRE_MUNICIPIO": "Torrox",
+    "LATITUD": "36º 43' 55\"",
+    "LONGITUD": "-03º 58' 33\""
+  },
+  {
+    "ID_PLAYA": 2909406,
+    "NOMBRE_PLAYA": "Torre del Mar",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29094,
+    "NOMBRE_MUNICIPIO": "Vélez-Málaga",
+    "LATITUD": "36º 44' 34\"",
+    "LONGITUD": "-04º 05' 16\""
+  },
+  {
+    "ID_PLAYA": 2990102,
+    "NOMBRE_PLAYA": "La Carihuela - El Bajondillo - Playamar",
+    "ID_PROVINCIA": 29,
+    "NOMBRE_PROVINCIA": "Málaga",
+    "ID_MUNICIPIO": 29901,
+    "NOMBRE_MUNICIPIO": "Torremolinos",
+    "LATITUD": "36º 37' 18\"",
+    "LONGITUD": "-04º 29' 40\""
+  },
+  {
+    "ID_PLAYA": 3000301,
+    "NOMBRE_PLAYA": "La Carolina",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30003,
+    "NOMBRE_MUNICIPIO": "Águilas",
+    "LATITUD": "37º 22' 36\"",
+    "LONGITUD": "-01º 37' 40\""
+  },
+  {
+    "ID_PLAYA": 3000312,
+    "NOMBRE_PLAYA": "La Colonia",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30003,
+    "NOMBRE_MUNICIPIO": "Águilas",
+    "LATITUD": "37º 24' 05\"",
+    "LONGITUD": "-01º 35' 26\""
+  },
+  {
+    "ID_PLAYA": 3000313,
+    "NOMBRE_PLAYA": "Poniente",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30003,
+    "NOMBRE_MUNICIPIO": "Águilas",
+    "LATITUD": "37º 24' 09\"",
+    "LONGITUD": "-01º 35' 08\""
+  },
+  {
+    "ID_PLAYA": 3000314,
+    "NOMBRE_PLAYA": "Levante",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30003,
+    "NOMBRE_MUNICIPIO": "Águilas",
+    "LATITUD": "37º 24' 23\"",
+    "LONGITUD": "-01º 34' 36\""
+  },
+  {
+    "ID_PLAYA": 3000315,
+    "NOMBRE_PLAYA": "Las Delicias",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30003,
+    "NOMBRE_MUNICIPIO": "Águilas",
+    "LATITUD": "37º 24' 25\"",
+    "LONGITUD": "-01º 34' 03\""
+  },
+  {
+    "ID_PLAYA": 3000327,
+    "NOMBRE_PLAYA": "Calabardina",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30003,
+    "NOMBRE_MUNICIPIO": "Águilas",
+    "LATITUD": "37º 25' 48\"",
+    "LONGITUD": "-01º 30' 05\""
+  },
+  {
+    "ID_PLAYA": 3001610,
+    "NOMBRE_PLAYA": "La Azohía",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 33' 22\"",
+    "LONGITUD": "-01º 10' 09\""
+  },
+  {
+    "ID_PLAYA": 3001619,
+    "NOMBRE_PLAYA": "El Portús",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 35' 03\"",
+    "LONGITUD": "-01º 04' 27\""
+  },
+  {
+    "ID_PLAYA": 3001624,
+    "NOMBRE_PLAYA": "Cala Cortina",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 34' 52\"",
+    "LONGITUD": "-00º 58' 28\""
+  },
+  {
+    "ID_PLAYA": 3001634,
+    "NOMBRE_PLAYA": "De Calblanque",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 36' 16\"",
+    "LONGITUD": "-00º 43' 44\""
+  },
+  {
+    "ID_PLAYA": 3001653,
+    "NOMBRE_PLAYA": "Las Amoladeras",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 38' 50\"",
+    "LONGITUD": "-00º 42' 48\""
+  },
+  {
+    "ID_PLAYA": 3001655,
+    "NOMBRE_PLAYA": "Barco Perdido, Galúa",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 39' 41\"",
+    "LONGITUD": "-00º 43' 16\""
+  },
+  {
+    "ID_PLAYA": 3001676,
+    "NOMBRE_PLAYA": "Los Urrutias",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30016,
+    "NOMBRE_MUNICIPIO": "Cartagena",
+    "LATITUD": "37º 41' 04\"",
+    "LONGITUD": "-00º 49' 51\""
+  },
+  {
+    "ID_PLAYA": 3002414,
+    "NOMBRE_PLAYA": "Puntas de Calnegre",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30024,
+    "NOMBRE_MUNICIPIO": "Lorca",
+    "LATITUD": "37º 30' 37\"",
+    "LONGITUD": "-01º 24' 05\""
+  },
+  {
+    "ID_PLAYA": 3002618,
+    "NOMBRE_PLAYA": "Bolnuevo",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30026,
+    "NOMBRE_MUNICIPIO": "Mazarrón",
+    "LATITUD": "37º 33' 40\"",
+    "LONGITUD": "-01º 18' 24\""
+  },
+  {
+    "ID_PLAYA": 3002623,
+    "NOMBRE_PLAYA": "La Reya",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30026,
+    "NOMBRE_MUNICIPIO": "Mazarrón",
+    "LATITUD": "37º 33' 33\"",
+    "LONGITUD": "-01º 16' 34\""
+  },
+  {
+    "ID_PLAYA": 3002626,
+    "NOMBRE_PLAYA": "La Isla",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30026,
+    "NOMBRE_MUNICIPIO": "Mazarrón",
+    "LATITUD": "37º 33' 34\"",
+    "LONGITUD": "-01º 15' 53\""
+  },
+  {
+    "ID_PLAYA": 3002630,
+    "NOMBRE_PLAYA": "El Alamillo",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30026,
+    "NOMBRE_MUNICIPIO": "Mazarrón",
+    "LATITUD": "37º 34' 36\"",
+    "LONGITUD": "-01º 14' 38\""
+  },
+  {
+    "ID_PLAYA": 3002633,
+    "NOMBRE_PLAYA": "Del Mojón",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30026,
+    "NOMBRE_MUNICIPIO": "Mazarrón",
+    "LATITUD": "37º 34' 34\"",
+    "LONGITUD": "-01º 13' 38\""
+  },
+  {
+    "ID_PLAYA": 3003503,
+    "NOMBRE_PLAYA": "De Colón",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30035,
+    "NOMBRE_MUNICIPIO": "San Javier",
+    "LATITUD": "37º 48' 03\"",
+    "LONGITUD": "-00º 48' 05\""
+  },
+  {
+    "ID_PLAYA": 3003509,
+    "NOMBRE_PLAYA": "Mistral",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30035,
+    "NOMBRE_MUNICIPIO": "San Javier",
+    "LATITUD": "37º 45' 28\"",
+    "LONGITUD": "-00º 44' 48\""
+  },
+  {
+    "ID_PLAYA": 3003526,
+    "NOMBRE_PLAYA": "El Arenal",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30035,
+    "NOMBRE_MUNICIPIO": "San Javier",
+    "LATITUD": "37º 41' 32\"",
+    "LONGITUD": "-00º 44' 10\""
+  },
+  {
+    "ID_PLAYA": 3003531,
+    "NOMBRE_PLAYA": "Banco del Tabal",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30035,
+    "NOMBRE_MUNICIPIO": "San Javier",
+    "LATITUD": "37º 40' 25\"",
+    "LONGITUD": "-00º 43' 45\""
+  },
+  {
+    "ID_PLAYA": 3003602,
+    "NOMBRE_PLAYA": "Villananitos",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30036,
+    "NOMBRE_MUNICIPIO": "San Pedro del Pinatar",
+    "LATITUD": "37º 49' 00\"",
+    "LONGITUD": "-00º 47' 03\""
+  },
+  {
+    "ID_PLAYA": 3003605,
+    "NOMBRE_PLAYA": "La Torre Derribada",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30036,
+    "NOMBRE_MUNICIPIO": "San Pedro del Pinatar",
+    "LATITUD": "37º 50' 09\"",
+    "LONGITUD": "-00º 45' 39\""
+  },
+  {
+    "ID_PLAYA": 3003606,
+    "NOMBRE_PLAYA": "Las Salinas",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30036,
+    "NOMBRE_MUNICIPIO": "San Pedro del Pinatar",
+    "LATITUD": "37º 49' 04\"",
+    "LONGITUD": "-00º 45' 25\""
+  },
+  {
+    "ID_PLAYA": 3004102,
+    "NOMBRE_PLAYA": "Del Lastre",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30041,
+    "NOMBRE_MUNICIPIO": "La Unión",
+    "LATITUD": "37º 34' 48\"",
+    "LONGITUD": "-00º 50' 36\""
+  },
+  {
+    "ID_PLAYA": 3090202,
+    "NOMBRE_PLAYA": "Punta Calera",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30902,
+    "NOMBRE_MUNICIPIO": "Los Alcázares",
+    "LATITUD": "37º 45' 14\"",
+    "LONGITUD": "-00º 49' 52\""
+  },
+  {
+    "ID_PLAYA": 3090205,
+    "NOMBRE_PLAYA": "El Espejo",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30902,
+    "NOMBRE_MUNICIPIO": "Los Alcázares",
+    "LATITUD": "37º 44' 35\"",
+    "LONGITUD": "-00º 50' 51\""
+  },
+  {
+    "ID_PLAYA": 3090206,
+    "NOMBRE_PLAYA": "Manzanares",
+    "ID_PROVINCIA": 30,
+    "NOMBRE_PROVINCIA": "Murcia",
+    "ID_MUNICIPIO": 30902,
+    "NOMBRE_MUNICIPIO": "Los Alcázares",
+    "LATITUD": "37º 44' 29\"",
+    "LONGITUD": "-00º 50' 55\""
+  },
+  {
+    "ID_PLAYA": 3301303,
+    "NOMBRE_PLAYA": "Arenal de Moris",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33013,
+    "NOMBRE_MUNICIPIO": "Caravia",
+    "LATITUD": "43º 28' 32\"",
+    "LONGITUD": "-05º 10' 24\""
+  },
+  {
+    "ID_PLAYA": 3301403,
+    "NOMBRE_PLAYA": "Candás - La Palmera",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33014,
+    "NOMBRE_MUNICIPIO": "Carreño",
+    "LATITUD": "43º 35' 21\"",
+    "LONGITUD": "-05º 45' 36\""
+  },
+  {
+    "ID_PLAYA": 3301406,
+    "NOMBRE_PLAYA": "Xivares",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33014,
+    "NOMBRE_MUNICIPIO": "Carreño",
+    "LATITUD": "43º 34' 14\"",
+    "LONGITUD": "-05º 43' 06\""
+  },
+  {
+    "ID_PLAYA": 3301608,
+    "NOMBRE_PLAYA": "Salinas - San Juan, El Espartal",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33016,
+    "NOMBRE_MUNICIPIO": "Castrillón",
+    "LATITUD": "43º 34' 57\"",
+    "LONGITUD": "-05º 56' 53\""
+  },
+  {
+    "ID_PLAYA": 3301704,
+    "NOMBRE_PLAYA": "Peñarronda",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33017,
+    "NOMBRE_MUNICIPIO": "Castropol",
+    "LATITUD": "43º 33' 12\"",
+    "LONGITUD": "-06º 59' 38\""
+  },
+  {
+    "ID_PLAYA": 3301804,
+    "NOMBRE_PLAYA": "Arnielles",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33018,
+    "NOMBRE_MUNICIPIO": "Coaña",
+    "LATITUD": "43º 33' 40\"",
+    "LONGITUD": "-06º 43' 50\""
+  },
+  {
+    "ID_PLAYA": 3301903,
+    "NOMBRE_PLAYA": "La Isla",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33019,
+    "NOMBRE_MUNICIPIO": "Colunga",
+    "LATITUD": "43º 28' 46\"",
+    "LONGITUD": "-05º 13' 20\""
+  },
+  {
+    "ID_PLAYA": 3302117,
+    "NOMBRE_PLAYA": "San Pedro de Bocamar",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33021,
+    "NOMBRE_MUNICIPIO": "Cudillero",
+    "LATITUD": "43º 34' 46\"",
+    "LONGITUD": "-06º 13' 10\""
+  },
+  {
+    "ID_PLAYA": 3302120,
+    "NOMBRE_PLAYA": "La Concha de Artedo",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33021,
+    "NOMBRE_MUNICIPIO": "Cudillero",
+    "LATITUD": "43º 33' 53\"",
+    "LONGITUD": "-06º 11' 13\""
+  },
+  {
+    "ID_PLAYA": 3302302,
+    "NOMBRE_PLAYA": "Pormenande",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33023,
+    "NOMBRE_MUNICIPIO": "El Franco",
+    "LATITUD": "43º 33' 53\"",
+    "LONGITUD": "-06º 49' 33\""
+  },
+  {
+    "ID_PLAYA": 3302403,
+    "NOMBRE_PLAYA": "San Lorenzo",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33024,
+    "NOMBRE_MUNICIPIO": "Gijón",
+    "LATITUD": "43º 32' 31\"",
+    "LONGITUD": "-05º 39' 06\""
+  },
+  {
+    "ID_PLAYA": 3302509,
+    "NOMBRE_PLAYA": "Santa Marina de Luanco",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33025,
+    "NOMBRE_MUNICIPIO": "Gozón",
+    "LATITUD": "43º 37' 10\"",
+    "LONGITUD": "-05º 47' 13\""
+  },
+  {
+    "ID_PLAYA": 3303402,
+    "NOMBRE_PLAYA": "Otur",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33034,
+    "NOMBRE_MUNICIPIO": "Valdés",
+    "LATITUD": "43º 33' 13\"",
+    "LONGITUD": "-06º 35' 47\""
+  },
+  {
+    "ID_PLAYA": 3303407,
+    "NOMBRE_PLAYA": "Primera y Segunda de Luarca",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33034,
+    "NOMBRE_MUNICIPIO": "Valdés",
+    "LATITUD": "43º 32' 51\"",
+    "LONGITUD": "-06º 32' 13\""
+  },
+  {
+    "ID_PLAYA": 3303612,
+    "NOMBRE_PLAYA": "Niembro, Toranda",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33036,
+    "NOMBRE_MUNICIPIO": "Llanes",
+    "LATITUD": "43º 26' 30\"",
+    "LONGITUD": "-04º 50' 18\""
+  },
+  {
+    "ID_PLAYA": 3303614,
+    "NOMBRE_PLAYA": "Xiglu - Barro - Sorraos",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33036,
+    "NOMBRE_MUNICIPIO": "Llanes",
+    "LATITUD": "43º 26' 14\"",
+    "LONGITUD": "-04º 49' 26\""
+  },
+  {
+    "ID_PLAYA": 3303618,
+    "NOMBRE_PLAYA": "Palombina - Las Camaras, Los Frailes",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33036,
+    "NOMBRE_MUNICIPIO": "Llanes",
+    "LATITUD": "43º 25' 58\"",
+    "LONGITUD": "-04º 48' 27\""
+  },
+  {
+    "ID_PLAYA": 3303626,
+    "NOMBRE_PLAYA": "Toró",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33036,
+    "NOMBRE_MUNICIPIO": "Llanes",
+    "LATITUD": "43º 25' 03\"",
+    "LONGITUD": "-04º 44' 31\""
+  },
+  {
+    "ID_PLAYA": 3303902,
+    "NOMBRE_PLAYA": "Aguilar",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33039,
+    "NOMBRE_MUNICIPIO": "Muros de Nalón",
+    "LATITUD": "43º 33' 23\"",
+    "LONGITUD": "-06º 07' 05\""
+  },
+  {
+    "ID_PLAYA": 3304101,
+    "NOMBRE_PLAYA": "Navia",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33041,
+    "NOMBRE_MUNICIPIO": "Navia",
+    "LATITUD": "43º 33' 22\"",
+    "LONGITUD": "-06º 43' 16\""
+  },
+  {
+    "ID_PLAYA": 3305501,
+    "NOMBRE_PLAYA": "La Franca",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33055,
+    "NOMBRE_MUNICIPIO": "Ribadedeva",
+    "LATITUD": "43º 23' 37\"",
+    "LONGITUD": "-04º 34' 34\""
+  },
+  {
+    "ID_PLAYA": 3305601,
+    "NOMBRE_PLAYA": "Vega",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33056,
+    "NOMBRE_MUNICIPIO": "Ribadesella",
+    "LATITUD": "43º 28' 49\"",
+    "LONGITUD": "-05º 08' 19\""
+  },
+  {
+    "ID_PLAYA": 3305602,
+    "NOMBRE_PLAYA": "Santa Marina",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33056,
+    "NOMBRE_MUNICIPIO": "Ribadesella",
+    "LATITUD": "43º 27' 59\"",
+    "LONGITUD": "-05º 04' 04\""
+  },
+  {
+    "ID_PLAYA": 3306901,
+    "NOMBRE_PLAYA": "Los Quebrantos",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33069,
+    "NOMBRE_MUNICIPIO": "Soto del Barco",
+    "LATITUD": "43º 34' 16\"",
+    "LONGITUD": "-06º 03' 08\""
+  },
+  {
+    "ID_PLAYA": 3307007,
+    "NOMBRE_PLAYA": "Anguileiro, La Grande / Los Campos",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33070,
+    "NOMBRE_MUNICIPIO": "Tapia de Casariego",
+    "LATITUD": "43º 34' 07\"",
+    "LONGITUD": "-06º 56' 50\""
+  },
+  {
+    "ID_PLAYA": 3307606,
+    "NOMBRE_PLAYA": "Rodiles",
+    "ID_PROVINCIA": 33,
+    "NOMBRE_PROVINCIA": "Asturias",
+    "ID_MUNICIPIO": 33076,
+    "NOMBRE_MUNICIPIO": "Villaviciosa",
+    "LATITUD": "43º 32' 03\"",
+    "LONGITUD": "-05º 22' 45\""
+  },
+  {
+    "ID_PLAYA": 3500101,
+    "NOMBRE_PLAYA": "Las Nieves",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35001,
+    "NOMBRE_MUNICIPIO": "Agaete",
+    "LATITUD": "28º 06' 03\"",
+    "LONGITUD": "-15º 42' 37\""
+  },
+  {
+    "ID_PLAYA": 3500201,
+    "NOMBRE_PLAYA": "Arinaga",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35002,
+    "NOMBRE_MUNICIPIO": "Agüimes",
+    "LATITUD": "27º 51' 25\"",
+    "LONGITUD": "-15º 23' 51\""
+  },
+  {
+    "ID_PLAYA": 3500301,
+    "NOMBRE_PLAYA": "Caleta de Fuste",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35003,
+    "NOMBRE_MUNICIPIO": "Antigua",
+    "LATITUD": "28º 23' 45\"",
+    "LONGITUD": "-13º 51' 32\""
+  },
+  {
+    "ID_PLAYA": 3500403,
+    "NOMBRE_PLAYA": "El Reducto",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35004,
+    "NOMBRE_MUNICIPIO": "Arrecife",
+    "LATITUD": "28º 57' 30\"",
+    "LONGITUD": "-13º 33' 29\""
+  },
+  {
+    "ID_PLAYA": 3500601,
+    "NOMBRE_PLAYA": "El Puertillo",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35006,
+    "NOMBRE_MUNICIPIO": "Arucas",
+    "LATITUD": "28º 09' 00\"",
+    "LONGITUD": "-15º 32' 08\""
+  },
+  {
+    "ID_PLAYA": 3500901,
+    "NOMBRE_PLAYA": "Sardina",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35009,
+    "NOMBRE_MUNICIPIO": "Gáldar",
+    "LATITUD": "28º 09' 07\"",
+    "LONGITUD": "-15º 41' 46\""
+  },
+  {
+    "ID_PLAYA": 3501017,
+    "NOMBRE_PLAYA": "La Garita",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35010,
+    "NOMBRE_MUNICIPIO": "Haría",
+    "LATITUD": "29º 07' 03\"",
+    "LONGITUD": "-13º 27' 54\""
+  },
+  {
+    "ID_PLAYA": 3501101,
+    "NOMBRE_PLAYA": "El Burrero",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35011,
+    "NOMBRE_MUNICIPIO": "Ingenio",
+    "LATITUD": "27º 54' 40\"",
+    "LONGITUD": "-15º 23' 15\""
+  },
+  {
+    "ID_PLAYA": 3501201,
+    "NOMBRE_PLAYA": "Taurito",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35012,
+    "NOMBRE_MUNICIPIO": "Mogán",
+    "LATITUD": "27º 48' 54\"",
+    "LONGITUD": "-15º 45' 12\""
+  },
+  {
+    "ID_PLAYA": 3501202,
+    "NOMBRE_PLAYA": "Amadores",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35012,
+    "NOMBRE_MUNICIPIO": "Mogán",
+    "LATITUD": "27º 47' 25\"",
+    "LONGITUD": "-15º 43' 28\""
+  },
+  {
+    "ID_PLAYA": 3501301,
+    "NOMBRE_PLAYA": "Charco de San Lorenzo",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35013,
+    "NOMBRE_MUNICIPIO": "Moya",
+    "LATITUD": "28º 08' 37\"",
+    "LONGITUD": "-15º 34' 33\""
+  },
+  {
+    "ID_PLAYA": 3501401,
+    "NOMBRE_PLAYA": "Marfolín",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35014,
+    "NOMBRE_MUNICIPIO": "La Oliva",
+    "LATITUD": "28º 41' 30\"",
+    "LONGITUD": "-14º 00' 44\""
+  },
+  {
+    "ID_PLAYA": 3501402,
+    "NOMBRE_PLAYA": "Corralejo",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35014,
+    "NOMBRE_MUNICIPIO": "La Oliva",
+    "LATITUD": "28º 44' 10\"",
+    "LONGITUD": "-13º 52' 04\""
+  },
+  {
+    "ID_PLAYA": 3501403,
+    "NOMBRE_PLAYA": "Grandes Playas-El Caserón",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35014,
+    "NOMBRE_MUNICIPIO": "La Oliva",
+    "LATITUD": "28º 42' 36\"",
+    "LONGITUD": "-13º 50' 21\""
+  },
+  {
+    "ID_PLAYA": 3501501,
+    "NOMBRE_PLAYA": "Ajuí",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 23' 50\"",
+    "LONGITUD": "-14º 09' 19\""
+  },
+  {
+    "ID_PLAYA": 3501502,
+    "NOMBRE_PLAYA": "La Pared",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 13' 05\"",
+    "LONGITUD": "-14º 13' 13\""
+  },
+  {
+    "ID_PLAYA": 3501503,
+    "NOMBRE_PLAYA": "El Cofete",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 06' 29\"",
+    "LONGITUD": "-14º 23' 47\""
+  },
+  {
+    "ID_PLAYA": 3501504,
+    "NOMBRE_PLAYA": "El Puertito",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 04' 20\"",
+    "LONGITUD": "-14º 30' 07\""
+  },
+  {
+    "ID_PLAYA": 3501505,
+    "NOMBRE_PLAYA": "Morro Jable",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 02' 55\"",
+    "LONGITUD": "-14º 20' 43\""
+  },
+  {
+    "ID_PLAYA": 3501506,
+    "NOMBRE_PLAYA": "Butihondo y El Matorral",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 03' 52\"",
+    "LONGITUD": "-14º 18' 47\""
+  },
+  {
+    "ID_PLAYA": 3501507,
+    "NOMBRE_PLAYA": "Costa Calma y Sotavento de Jandía",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35015,
+    "NOMBRE_MUNICIPIO": "Pájara",
+    "LATITUD": "28º 09' 38\"",
+    "LONGITUD": "-14º 13' 34\""
+  },
+  {
+    "ID_PLAYA": 3501601,
+    "NOMBRE_PLAYA": "Las Canteras",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35016,
+    "NOMBRE_MUNICIPIO": "Las Palmas de Gran Canaria",
+    "LATITUD": "28º 08' 25\"",
+    "LONGITUD": "-15º 26' 09\""
+  },
+  {
+    "ID_PLAYA": 3501701,
+    "NOMBRE_PLAYA": "El Puertito, Los Molinos",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35017,
+    "NOMBRE_MUNICIPIO": "Puerto del Rosario",
+    "LATITUD": "28º 32' 35\"",
+    "LONGITUD": "-14º 03' 48\""
+  },
+  {
+    "ID_PLAYA": 3501702,
+    "NOMBRE_PLAYA": "Blanca",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35017,
+    "NOMBRE_MUNICIPIO": "Puerto del Rosario",
+    "LATITUD": "28º 28' 35\"",
+    "LONGITUD": "-13º 52' 02\""
+  },
+  {
+    "ID_PLAYA": 3501801,
+    "NOMBRE_PLAYA": "Honda",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35018,
+    "NOMBRE_MUNICIPIO": "San Bartolomé",
+    "LATITUD": "28º 56' 59\"",
+    "LONGITUD": "-13º 35' 31\""
+  },
+  {
+    "ID_PLAYA": 3501901,
+    "NOMBRE_PLAYA": "Maspalomas",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35019,
+    "NOMBRE_MUNICIPIO": "San Bartolomé de Tirajana",
+    "LATITUD": "27º 44' 16\"",
+    "LONGITUD": "-15º 34' 59\""
+  },
+  {
+    "ID_PLAYA": 3501902,
+    "NOMBRE_PLAYA": "El Inglés",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35019,
+    "NOMBRE_MUNICIPIO": "San Bartolomé de Tirajana",
+    "LATITUD": "27º 44' 52\"",
+    "LONGITUD": "-15º 33' 42\""
+  },
+  {
+    "ID_PLAYA": 3501903,
+    "NOMBRE_PLAYA": "San Agustín",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35019,
+    "NOMBRE_MUNICIPIO": "San Bartolomé de Tirajana",
+    "LATITUD": "27º 46' 13\"",
+    "LONGITUD": "-15º 32' 22\""
+  },
+  {
+    "ID_PLAYA": 3502001,
+    "NOMBRE_PLAYA": "Puerto La Aldea y La Aldea",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35020,
+    "NOMBRE_MUNICIPIO": "La Aldea de San Nicolás",
+    "LATITUD": "28º 00' 23\"",
+    "LONGITUD": "-15º 49' 02\""
+  },
+  {
+    "ID_PLAYA": 3502002,
+    "NOMBRE_PLAYA": "Tasarte",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35020,
+    "NOMBRE_MUNICIPIO": "La Aldea de San Nicolás",
+    "LATITUD": "27º 52' 16\"",
+    "LONGITUD": "-15º 48' 20\""
+  },
+  {
+    "ID_PLAYA": 3502201,
+    "NOMBRE_PLAYA": "Pozo Izquierdo, El Arenal",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35022,
+    "NOMBRE_MUNICIPIO": "Santa Lucía de Tirajana",
+    "LATITUD": "27º 49' 21\"",
+    "LONGITUD": "-15º 25' 26\""
+  },
+  {
+    "ID_PLAYA": 3502301,
+    "NOMBRE_PLAYA": "San Felipe",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35023,
+    "NOMBRE_MUNICIPIO": "Santa María de Guía de Gran Canaria",
+    "LATITUD": "28º 08' 45\"",
+    "LONGITUD": "-15º 35' 32\""
+  },
+  {
+    "ID_PLAYA": 3502425,
+    "NOMBRE_PLAYA": "Las Cucharas",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35024,
+    "NOMBRE_MUNICIPIO": "Teguise",
+    "LATITUD": "28º 59' 52\"",
+    "LONGITUD": "-13º 29' 19\""
+  },
+  {
+    "ID_PLAYA": 3502601,
+    "NOMBRE_PLAYA": "Melenara",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35026,
+    "NOMBRE_MUNICIPIO": "Telde",
+    "LATITUD": "27º 59' 15\"",
+    "LONGITUD": "-15º 22' 33\""
+  },
+  {
+    "ID_PLAYA": 3502808,
+    "NOMBRE_PLAYA": "Los Pocillos",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35028,
+    "NOMBRE_MUNICIPIO": "Tías",
+    "LATITUD": "28º 55' 36\"",
+    "LONGITUD": "-13º 38' 09\""
+  },
+  {
+    "ID_PLAYA": 3502809,
+    "NOMBRE_PLAYA": "Matagorda",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35028,
+    "NOMBRE_MUNICIPIO": "Tías",
+    "LATITUD": "28º 56' 55\"",
+    "LONGITUD": "-13º 35' 52\""
+  },
+  {
+    "ID_PLAYA": 3502811,
+    "NOMBRE_PLAYA": "Guacimeta",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35028,
+    "NOMBRE_MUNICIPIO": "Tías",
+    "LATITUD": "28º 56' 21\"",
+    "LONGITUD": "-13º 36' 28\""
+  },
+  {
+    "ID_PLAYA": 3502904,
+    "NOMBRE_PLAYA": "Ría de la Santa",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35029,
+    "NOMBRE_MUNICIPIO": "Tinajo",
+    "LATITUD": "29º 07' 01\"",
+    "LONGITUD": "-13º 39' 13\""
+  },
+  {
+    "ID_PLAYA": 3503001,
+    "NOMBRE_PLAYA": "Gran Tarajal",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35030,
+    "NOMBRE_MUNICIPIO": "Tuineje",
+    "LATITUD": "28º 12' 43\"",
+    "LONGITUD": "-14º 01' 10\""
+  },
+  {
+    "ID_PLAYA": 3503410,
+    "NOMBRE_PLAYA": "Playa Blanca",
+    "ID_PROVINCIA": 35,
+    "NOMBRE_PROVINCIA": "Las Palmas",
+    "ID_MUNICIPIO": 35034,
+    "NOMBRE_MUNICIPIO": "Yaiza",
+    "LATITUD": "28º 51' 46\"",
+    "LONGITUD": "-13º 49' 47\""
+  },
+  {
+    "ID_PLAYA": 3600303,
+    "NOMBRE_PLAYA": "Ladeira, Ramallosa",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36003,
+    "NOMBRE_MUNICIPIO": "Baiona",
+    "LATITUD": "42º 06' 55\"",
+    "LONGITUD": "-08º 49' 31\""
+  },
+  {
+    "ID_PLAYA": 3600402,
+    "NOMBRE_PLAYA": "Area de Bon",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36004,
+    "NOMBRE_MUNICIPIO": "Bueu",
+    "LATITUD": "42º 18' 56\"",
+    "LONGITUD": "-08º 49' 04\""
+  },
+  {
+    "ID_PLAYA": 3600408,
+    "NOMBRE_PLAYA": "Mourisca",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36004,
+    "NOMBRE_MUNICIPIO": "Bueu",
+    "LATITUD": "42º 20' 19\"",
+    "LONGITUD": "-08º 49' 15\""
+  },
+  {
+    "ID_PLAYA": 3600411,
+    "NOMBRE_PLAYA": "Portomaior-Agrelo",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36004,
+    "NOMBRE_MUNICIPIO": "Bueu",
+    "LATITUD": "42º 20' 15\"",
+    "LONGITUD": "-08º 45' 51\""
+  },
+  {
+    "ID_PLAYA": 3600419,
+    "NOMBRE_PLAYA": "Melide, Ons",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36004,
+    "NOMBRE_MUNICIPIO": "Bueu",
+    "LATITUD": "42º 23' 27\"",
+    "LONGITUD": "-08º 55' 25\""
+  },
+  {
+    "ID_PLAYA": 3600802,
+    "NOMBRE_PLAYA": "Barra-Nerga",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36008,
+    "NOMBRE_MUNICIPIO": "Cangas",
+    "LATITUD": "42º 15' 40\"",
+    "LONGITUD": "-08º 50' 35\""
+  },
+  {
+    "ID_PLAYA": 3600803,
+    "NOMBRE_PLAYA": "Rodeira",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36008,
+    "NOMBRE_MUNICIPIO": "Cangas",
+    "LATITUD": "42º 15' 46\"",
+    "LONGITUD": "-08º 46' 09\""
+  },
+  {
+    "ID_PLAYA": 3600805,
+    "NOMBRE_PLAYA": "Area Brava",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36008,
+    "NOMBRE_MUNICIPIO": "Cangas",
+    "LATITUD": "42º 17' 34\"",
+    "LONGITUD": "-08º 50' 32\""
+  },
+  {
+    "ID_PLAYA": 3600806,
+    "NOMBRE_PLAYA": "Area Grande",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36008,
+    "NOMBRE_MUNICIPIO": "Cangas",
+    "LATITUD": "42º 16' 36\"",
+    "LONGITUD": "-08º 49' 09\""
+  },
+  {
+    "ID_PLAYA": 3600807,
+    "NOMBRE_PLAYA": "Limens",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36008,
+    "NOMBRE_MUNICIPIO": "Cangas",
+    "LATITUD": "42º 15' 38\"",
+    "LONGITUD": "-08º 48' 37\""
+  },
+  {
+    "ID_PLAYA": 3600808,
+    "NOMBRE_PLAYA": "Vilariño-Arnelas, Hio",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36008,
+    "NOMBRE_MUNICIPIO": "Cangas",
+    "LATITUD": "42º 16' 43\"",
+    "LONGITUD": "-08º 49' 40\""
+  },
+  {
+    "ID_PLAYA": 3602201,
+    "NOMBRE_PLAYA": "A Lanzada",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36022,
+    "NOMBRE_MUNICIPIO": "O Grove",
+    "LATITUD": "42º 26' 53\"",
+    "LONGITUD": "-08º 52' 28\""
+  },
+  {
+    "ID_PLAYA": 3602202,
+    "NOMBRE_PLAYA": "Area da Cruz",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36022,
+    "NOMBRE_MUNICIPIO": "O Grove",
+    "LATITUD": "42º 27' 49\"",
+    "LONGITUD": "-08º 54' 37\""
+  },
+  {
+    "ID_PLAYA": 3602208,
+    "NOMBRE_PLAYA": "Area Grande",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36022,
+    "NOMBRE_MUNICIPIO": "O Grove",
+    "LATITUD": "42º 28' 42\"",
+    "LONGITUD": "-08º 55' 09\""
+  },
+  {
+    "ID_PLAYA": 3602209,
+    "NOMBRE_PLAYA": "Mexilloeira",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36022,
+    "NOMBRE_MUNICIPIO": "O Grove",
+    "LATITUD": "42º 28' 38\"",
+    "LONGITUD": "-08º 54' 20\""
+  },
+  {
+    "ID_PLAYA": 3602305,
+    "NOMBRE_PLAYA": "Camposancos",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36023,
+    "NOMBRE_MUNICIPIO": "A Guarda",
+    "LATITUD": "41º 52' 24\"",
+    "LONGITUD": "-08º 52' 09\""
+  },
+  {
+    "ID_PLAYA": 3602601,
+    "NOMBRE_PLAYA": "Aguete",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36026,
+    "NOMBRE_MUNICIPIO": "Marín",
+    "LATITUD": "42º 22' 35\"",
+    "LONGITUD": "-08º 43' 45\""
+  },
+  {
+    "ID_PLAYA": 3602603,
+    "NOMBRE_PLAYA": "Mogor",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36026,
+    "NOMBRE_MUNICIPIO": "Marín",
+    "LATITUD": "42º 23' 11\"",
+    "LONGITUD": "-08º 43' 09\""
+  },
+  {
+    "ID_PLAYA": 3602606,
+    "NOMBRE_PLAYA": "Lapamán",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36026,
+    "NOMBRE_MUNICIPIO": "Marín",
+    "LATITUD": "42º 20' 40\"",
+    "LONGITUD": "-08º 45' 05\""
+  },
+  {
+    "ID_PLAYA": 3602902,
+    "NOMBRE_PLAYA": "Tirán",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36029,
+    "NOMBRE_MUNICIPIO": "Moaña",
+    "LATITUD": "42º 16' 08\"",
+    "LONGITUD": "-08º 45' 00\""
+  },
+  {
+    "ID_PLAYA": 3602903,
+    "NOMBRE_PLAYA": "Xunqueira, Moaña",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36029,
+    "NOMBRE_MUNICIPIO": "Moaña",
+    "LATITUD": "42º 17' 15\"",
+    "LONGITUD": "-08º 43' 33\""
+  },
+  {
+    "ID_PLAYA": 3603501,
+    "NOMBRE_PLAYA": "Panxón-América",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36035,
+    "NOMBRE_MUNICIPIO": "Nigrán",
+    "LATITUD": "42º 08' 12\"",
+    "LONGITUD": "-08º 48' 59\""
+  },
+  {
+    "ID_PLAYA": 3603504,
+    "NOMBRE_PLAYA": "Patos",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36035,
+    "NOMBRE_MUNICIPIO": "Nigrán",
+    "LATITUD": "42º 09' 27\"",
+    "LONGITUD": "-08º 49' 17\""
+  },
+  {
+    "ID_PLAYA": 3604103,
+    "NOMBRE_PLAYA": "Chancelas",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36041,
+    "NOMBRE_MUNICIPIO": "Poio",
+    "LATITUD": "42º 25' 24\"",
+    "LONGITUD": "-08º 42' 59\""
+  },
+  {
+    "ID_PLAYA": 3604501,
+    "NOMBRE_PLAYA": "Cesantes",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36045,
+    "NOMBRE_MUNICIPIO": "Redondela",
+    "LATITUD": "42º 18' 16\"",
+    "LONGITUD": "-08º 36' 50\""
+  },
+  {
+    "ID_PLAYA": 3605102,
+    "NOMBRE_PLAYA": "Areas",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36051,
+    "NOMBRE_MUNICIPIO": "Sanxenxo",
+    "LATITUD": "42º 23' 42\"",
+    "LONGITUD": "-08º 46' 40\""
+  },
+  {
+    "ID_PLAYA": 3605103,
+    "NOMBRE_PLAYA": "Portonovo-Baltar",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36051,
+    "NOMBRE_MUNICIPIO": "Sanxenxo",
+    "LATITUD": "42º 23' 57\"",
+    "LONGITUD": "-08º 49' 16\""
+  },
+  {
+    "ID_PLAYA": 3605105,
+    "NOMBRE_PLAYA": "Canelas",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36051,
+    "NOMBRE_MUNICIPIO": "Sanxenxo",
+    "LATITUD": "42º 23' 24\"",
+    "LONGITUD": "-08º 49' 49\""
+  },
+  {
+    "ID_PLAYA": 3605110,
+    "NOMBRE_PLAYA": "Maxor",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36051,
+    "NOMBRE_MUNICIPIO": "Sanxenxo",
+    "LATITUD": "42º 24' 50\"",
+    "LONGITUD": "-08º 52' 00\""
+  },
+  {
+    "ID_PLAYA": 3605111,
+    "NOMBRE_PLAYA": "Montalvo",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36051,
+    "NOMBRE_MUNICIPIO": "Sanxenxo",
+    "LATITUD": "42º 23' 52\"",
+    "LONGITUD": "-08º 50' 51\""
+  },
+  {
+    "ID_PLAYA": 3605117,
+    "NOMBRE_PLAYA": "Silgar",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36051,
+    "NOMBRE_MUNICIPIO": "Sanxenxo",
+    "LATITUD": "42º 24' 07\"",
+    "LONGITUD": "-08º 48' 36\""
+  },
+  {
+    "ID_PLAYA": 3605701,
+    "NOMBRE_PLAYA": "A Fonte",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36057,
+    "NOMBRE_MUNICIPIO": "Vigo",
+    "LATITUD": "42º 13' 05\"",
+    "LONGITUD": "-08º 46' 30\""
+  },
+  {
+    "ID_PLAYA": 3605702,
+    "NOMBRE_PLAYA": "Bao",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36057,
+    "NOMBRE_MUNICIPIO": "Vigo",
+    "LATITUD": "42º 12' 00\"",
+    "LONGITUD": "-08º 47' 23\""
+  },
+  {
+    "ID_PLAYA": 3605703,
+    "NOMBRE_PLAYA": "Rodas, Cíes",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36057,
+    "NOMBRE_MUNICIPIO": "Vigo",
+    "LATITUD": "42º 13' 25\"",
+    "LONGITUD": "-08º 54' 01\""
+  },
+  {
+    "ID_PLAYA": 3605706,
+    "NOMBRE_PLAYA": "Samil",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36057,
+    "NOMBRE_MUNICIPIO": "Vigo",
+    "LATITUD": "42º 12' 44\"",
+    "LONGITUD": "-08º 46' 27\""
+  },
+  {
+    "ID_PLAYA": 3605711,
+    "NOMBRE_PLAYA": "Canido",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36057,
+    "NOMBRE_MUNICIPIO": "Vigo",
+    "LATITUD": "42º 11' 49\"",
+    "LONGITUD": "-08º 47' 41\""
+  },
+  {
+    "ID_PLAYA": 3606001,
+    "NOMBRE_PLAYA": "Compostela",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36060,
+    "NOMBRE_MUNICIPIO": "Vilagarcía de Arousa",
+    "LATITUD": "42º 36' 32\"",
+    "LONGITUD": "-08º 46' 03\""
+  },
+  {
+    "ID_PLAYA": 3606102,
+    "NOMBRE_PLAYA": "As Sinas",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36061,
+    "NOMBRE_MUNICIPIO": "Vilanova de Arousa",
+    "LATITUD": "42º 34' 42\"",
+    "LONGITUD": "-08º 49' 03\""
+  },
+  {
+    "ID_PLAYA": 3606103,
+    "NOMBRE_PLAYA": "O Terrón",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36061,
+    "NOMBRE_MUNICIPIO": "Vilanova de Arousa",
+    "LATITUD": "42º 33' 30\"",
+    "LONGITUD": "-08º 49' 59\""
+  },
+  {
+    "ID_PLAYA": 3690102,
+    "NOMBRE_PLAYA": "Camaxe",
+    "ID_PROVINCIA": 36,
+    "NOMBRE_PROVINCIA": "Pontevedra",
+    "ID_MUNICIPIO": 36901,
+    "NOMBRE_MUNICIPIO": "A Illa de Arousa",
+    "LATITUD": "42º 32' 46\"",
+    "LONGITUD": "-08º 51' 42\""
+  },
+  {
+    "ID_PLAYA": 3800112,
+    "NOMBRE_PLAYA": "Fañabe",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38001,
+    "NOMBRE_MUNICIPIO": "Adeje",
+    "LATITUD": "28º 05' 05\"",
+    "LONGITUD": "-16º 44' 13\""
+  },
+  {
+    "ID_PLAYA": 3800116,
+    "NOMBRE_PLAYA": "Las Américas",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38001,
+    "NOMBRE_MUNICIPIO": "Adeje",
+    "LATITUD": "28º 04' 08\"",
+    "LONGITUD": "-16º 43' 59\""
+  },
+  {
+    "ID_PLAYA": 3800301,
+    "NOMBRE_PLAYA": "Santiago",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38003,
+    "NOMBRE_MUNICIPIO": "Alajeró",
+    "LATITUD": "28º 01' 40\"",
+    "LONGITUD": "-17º 11' 53\""
+  },
+  {
+    "ID_PLAYA": 3800302,
+    "NOMBRE_PLAYA": "Nogales",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38003,
+    "NOMBRE_MUNICIPIO": "Alajeró",
+    "LATITUD": "28º 45' 36\"",
+    "LONGITUD": "-17º 44' 27\""
+  },
+  {
+    "ID_PLAYA": 3800504,
+    "NOMBRE_PLAYA": "Poris",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38005,
+    "NOMBRE_MUNICIPIO": "Arico",
+    "LATITUD": "28º 09' 52\"",
+    "LONGITUD": "-16º 25' 53\""
+  },
+  {
+    "ID_PLAYA": 3800603,
+    "NOMBRE_PLAYA": "Las Vistas",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38006,
+    "NOMBRE_MUNICIPIO": "Arona",
+    "LATITUD": "28º 03' 02\"",
+    "LONGITUD": "-16º 43' 19\""
+  },
+  {
+    "ID_PLAYA": 3800801,
+    "NOMBRE_PLAYA": "Bajamar",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38008,
+    "NOMBRE_MUNICIPIO": "Breña Alta",
+    "LATITUD": "28º 40' 12\"",
+    "LONGITUD": "-17º 46' 32\""
+  },
+  {
+    "ID_PLAYA": 3800901,
+    "NOMBRE_PLAYA": "Los Cancajos",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38009,
+    "NOMBRE_MUNICIPIO": "Breña Baja",
+    "LATITUD": "28º 39' 10\"",
+    "LONGITUD": "-17º 45' 37\""
+  },
+  {
+    "ID_PLAYA": 3801005,
+    "NOMBRE_PLAYA": "La Ballenita",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38010,
+    "NOMBRE_MUNICIPIO": "Buenavista del Norte",
+    "LATITUD": "28º 20' 34\"",
+    "LONGITUD": "-16º 55' 12\""
+  },
+  {
+    "ID_PLAYA": 3801103,
+    "NOMBRE_PLAYA": "La Hornilla - Los Guanches",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38011,
+    "NOMBRE_MUNICIPIO": "Candelaria",
+    "LATITUD": "28º 21' 14\"",
+    "LONGITUD": "-16º 22' 10\""
+  },
+  {
+    "ID_PLAYA": 3801311,
+    "NOMBRE_PLAYA": "La Restinga",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38013,
+    "NOMBRE_MUNICIPIO": "Frontera",
+    "LATITUD": "27º 38' 27\"",
+    "LONGITUD": "-17º 58' 48\""
+  },
+  {
+    "ID_PLAYA": 3801404,
+    "NOMBRE_PLAYA": "El Faro",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38014,
+    "NOMBRE_MUNICIPIO": "Fuencaliente de la Palma",
+    "LATITUD": "28º 27' 21\"",
+    "LONGITUD": "-17º 50' 09\""
+  },
+  {
+    "ID_PLAYA": 3801503,
+    "NOMBRE_PLAYA": "Caletón De Garachico",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38015,
+    "NOMBRE_MUNICIPIO": "Garachico",
+    "LATITUD": "28º 22' 16\"",
+    "LONGITUD": "-16º 46' 09\""
+  },
+  {
+    "ID_PLAYA": 3801705,
+    "NOMBRE_PLAYA": "El Médano",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38017,
+    "NOMBRE_MUNICIPIO": "Granadilla de Abona",
+    "LATITUD": "28º 02' 29\"",
+    "LONGITUD": "-16º 32' 31\""
+  },
+  {
+    "ID_PLAYA": 3801801,
+    "NOMBRE_PLAYA": "Santo Domingo",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38018,
+    "NOMBRE_MUNICIPIO": "La Guancha",
+    "LATITUD": "28º 23' 32\"",
+    "LONGITUD": "-16º 40' 43\""
+  },
+  {
+    "ID_PLAYA": 3801905,
+    "NOMBRE_PLAYA": "San Juan",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38019,
+    "NOMBRE_MUNICIPIO": "Guía de Isora",
+    "LATITUD": "28º 10' 48\"",
+    "LONGITUD": "-16º 48' 47\""
+  },
+  {
+    "ID_PLAYA": 3802002,
+    "NOMBRE_PLAYA": "El Puertito",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38020,
+    "NOMBRE_MUNICIPIO": "Güímar",
+    "LATITUD": "28º 17' 28\"",
+    "LONGITUD": "-16º 22' 40\""
+  },
+  {
+    "ID_PLAYA": 3802101,
+    "NOMBRE_PLAYA": "Hermigua",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38021,
+    "NOMBRE_MUNICIPIO": "Hermigua",
+    "LATITUD": "28º 10' 43\"",
+    "LONGITUD": "-17º 10' 48\""
+  },
+  {
+    "ID_PLAYA": 3802201,
+    "NOMBRE_PLAYA": "San Marcos",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38022,
+    "NOMBRE_MUNICIPIO": "Icod de los Vinos",
+    "LATITUD": "28º 22' 35\"",
+    "LONGITUD": "-16º 43' 37\""
+  },
+  {
+    "ID_PLAYA": 3802302,
+    "NOMBRE_PLAYA": "San Juan/Castillo",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38023,
+    "NOMBRE_MUNICIPIO": "San Cristóbal de La Laguna",
+    "LATITUD": "28º 33' 24\"",
+    "LONGITUD": "-16º 20' 30\""
+  },
+  {
+    "ID_PLAYA": 3802305,
+    "NOMBRE_PLAYA": "El Arenisco",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38023,
+    "NOMBRE_MUNICIPIO": "San Cristóbal de La Laguna",
+    "LATITUD": "28º 33' 58\"",
+    "LONGITUD": "-16º 19' 56\""
+  },
+  {
+    "ID_PLAYA": 3802403,
+    "NOMBRE_PLAYA": "Puerto Naos",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38024,
+    "NOMBRE_MUNICIPIO": "Los Llanos de Aridane",
+    "LATITUD": "28º 35' 04\"",
+    "LONGITUD": "-17º 54' 36\""
+  },
+  {
+    "ID_PLAYA": 3802501,
+    "NOMBRE_PLAYA": "El Caletón",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38025,
+    "NOMBRE_MUNICIPIO": "La Matanza de Acentejo",
+    "LATITUD": "28º 27' 30\"",
+    "LONGITUD": "-16º 27' 41\""
+  },
+  {
+    "ID_PLAYA": 3802601,
+    "NOMBRE_PLAYA": "El Bollullo",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38026,
+    "NOMBRE_MUNICIPIO": "La Orotava",
+    "LATITUD": "28º 25' 04\"",
+    "LONGITUD": "-16º 31' 13\""
+  },
+  {
+    "ID_PLAYA": 3802801,
+    "NOMBRE_PLAYA": "Jardín",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38028,
+    "NOMBRE_MUNICIPIO": "Puerto de la Cruz",
+    "LATITUD": "28º 24' 56\"",
+    "LONGITUD": "-16º 33' 31\""
+  },
+  {
+    "ID_PLAYA": 3802804,
+    "NOMBRE_PLAYA": "Martiánez",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38028,
+    "NOMBRE_MUNICIPIO": "Puerto de la Cruz",
+    "LATITUD": "28º 25' 05\"",
+    "LONGITUD": "-16º 32' 29\""
+  },
+  {
+    "ID_PLAYA": 3803101,
+    "NOMBRE_PLAYA": "El Socorro",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38031,
+    "NOMBRE_MUNICIPIO": "Los Realejos",
+    "LATITUD": "28º 23' 39\"",
+    "LONGITUD": "-16º 36' 24\""
+  },
+  {
+    "ID_PLAYA": 3803302,
+    "NOMBRE_PLAYA": "Charco Azul",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38033,
+    "NOMBRE_MUNICIPIO": "San Andrés y Sauces",
+    "LATITUD": "28º 48' 33\"",
+    "LONGITUD": "-17º 45' 46\""
+  },
+  {
+    "ID_PLAYA": 3803401,
+    "NOMBRE_PLAYA": "Las Aguas",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38034,
+    "NOMBRE_MUNICIPIO": "San Juan de la Rambla",
+    "LATITUD": "28º 23' 43\"",
+    "LONGITUD": "-16º 38' 22\""
+  },
+  {
+    "ID_PLAYA": 3803605,
+    "NOMBRE_PLAYA": "San Sebastian",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38036,
+    "NOMBRE_MUNICIPIO": "San Sebastián de la Gomera",
+    "LATITUD": "28º 05' 29\"",
+    "LONGITUD": "-17º 06' 47\""
+  },
+  {
+    "ID_PLAYA": 3803801,
+    "NOMBRE_PLAYA": "La Nea",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38032,
+    "NOMBRE_MUNICIPIO": "El Rosario",
+    "LATITUD": "28º 24' 14\"",
+    "LONGITUD": "-16º 19' 06\""
+  },
+  {
+    "ID_PLAYA": 3803806,
+    "NOMBRE_PLAYA": "Las Teresitas",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38038,
+    "NOMBRE_MUNICIPIO": "Santa Cruz de Tenerife",
+    "LATITUD": "28º 30' 31\"",
+    "LONGITUD": "-16º 11' 11\""
+  },
+  {
+    "ID_PLAYA": 3804004,
+    "NOMBRE_PLAYA": "La Arena",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38040,
+    "NOMBRE_MUNICIPIO": "Santiago del Teide",
+    "LATITUD": "28º 13' 47\"",
+    "LONGITUD": "-16º 50' 28\""
+  },
+  {
+    "ID_PLAYA": 3804101,
+    "NOMBRE_PLAYA": "La Garañona",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38041,
+    "NOMBRE_MUNICIPIO": "El Sauzal",
+    "LATITUD": "28º 29' 18\"",
+    "LONGITUD": "-16º 25' 58\""
+  },
+  {
+    "ID_PLAYA": 3804203,
+    "NOMBRE_PLAYA": "El Gomero",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38042,
+    "NOMBRE_MUNICIPIO": "Los Silos",
+    "LATITUD": "28º 22' 37\"",
+    "LONGITUD": "-16º 48' 07\""
+  },
+  {
+    "ID_PLAYA": 3804302,
+    "NOMBRE_PLAYA": "La Arena/Mesa del Mar",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38043,
+    "NOMBRE_MUNICIPIO": "Tacoronte",
+    "LATITUD": "28º 30' 55\"",
+    "LONGITUD": "-16º 25' 27\""
+  },
+  {
+    "ID_PLAYA": 3804502,
+    "NOMBRE_PLAYA": "Puerto de Tazacorte",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38045,
+    "NOMBRE_MUNICIPIO": "Tazacorte",
+    "LATITUD": "28º 38' 51\"",
+    "LONGITUD": "-17º 56' 41\""
+  },
+  {
+    "ID_PLAYA": 3804803,
+    "NOMBRE_PLAYA": "El Tamaduste",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38048,
+    "NOMBRE_MUNICIPIO": "Valverde",
+    "LATITUD": "27º 49' 26\"",
+    "LONGITUD": "-17º 53' 44\""
+  },
+  {
+    "ID_PLAYA": 3804902,
+    "NOMBRE_PLAYA": "Valle Gran Rey",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38049,
+    "NOMBRE_MUNICIPIO": "Valle Gran Rey",
+    "LATITUD": "28º 05' 08\"",
+    "LONGITUD": "-17º 20' 24\""
+  },
+  {
+    "ID_PLAYA": 3805004,
+    "NOMBRE_PLAYA": "Vallehermoso",
+    "ID_PROVINCIA": 38,
+    "NOMBRE_PROVINCIA": "Santa Cruz de Tenerife",
+    "ID_MUNICIPIO": 38050,
+    "NOMBRE_MUNICIPIO": "Vallehermoso",
+    "LATITUD": "28º 12' 11\"",
+    "LONGITUD": "-17º 15' 08\""
+  },
+  {
+    "ID_PLAYA": 3900101,
+    "NOMBRE_PLAYA": "Luaña-Cobreces",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39001,
+    "NOMBRE_MUNICIPIO": "Alfoz de Lloredo",
+    "LATITUD": "43º 23' 44\"",
+    "LONGITUD": "-04º 13' 10\""
+  },
+  {
+    "ID_PLAYA": 3900602,
+    "NOMBRE_PLAYA": "La Arena",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39006,
+    "NOMBRE_MUNICIPIO": "Arnuero",
+    "LATITUD": "43º 30' 15\"",
+    "LONGITUD": "-03º 34' 32\""
+  },
+  {
+    "ID_PLAYA": 3901102,
+    "NOMBRE_PLAYA": "Cuberris",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39011,
+    "NOMBRE_MUNICIPIO": "Bareyo",
+    "LATITUD": "43º 29' 53\"",
+    "LONGITUD": "-03º 36' 49\""
+  },
+  {
+    "ID_PLAYA": 3902002,
+    "NOMBRE_PLAYA": "Oriñon",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39020,
+    "NOMBRE_MUNICIPIO": "Castro-Urdiales",
+    "LATITUD": "43º 24' 09\"",
+    "LONGITUD": "-03º 19' 23\""
+  },
+  {
+    "ID_PLAYA": 3902004,
+    "NOMBRE_PLAYA": "Ostende",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39020,
+    "NOMBRE_MUNICIPIO": "Castro-Urdiales",
+    "LATITUD": "43º 23' 16\"",
+    "LONGITUD": "-03º 13' 27\""
+  },
+  {
+    "ID_PLAYA": 3902401,
+    "NOMBRE_PLAYA": "Comillas",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39024,
+    "NOMBRE_MUNICIPIO": "Comillas",
+    "LATITUD": "43º 23' 27\"",
+    "LONGITUD": "-04º 17' 10\""
+  },
+  {
+    "ID_PLAYA": 3903502,
+    "NOMBRE_PLAYA": "La Salve",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39035,
+    "NOMBRE_MUNICIPIO": "Laredo",
+    "LATITUD": "43º 25' 10\"",
+    "LONGITUD": "-03º 26' 12\""
+  },
+  {
+    "ID_PLAYA": 3904401,
+    "NOMBRE_PLAYA": "Cuchia-Marzan",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39044,
+    "NOMBRE_MUNICIPIO": "Miengo",
+    "LATITUD": "43º 26' 13\"",
+    "LONGITUD": "-04º 01' 47\""
+  },
+  {
+    "ID_PLAYA": 3904405,
+    "NOMBRE_PLAYA": "Mogro-Usil",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39044,
+    "NOMBRE_MUNICIPIO": "Miengo",
+    "LATITUD": "43º 26' 20\"",
+    "LONGITUD": "-03º 58' 17\""
+  },
+  {
+    "ID_PLAYA": 3904701,
+    "NOMBRE_PLAYA": "Ris",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39047,
+    "NOMBRE_MUNICIPIO": "Noja",
+    "LATITUD": "43º 29' 35\"",
+    "LONGITUD": "-03º 31' 53\""
+  },
+  {
+    "ID_PLAYA": 3905201,
+    "NOMBRE_PLAYA": "Valdearenas",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39052,
+    "NOMBRE_MUNICIPIO": "Piélagos",
+    "LATITUD": "43º 26' 57\"",
+    "LONGITUD": "-03º 58' 49\""
+  },
+  {
+    "ID_PLAYA": 3906102,
+    "NOMBRE_PLAYA": "Somo-Loredo",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39061,
+    "NOMBRE_MUNICIPIO": "Ribamontán al Mar",
+    "LATITUD": "43º 27' 30\"",
+    "LONGITUD": "-03º 44' 33\""
+  },
+  {
+    "ID_PLAYA": 3907302,
+    "NOMBRE_PLAYA": "San Juan de la Canal",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39073,
+    "NOMBRE_MUNICIPIO": "Santa Cruz de Bezana",
+    "LATITUD": "43º 28' 29\"",
+    "LONGITUD": "-03º 53' 31\""
+  },
+  {
+    "ID_PLAYA": 3907506,
+    "NOMBRE_PLAYA": "Sardinero",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39075,
+    "NOMBRE_MUNICIPIO": "Santander",
+    "LATITUD": "43º 28' 36\"",
+    "LONGITUD": "-03º 47' 00\""
+  },
+  {
+    "ID_PLAYA": 3907511,
+    "NOMBRE_PLAYA": "La Magdalena",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39075,
+    "NOMBRE_MUNICIPIO": "Santander",
+    "LATITUD": "43º 28' 04\"",
+    "LONGITUD": "-03º 46' 31\""
+  },
+  {
+    "ID_PLAYA": 3907902,
+    "NOMBRE_PLAYA": "San Martín",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39079,
+    "NOMBRE_MUNICIPIO": "Santoña",
+    "LATITUD": "43º 26' 27\"",
+    "LONGITUD": "-03º 26' 42\""
+  },
+  {
+    "ID_PLAYA": 3908004,
+    "NOMBRE_PLAYA": "El Sable de Merón",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39080,
+    "NOMBRE_MUNICIPIO": "San Vicente de la Barquera",
+    "LATITUD": "43º 23' 38\"",
+    "LONGITUD": "-04º 22' 00\""
+  },
+  {
+    "ID_PLAYA": 3908503,
+    "NOMBRE_PLAYA": "La Concha",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39085,
+    "NOMBRE_MUNICIPIO": "Suances",
+    "LATITUD": "43º 26' 10\"",
+    "LONGITUD": "-04º 02' 23\""
+  },
+  {
+    "ID_PLAYA": 3909101,
+    "NOMBRE_PLAYA": "Oyambre",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39091,
+    "NOMBRE_MUNICIPIO": "Valdáliga",
+    "LATITUD": "43º 23' 37\"",
+    "LONGITUD": "-04º 19' 55\""
+  },
+  {
+    "ID_PLAYA": 3909504,
+    "NOMBRE_PLAYA": "Amio",
+    "ID_PROVINCIA": 39,
+    "NOMBRE_PROVINCIA": "Cantabria",
+    "ID_MUNICIPIO": 39095,
+    "NOMBRE_MUNICIPIO": "Val de San Vicente",
+    "LATITUD": "43º 23' 45\"",
+    "LONGITUD": "-04º 28' 52\""
+  },
+  {
+    "ID_PLAYA": 4301202,
+    "NOMBRE_PLAYA": "Altafulla",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43012,
+    "NOMBRE_MUNICIPIO": "Altafulla",
+    "LATITUD": "41º 08' 03\"",
+    "LONGITUD": "1º 22' 25\""
+  },
+  {
+    "ID_PLAYA": 4301313,
+    "NOMBRE_PLAYA": "L'Alguer",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43013,
+    "NOMBRE_MUNICIPIO": "L'Ametlla de Mar",
+    "LATITUD": "40º 53' 08\"",
+    "LONGITUD": "0º 48' 22\""
+  },
+  {
+    "ID_PLAYA": 4301401,
+    "NOMBRE_PLAYA": "Els Eucaliptus",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43014,
+    "NOMBRE_MUNICIPIO": "Amposta",
+    "LATITUD": "40º 39' 32\"",
+    "LONGITUD": "0º 47' 12\""
+  },
+  {
+    "ID_PLAYA": 4303703,
+    "NOMBRE_PLAYA": "Calafell",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43037,
+    "NOMBRE_MUNICIPIO": "Calafell",
+    "LATITUD": "41º 11' 19\"",
+    "LONGITUD": "1º 34' 34\""
+  },
+  {
+    "ID_PLAYA": 4303804,
+    "NOMBRE_PLAYA": "Prat d'en Fores i Regueral",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43038,
+    "NOMBRE_MUNICIPIO": "Cambrils",
+    "LATITUD": "41º 04' 04\"",
+    "LONGITUD": "1º 04' 13\""
+  },
+  {
+    "ID_PLAYA": 4303806,
+    "NOMBRE_PLAYA": "Vilafortuny-L'Esquirol",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43038,
+    "NOMBRE_MUNICIPIO": "Cambrils",
+    "LATITUD": "41º 04' 20\"",
+    "LONGITUD": "1º 06' 15\""
+  },
+  {
+    "ID_PLAYA": 4305001,
+    "NOMBRE_PLAYA": "Creixell",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43050,
+    "NOMBRE_MUNICIPIO": "Creixell",
+    "LATITUD": "41º 09' 26\"",
+    "LONGITUD": "1º 26' 19\""
+  },
+  {
+    "ID_PLAYA": 4305101,
+    "NOMBRE_PLAYA": "Cunit",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43051,
+    "NOMBRE_MUNICIPIO": "Cunit",
+    "LATITUD": "41º 11' 40\"",
+    "LONGITUD": "1º 37' 59\""
+  },
+  {
+    "ID_PLAYA": 4309201,
+    "NOMBRE_PLAYA": "Peixerota",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43092,
+    "NOMBRE_MUNICIPIO": "Mont-roig del Camp",
+    "LATITUD": "41º 03' 01\"",
+    "LONGITUD": "1º 00' 48\""
+  },
+  {
+    "ID_PLAYA": 4309211,
+    "NOMBRE_PLAYA": "Cristall",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43092,
+    "NOMBRE_MUNICIPIO": "Mont-roig del Camp",
+    "LATITUD": "41º 00' 13\"",
+    "LONGITUD": "0º 56' 26\""
+  },
+  {
+    "ID_PLAYA": 4313105,
+    "NOMBRE_PLAYA": "Roda de Bara",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43131,
+    "NOMBRE_MUNICIPIO": "Roda de Berà",
+    "LATITUD": "41º 10' 05\"",
+    "LONGITUD": "1º 28' 14\""
+  },
+  {
+    "ID_PLAYA": 4313601,
+    "NOMBRE_PLAYA": "El Garbi",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43136,
+    "NOMBRE_MUNICIPIO": "Sant Carles de la Ràpita",
+    "LATITUD": "40º 36' 57\"",
+    "LONGITUD": "0º 35' 39\""
+  },
+  {
+    "ID_PLAYA": 4314802,
+    "NOMBRE_PLAYA": "L'Arrabassada",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43148,
+    "NOMBRE_MUNICIPIO": "Tarragona",
+    "LATITUD": "41º 07' 15\"",
+    "LONGITUD": "1º 16' 37\""
+  },
+  {
+    "ID_PLAYA": 4314808,
+    "NOMBRE_PLAYA": "La Mora",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43148,
+    "NOMBRE_MUNICIPIO": "Tarragona",
+    "LATITUD": "41º 07' 44\"",
+    "LONGITUD": "1º 20' 50\""
+  },
+  {
+    "ID_PLAYA": 4315302,
+    "NOMBRE_PLAYA": "Barrio Maritimo/La Paella",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43153,
+    "NOMBRE_MUNICIPIO": "Torredembarra",
+    "LATITUD": "41º 08' 42\"",
+    "LONGITUD": "1º 24' 50\""
+  },
+  {
+    "ID_PLAYA": 4316203,
+    "NOMBRE_PLAYA": "L'Arenal",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43162,
+    "NOMBRE_MUNICIPIO": "Vandellòs i l'Hospitalet de l'Infant",
+    "LATITUD": "40º 59' 16\"",
+    "LONGITUD": "0º 54' 54\""
+  },
+  {
+    "ID_PLAYA": 4316303,
+    "NOMBRE_PLAYA": "Coma Ruga",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43163,
+    "NOMBRE_MUNICIPIO": "El Vendrell",
+    "LATITUD": "41º 10' 52\"",
+    "LONGITUD": "1º 31' 27\""
+  },
+  {
+    "ID_PLAYA": 4317101,
+    "NOMBRE_PLAYA": "La Pineda",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43171,
+    "NOMBRE_MUNICIPIO": "Vila-seca",
+    "LATITUD": "41º 05' 19\"",
+    "LONGITUD": "1º 11' 32\""
+  },
+  {
+    "ID_PLAYA": 4390103,
+    "NOMBRE_PLAYA": "Riomar",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43901,
+    "NOMBRE_MUNICIPIO": "Deltebre",
+    "LATITUD": "40º 43' 45\"",
+    "LONGITUD": "0º 50' 23\""
+  },
+  {
+    "ID_PLAYA": 4390502,
+    "NOMBRE_PLAYA": "Llevant",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43905,
+    "NOMBRE_MUNICIPIO": "Salou",
+    "LATITUD": "41º 04' 32\"",
+    "LONGITUD": "1º 08' 25\""
+  },
+  {
+    "ID_PLAYA": 4390602,
+    "NOMBRE_PLAYA": "Cap Roig",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43906,
+    "NOMBRE_MUNICIPIO": "L'Ampolla",
+    "LATITUD": "40º 49' 16\"",
+    "LONGITUD": "0º 43' 54\""
+  },
+  {
+    "ID_PLAYA": 4390606,
+    "NOMBRE_PLAYA": "D'Avellaners",
+    "ID_PROVINCIA": 43,
+    "NOMBRE_PROVINCIA": "Tarragona",
+    "ID_MUNICIPIO": 43906,
+    "NOMBRE_MUNICIPIO": "L'Ampolla",
+    "LATITUD": "40º 48' 45\"",
+    "LONGITUD": "0º 42' 52\""
+  },
+  {
+    "ID_PLAYA": 4601301,
+    "NOMBRE_PLAYA": "El Port / Saplaya",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46013,
+    "NOMBRE_MUNICIPIO": "Alboraya",
+    "LATITUD": "39º 30' 35\"",
+    "LONGITUD": "-00º 19' 12\""
+  },
+  {
+    "ID_PLAYA": 4604801,
+    "NOMBRE_PLAYA": "Bellreguard",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46048,
+    "NOMBRE_MUNICIPIO": "Bellreguard",
+    "LATITUD": "38º 58' 03\"",
+    "LONGITUD": "-00º 07' 50\""
+  },
+  {
+    "ID_PLAYA": 4608201,
+    "NOMBRE_PLAYA": "Raco de Mar",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46082,
+    "NOMBRE_MUNICIPIO": "Canet d'En Berenguer",
+    "LATITUD": "39º 41' 05\"",
+    "LONGITUD": "-00º 12' 04\""
+  },
+  {
+    "ID_PLAYA": 4610502,
+    "NOMBRE_PLAYA": "El Dossel",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46105,
+    "NOMBRE_MUNICIPIO": "Cullera",
+    "LATITUD": "39º 11' 55\"",
+    "LONGITUD": "-00º 13' 40\""
+  },
+  {
+    "ID_PLAYA": 4610506,
+    "NOMBRE_PLAYA": "El Raco",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46105,
+    "NOMBRE_MUNICIPIO": "Cullera",
+    "LATITUD": "39º 10' 58\"",
+    "LONGITUD": "-00º 13' 17\""
+  },
+  {
+    "ID_PLAYA": 4610507,
+    "NOMBRE_PLAYA": "Sant Antoni",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46105,
+    "NOMBRE_MUNICIPIO": "Cullera",
+    "LATITUD": "39º 09' 37\"",
+    "LONGITUD": "-00º 14' 22\""
+  },
+  {
+    "ID_PLAYA": 4611302,
+    "NOMBRE_PLAYA": "Daimús",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46113,
+    "NOMBRE_MUNICIPIO": "Daimús",
+    "LATITUD": "38º 58' 43\"",
+    "LONGITUD": "-00º 08' 28\""
+  },
+  {
+    "ID_PLAYA": 4613102,
+    "NOMBRE_PLAYA": "Norte de Gandia",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46131,
+    "NOMBRE_MUNICIPIO": "Gandia",
+    "LATITUD": "39º 00' 47\"",
+    "LONGITUD": "-00º 09' 19\""
+  },
+  {
+    "ID_PLAYA": 4614301,
+    "NOMBRE_PLAYA": "Xeraco",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46143,
+    "NOMBRE_MUNICIPIO": "Xeraco",
+    "LATITUD": "39º 03' 36\"",
+    "LONGITUD": "-00º 11' 36\""
+  },
+  {
+    "ID_PLAYA": 4618102,
+    "NOMBRE_PLAYA": "Pau-Pi",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46181,
+    "NOMBRE_MUNICIPIO": "Oliva",
+    "LATITUD": "38º 55' 48\"",
+    "LONGITUD": "-00º 05' 25\""
+  },
+  {
+    "ID_PLAYA": 4618103,
+    "NOMBRE_PLAYA": "L'Aigua Blanca",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46181,
+    "NOMBRE_MUNICIPIO": "Oliva",
+    "LATITUD": "38º 55' 16\"",
+    "LONGITUD": "-00º 04' 48\""
+  },
+  {
+    "ID_PLAYA": 4619501,
+    "NOMBRE_PLAYA": "Piles",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46195,
+    "NOMBRE_MUNICIPIO": "Piles",
+    "LATITUD": "38º 57' 07\"",
+    "LONGITUD": "-00º 06' 52\""
+  },
+  {
+    "ID_PLAYA": 4619901,
+    "NOMBRE_PLAYA": "La Pobla de Farnals",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46199,
+    "NOMBRE_MUNICIPIO": "la Pobla de Farnals",
+    "LATITUD": "39º 33' 28\"",
+    "LONGITUD": "-00º 17' 18\""
+  },
+  {
+    "ID_PLAYA": 4622001,
+    "NOMBRE_PLAYA": "Corint / Malvarrosa",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46220,
+    "NOMBRE_MUNICIPIO": "Sagunto/Sagunt",
+    "LATITUD": "39º 42' 33\"",
+    "LONGITUD": "-00º 11' 37\""
+  },
+  {
+    "ID_PLAYA": 4622003,
+    "NOMBRE_PLAYA": "Port de Sagunt / Sagunt",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46220,
+    "NOMBRE_MUNICIPIO": "Sagunto/Sagunt",
+    "LATITUD": "39º 39' 31\"",
+    "LONGITUD": "-00º 12' 32\""
+  },
+  {
+    "ID_PLAYA": 4623505,
+    "NOMBRE_PLAYA": "Mareny Blau",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46235,
+    "NOMBRE_MUNICIPIO": "Sueca",
+    "LATITUD": "39º 13' 45\"",
+    "LONGITUD": "-00º 14' 43\""
+  },
+  {
+    "ID_PLAYA": 4623801,
+    "NOMBRE_PLAYA": "Tavernes",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46238,
+    "NOMBRE_MUNICIPIO": "Tavernes de la Valldigna",
+    "LATITUD": "39º 05' 50\"",
+    "LONGITUD": "-00º 13' 02\""
+  },
+  {
+    "ID_PLAYA": 4625001,
+    "NOMBRE_PLAYA": "Playa de Levante / Malvarrosa",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46250,
+    "NOMBRE_MUNICIPIO": "Valencia",
+    "LATITUD": "39º 28' 20\"",
+    "LONGITUD": "-00º 19' 19\""
+  },
+  {
+    "ID_PLAYA": 4625004,
+    "NOMBRE_PLAYA": "La Devesa",
+    "ID_PROVINCIA": 46,
+    "NOMBRE_PROVINCIA": "València/Valencia",
+    "ID_MUNICIPIO": 46250,
+    "NOMBRE_MUNICIPIO": "Valencia",
+    "LATITUD": "39º 20' 22\"",
+    "LONGITUD": "-00º 18' 19\""
+  },
+  {
+    "ID_PLAYA": 4801401,
+    "NOMBRE_PLAYA": "Muriola- La Cantera",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48014,
+    "NOMBRE_MUNICIPIO": "Barrika",
+    "LATITUD": "43º 24' 52\"",
+    "LONGITUD": "-02º 56' 45\""
+  },
+  {
+    "ID_PLAYA": 4802802,
+    "NOMBRE_PLAYA": "Ea",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48028,
+    "NOMBRE_MUNICIPIO": "Ea",
+    "LATITUD": "43º 23' 16\"",
+    "LONGITUD": "-02º 34' 55\""
+  },
+  {
+    "ID_PLAYA": 4804301,
+    "NOMBRE_PLAYA": "Gorlitz-Gorliz",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48043,
+    "NOMBRE_MUNICIPIO": "Gorliz",
+    "LATITUD": "43º 25' 52\"",
+    "LONGITUD": "-02º 56' 37\""
+  },
+  {
+    "ID_PLAYA": 4804401,
+    "NOMBRE_PLAYA": "Azkorri-Gorrondatxe",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48044,
+    "NOMBRE_MUNICIPIO": "Getxo",
+    "LATITUD": "43º 22' 86\"",
+    "LONGITUD": "-03º 00' 59\""
+  },
+  {
+    "ID_PLAYA": 4804402,
+    "NOMBRE_PLAYA": "Barinatxe-Salvaje",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48044,
+    "NOMBRE_MUNICIPIO": "Getxo",
+    "LATITUD": "43º 23' 06\"",
+    "LONGITUD": "-03º 00' 16\""
+  },
+  {
+    "ID_PLAYA": 4804801,
+    "NOMBRE_PLAYA": "Laida",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48048,
+    "NOMBRE_MUNICIPIO": "Ibarrangelu",
+    "LATITUD": "43º 24' 23\"",
+    "LONGITUD": "-02º 41' 34\""
+  },
+  {
+    "ID_PLAYA": 4804802,
+    "NOMBRE_PLAYA": "Laga",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48048,
+    "NOMBRE_MUNICIPIO": "Ibarrangelu",
+    "LATITUD": "43º 24' 38\"",
+    "LONGITUD": "-02º 39' 24\""
+  },
+  {
+    "ID_PLAYA": 4804901,
+    "NOMBRE_PLAYA": "Ogeia-Ispaster",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48049,
+    "NOMBRE_MUNICIPIO": "Ispaster",
+    "LATITUD": "43º 22' 28\"",
+    "LONGITUD": "-02º 32' 35\""
+  },
+  {
+    "ID_PLAYA": 4805601,
+    "NOMBRE_PLAYA": "Armintxekoalde",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48056,
+    "NOMBRE_MUNICIPIO": "Lemoiz",
+    "LATITUD": "43º 26' 08\"",
+    "LONGITUD": "-02º 54' 03\""
+  },
+  {
+    "ID_PLAYA": 4805701,
+    "NOMBRE_PLAYA": "Isuntza",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48057,
+    "NOMBRE_MUNICIPIO": "Lekeitio",
+    "LATITUD": "43º 21' 45\"",
+    "LONGITUD": "-02º 30' 01\""
+  },
+  {
+    "ID_PLAYA": 4806302,
+    "NOMBRE_PLAYA": "Karraspio",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48063,
+    "NOMBRE_MUNICIPIO": "Mendexa",
+    "LATITUD": "43º 21' 13\"",
+    "LONGITUD": "-02º 31' 12\""
+  },
+  {
+    "ID_PLAYA": 4806801,
+    "NOMBRE_PLAYA": "Laidatxu",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48068,
+    "NOMBRE_MUNICIPIO": "Mundaka",
+    "LATITUD": "43º 24' 23\"",
+    "LONGITUD": "-02º 41' 12\""
+  },
+  {
+    "ID_PLAYA": 4807101,
+    "NOMBRE_PLAYA": "Muskiz-La Arena",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48071,
+    "NOMBRE_MUNICIPIO": "Muskiz",
+    "LATITUD": "43º 21' 04\"",
+    "LONGITUD": "-03º 06' 57\""
+  },
+  {
+    "ID_PLAYA": 4807301,
+    "NOMBRE_PLAYA": "Arrigorri",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48073,
+    "NOMBRE_MUNICIPIO": "Ondarroa",
+    "LATITUD": "43º 19' 28\"",
+    "LONGITUD": "-02º 25' 01\""
+  },
+  {
+    "ID_PLAYA": 4807602,
+    "NOMBRE_PLAYA": "Toña",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48076,
+    "NOMBRE_MUNICIPIO": "Sukarrieta",
+    "LATITUD": "43º 23' 49\"",
+    "LONGITUD": "-02º 41' 34\""
+  },
+  {
+    "ID_PLAYA": 4807603,
+    "NOMBRE_PLAYA": "San Antonio De Abiña",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48021,
+    "NOMBRE_MUNICIPIO": "Busturia",
+    "LATITUD": "43º 23' 49\"",
+    "LONGITUD": "-02º 41' 37\""
+  },
+  {
+    "ID_PLAYA": 4807701,
+    "NOMBRE_PLAYA": "Plentzia-Plencia",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48077,
+    "NOMBRE_MUNICIPIO": "Plentzia",
+    "LATITUD": "43º 24' 49\"",
+    "LONGITUD": "-02º 56' 45\""
+  },
+  {
+    "ID_PLAYA": 4808502,
+    "NOMBRE_PLAYA": "Atxabiribil-Arrietara",
+    "ID_PROVINCIA": 48,
+    "NOMBRE_PROVINCIA": "Bizkaia",
+    "ID_MUNICIPIO": 48085,
+    "NOMBRE_MUNICIPIO": "Sopela",
+    "LATITUD": "43º 23' 24\"",
+    "LONGITUD": "-02º 59' 43\""
+  },
+  {
+    "ID_PLAYA": 5100104,
+    "NOMBRE_PLAYA": "Benítez",
+    "ID_PROVINCIA": 51,
+    "NOMBRE_PROVINCIA": "Ceuta",
+    "ID_MUNICIPIO": 51001,
+    "NOMBRE_MUNICIPIO": "Ceuta",
+    "LATITUD": "35º 53' 39\"",
+    "LONGITUD": "-05º 20' 12\""
+  },
+  {
+    "ID_PLAYA": 5100108,
+    "NOMBRE_PLAYA": "La Ribera - El Chorrillo",
+    "ID_PROVINCIA": 51,
+    "NOMBRE_PROVINCIA": "Ceuta",
+    "ID_MUNICIPIO": 51001,
+    "NOMBRE_MUNICIPIO": "Ceuta",
+    "LATITUD": "35º 53' 13\"",
+    "LONGITUD": "-05º 19' 12\""
+  },
+  {
+    "ID_PLAYA": 5200103,
+    "NOMBRE_PLAYA": "El Hipódromo",
+    "ID_PROVINCIA": 52,
+    "NOMBRE_PROVINCIA": "Melilla",
+    "ID_MUNICIPIO": 52001,
+    "NOMBRE_MUNICIPIO": "Melilla",
+    "LATITUD": "35º 17' 04\"",
+    "LONGITUD": "-02º 56' 19\""
+  }
+]
