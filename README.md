@@ -3,6 +3,8 @@
 
 # AEMET-MCP. Integration via MCP with the AEMET API
 
+[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+
 **AEMET is the State Meteorological Agency of Spain.**
 
 **Aemet-mcp** allows you to retrieve historical climate data and meteorological information from the AEMET API directly from Claude AI and other MCP compatible clients, using the **Model Context Protocol (MCP)**.
@@ -20,6 +22,14 @@ It includes secure handling of API keys and resource JSON files for using suppor
 - Responses ready for use in JSON format.
 
 ## Installation
+
+### Installing via Smithery
+
+To install AEMET Weather Data Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@AnCode666/aemet-mcp):
+
+```bash
+npx -y @smithery/cli install @AnCode666/aemet-mcp --client claude
+```
 
 ### Prerequisites
 
