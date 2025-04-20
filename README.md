@@ -13,6 +13,10 @@ Aemet-mcp is an MCP server that exposes tools enabling LLMs to query data from w
 
 It includes secure handling of API keys and resource JSON files for using supporting data.
 
+<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
+</a>
+
 ## Key Features
 
 - Query for **historical daily values** (temperature, wind, precipitation, etc.)
