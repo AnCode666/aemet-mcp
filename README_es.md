@@ -13,6 +13,10 @@ Aemet-mcp Es un servidor MCP que expone herramientas para que los LLM puedan con
 
 Incluye el manejo seguro de claves de API y recursos en formato json para el empleo de datos de apoyo.
 
+<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
+</a>
+
 ## Características principales
 
 - Consulta de **valores diarios históricos** (temperatura, viento, precipitaciones, etc.)
