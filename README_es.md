@@ -3,6 +3,8 @@
 
 # AEMET-MCP. Integración vía MCP con la API de AEMET
 
+[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+
 **AEMET es la Agencia Estatal de Meteorología de España.**
 
 **Aemet-mcp** permite obtener datos climatológicos históricos y datos meteorológicos de la API de AEMET directamente desde Claude AI y otros clientes MCP compatibles, utilizando el protocolo **Model Context Protocol (MCP)**.
@@ -21,12 +23,22 @@ Incluye el manejo seguro de claves de API y recursos en formato json para el emp
 
 ## Instalación
 
+### Instalar desde Smithery
+
+Puedes instalar aemet-mcp en Claude para Escritorio automáticamente mediante [Smithery](https://smithery.ai/server/@AnCode666/aemet-mcp):
+
+```bash
+npx -y @smithery/cli install @AnCode666/aemet-mcp --client claude
+```
+
+### Instalar desde uv
+
 ### Prerrequisitos
 
 - Python 3.10 o superior.
 - [uv](https://docs.astral.sh/uv/getting-started/installation/) package manager.
 
-## Instalación de uv
+### Instalación de uv
 
 Lo primero que hay que hacer es instalar `uv`, que es un gestor de paquetes para Python.
 **Se instala desde la consola**.

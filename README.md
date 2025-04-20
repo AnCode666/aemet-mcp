@@ -31,12 +31,14 @@ To install AEMET Weather Data Server for Claude Desktop automatically via [Smith
 npx -y @smithery/cli install @AnCode666/aemet-mcp --client claude
 ```
 
+### Instalar desde uv
+
 ### Prerequisites
 
 - Python 3.10 or higher.
 - [uv](https://docs.astral.sh/uv/getting-started/installation/) package manager.
 
-## Installing uv
+### Installing uv
 
 The first step is to install `uv`, a package manager for Python.  
 **It can be installed from the command line**.
