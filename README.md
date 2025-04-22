@@ -35,7 +35,7 @@ To install AEMET Weather Data Server for Claude Desktop automatically via [Smith
 npx -y @smithery/cli install @AnCode666/aemet-mcp --client claude
 ```
 
-### Instalar desde uv
+### Install from uv
 
 ### Prerequisites
 
