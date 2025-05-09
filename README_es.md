@@ -35,7 +35,7 @@ Puedes instalar aemet-mcp en Claude para Escritorio automáticamente mediante [S
 npx -y @smithery/cli install @AnCode666/aemet-mcp --client claude
 ```
 
-### Instalar desde uv
+### Instalar con uv
 
 ### Prerrequisitos
 

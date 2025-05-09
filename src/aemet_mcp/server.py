@@ -400,7 +400,7 @@ async def get_beach_data_uv(nombre_o_codigo: str, dias_frc: int, tipo_consulta: 
         return f"Error processing data from {tipo_consulta}: {str(e)}"
 
 
-# Función main
+# Main function
 def main():
     """Arrancar el servidor mcp"""
     mcp.run()
