@@ -1,14 +1,20 @@
+# AEMET-MCP. Integración vía MCP con la API de AEMET
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README_es.md)
 
+## DISTRIBUCIONES
+
 [![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
 
-[![AEMET-MCP MCP server](https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge)](https://glama.ai/mcp/servers/@AnCode666/aemet-mcp)
+<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
+</a>
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
 [![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
 
-# AEMET-MCP. Integración vía MCP con la API de AEMET
+## DESCRIPCIÓN
 
 **AEMET es la Agencia Estatal de Meteorología de España.**
 
@@ -18,7 +24,7 @@ Aemet-mcp Es un servidor MCP que expone herramientas para que los LLM puedan con
 
 Incluye el manejo seguro de claves de API y recursos en formato json para el empleo de datos de apoyo.
 
-## Características principales
+## CARACTERÍSTICAS PRINCIPALES
 
 - Consulta de **valores diarios históricos** (temperatura, viento, precipitaciones, etc.)
 - Acceso a **resúmenes climatológicos mensuales** por estación.
@@ -26,7 +32,7 @@ Incluye el manejo seguro de claves de API y recursos en formato json para el emp
 - Consulta del estado de las playas, incluyendo índices de radiación ultravioleta.
 - Respuestas listas para utilizar en formato JSON.
 
-## Instalación
+## INSTALACIÓN
 
 ### Instalar desde Smithery
 
@@ -68,7 +74,7 @@ pip install uv
 
 Para más información sobre la instalación de **uv**, consulta la [documentación oficial](https://docs.astral.sh/uv/getting-started/installation/).
 
-## Integración con clientes como Claude para Escritorio
+## INTEGRACIÓN CON CLIENTES COMO CLAUDE PARA ESCRITORIO
 
 Una vez que tenemos **uv** instalado, ya podemos usar el servidor MCP desde cualquier cliente compatible, como Claude para Escritorio, en cuyo caso los pasos a seguir son los siguientes:
 
@@ -93,7 +99,7 @@ Una vez que tenemos **uv** instalado, ya podemos usar el servidor MCP desde cual
 
 En general, para integrarlo en cualquier otro cliente compatible con MCP, como pueden ser Cursor, CODEGPT o Roo Code, solamente hay que ir a la correspondiente configuración de los servidores MCP del cliente y añadir el mismo bloque de código.
 
-## Ejemplos de uso
+## EJEMPLOS DE USO
 
 Una vez configurado correctamente, podrás pedirle cosas como:
 
