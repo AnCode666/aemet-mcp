@@ -5,11 +5,17 @@
 
 ## DISTRIBUTIONS
 
+### Smithery
+
 [![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+
+### Glama
 
 <a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
   <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
 </a>
+
+### MseeP
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
 [![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
