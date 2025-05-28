@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aemet_mcp"
-version = "0.1.20"
+version = "0.2.0"
 description = "AEMET API integration with MCP (Model Context Protocol)"
 readme = "README.md"
 requires-python = ">=3.10"

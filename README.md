@@ -111,6 +111,8 @@ Once properly configured, you can ask things like:
 
 ```
 - "What's the weather like in Seville?"
+- `"Give me a list of the beaches in the province of Málaga"`
 - "Tell me the radiation levels at Maspalomas beach for tomorrow"
 - "Give me the historical rainfall data for Albacete between January 1st, 2020 and February 1st, 2020"
+- `"Give me a list of the weather stations within a 50 km radius from the coordinates lat:40.4165, lon:-3.70256"`.
 ```

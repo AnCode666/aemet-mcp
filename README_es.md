@@ -111,6 +111,8 @@ Una vez configurado correctamente, podrás pedirle cosas como:
 
 ```
 - `"¿Qué tiempo hace en Sevilla?"`
+- `"Dame un listado de as playas que hay en la provincia de Málaga"`
 - `"Dime los niveles de radiación en la playa de Maspalomas para mañana"`
 - `"Dime los datos históricos de lluvia en Albacete entre el 1 de enero de 2020 y el 1 de febrero de 2020"`
+- `"Dame un listado de las estaciones meteorológicas en un radio de 50 km respecto a las coordenadas lat:40.4165, lon:-3.70256"`.
 ---
