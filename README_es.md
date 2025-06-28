@@ -3,23 +3,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README_es.md)
 
-## DISTRIBUCIONES
-
-### Smithery
-
-[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
-
-### Glama
-
-<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
-</a>
-
-### MseeP
-
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
-[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
-
 ## DESCRIPCIÓN
 
 **AEMET es la Agencia Estatal de Meteorología de España.**
@@ -109,10 +92,29 @@ En general, para integrarlo en cualquier otro cliente compatible con MCP, como p
 
 Una vez configurado correctamente, podrás pedirle cosas como:
 
-```
-- `"¿Qué tiempo hace en Sevilla?"`
-- `"Dame un listado de as playas que hay en la provincia de Málaga"`
-- `"Dime los niveles de radiación en la playa de Maspalomas para mañana"`
-- `"Dime los datos históricos de lluvia en Albacete entre el 1 de enero de 2020 y el 1 de febrero de 2020"`
-- `"Dame un listado de las estaciones meteorológicas en un radio de 50 km respecto a las coordenadas lat:40.4165, lon:-3.70256"`.
----
+- ¿Qué tiempo hace en Sevilla?
+- Dame un listado de as playas que hay en la provincia de Málaga
+- Dime los niveles de radiación en la playa de Maspalomas para mañana
+- Dime los datos históricos de lluvia en Albacete entre el 1 de enero de 2020 y el 1 de febrero de 2020
+- Dame un listado de las estaciones meteorológicas en un radio de 50 km respecto a las coordenadas lat:40.4165, lon:-3.70256.
+
+## DISTRIBUCIONES
+
+### Smithery
+
+[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+
+### Glama
+
+<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
+</a>
+
+### MseeP
+
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
+
+### MCP Review
+
+[Certificado en MCP review](https://mcpreview.com/mcp-servers/ancode666/aemet-mcp)

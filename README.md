@@ -3,23 +3,6 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README_es.md)
 
-## DISTRIBUTIONS
-
-### Smithery
-
-[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
-
-### Glama
-
-<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
-</a>
-
-### MseeP
-
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
-[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
-
 ## DESCRIPTION
 
 **AEMET is the State Meteorological Agency of Spain.**
@@ -109,10 +92,29 @@ In general, to integrate it into any other MCP-compatible client such as Cursor,
 
 Once properly configured, you can ask things like:
 
-```
 - "What's the weather like in Seville?"
-- `"Give me a list of the beaches in the province of Málaga"`
+- "Give me a list of the beaches in the province of Málaga"
 - "Tell me the radiation levels at Maspalomas beach for tomorrow"
 - "Give me the historical rainfall data for Albacete between January 1st, 2020 and February 1st, 2020"
-- `"Give me a list of the weather stations within a 50 km radius from the coordinates lat:40.4165, lon:-3.70256"`.
-```
+- "Give me a list of the weather stations within a 50 km radius from the coordinates lat:40.4165, lon:-3.70256"
+
+## DISTRIBUTIONS
+
+### Smithery
+
+[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+
+### Glama
+
+<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
+</a>
+
+### MseeP
+
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
+
+### MCP Review
+
+[MCP review certified](https://mcpreview.com/mcp-servers/ancode666/aemet-mcp)

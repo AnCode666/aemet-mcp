@@ -1,11 +1,11 @@
+from mcp.server.fastmcp import FastMCP
+from dotenv import load_dotenv
+import httpx
 from typing import Any, Literal
 import unicodedata
-import httpx
 import json
 from importlib.resources import files
 import logging
-from mcp.server.fastmcp import FastMCP
-from dotenv import load_dotenv
 import os
 import difflib
 from math import radians, cos, sin, asin, sqrt
@@ -13,7 +13,7 @@ from math import radians, cos, sin, asin, sqrt
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
-logger = logging.getLogger("AemetMCPServer_eng")
+logger = logging.getLogger("AemetMCPServer")
 
 mcp = FastMCP(
     "aemet-mcp",
@@ -111,7 +111,8 @@ def sexagesimal_to_decimal(coord: str) -> float:
 
 
 @mcp.tool()
-def search_municipality_code(nombre: str):
+    
+async def search_municipality_code(nombre: str):
     """
     Search Spanish municipalities by name or province (accent-insensitive, typo-tolerant).
 
@@ -343,7 +344,7 @@ async def get_beach_data_uv(nombre_o_codigo: str, dias_frc: int, tipo_consulta: 
 # Main function
 def main():
     """Arrancar el servidor mcp"""
-    mcp.run()
+    mcp.run(transport='stdio')
 
 if __name__ == "__main__":
-    mcp.run(transport='stdio')
+    main()
