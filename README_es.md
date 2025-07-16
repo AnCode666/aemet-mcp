@@ -113,7 +113,7 @@ Una vez configurado correctamente, podrás pedirle cosas como:
 ### MseeP
 
 [![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
-[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/ancode666-aemet-mcp)
 
 ### MCP Review
 
