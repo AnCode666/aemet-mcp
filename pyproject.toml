@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "aemet_mcp"
-version = "0.1.20"
+version = "0.2.2"
 description = "AEMET API integration with MCP (Model Context Protocol)"
 readme = "README.md"
 requires-python = ">=3.10"
@@ -24,4 +24,9 @@ package-dir = {"" = "src"}
 where = ["src"]
 
 [tool.setuptools.package-data]
-"aemet_mcp.res" = ["Beaches_code.json"]
+"aemet_mcp.res" = [
+    "Beaches_code.json", 
+    "Municipallity_code.json",
+    "Provinces_code.json",
+    "Stations_code.json"
+]

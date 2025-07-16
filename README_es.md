@@ -1,9 +1,9 @@
+# AEMET-MCP. Integración vía MCP con la API de AEMET
+
 [![en](https://img.shields.io/badge/lang-en-red.svg)](README.md)
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](README_es.md)
 
-# AEMET-MCP. Integración vía MCP con la API de AEMET
-
-[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+## DESCRIPCIÓN
 
 **AEMET es la Agencia Estatal de Meteorología de España.**
 
@@ -13,11 +13,7 @@ Aemet-mcp Es un servidor MCP que expone herramientas para que los LLM puedan con
 
 Incluye el manejo seguro de claves de API y recursos en formato json para el empleo de datos de apoyo.
 
-<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
-</a>
-
-## Características principales
+## CARACTERÍSTICAS PRINCIPALES
 
 - Consulta de **valores diarios históricos** (temperatura, viento, precipitaciones, etc.)
 - Acceso a **resúmenes climatológicos mensuales** por estación.
@@ -25,7 +21,7 @@ Incluye el manejo seguro de claves de API y recursos en formato json para el emp
 - Consulta del estado de las playas, incluyendo índices de radiación ultravioleta.
 - Respuestas listas para utilizar en formato JSON.
 
-## Instalación
+## INSTALACIÓN
 
 ### Instalar desde Smithery
 
@@ -35,7 +31,7 @@ Puedes instalar aemet-mcp en Claude para Escritorio automáticamente mediante [S
 npx -y @smithery/cli install @AnCode666/aemet-mcp --client claude
 ```
 
-### Instalar desde uv
+### Instalar con uv
 
 ### Prerrequisitos
 
@@ -67,7 +63,7 @@ pip install uv
 
 Para más información sobre la instalación de **uv**, consulta la [documentación oficial](https://docs.astral.sh/uv/getting-started/installation/).
 
-## Integración con clientes como Claude para Escritorio
+## INTEGRACIÓN CON CLIENTES COMO CLAUDE PARA ESCRITORIO
 
 Una vez que tenemos **uv** instalado, ya podemos usar el servidor MCP desde cualquier cliente compatible, como Claude para Escritorio, en cuyo caso los pasos a seguir son los siguientes:
 
@@ -92,12 +88,33 @@ Una vez que tenemos **uv** instalado, ya podemos usar el servidor MCP desde cual
 
 En general, para integrarlo en cualquier otro cliente compatible con MCP, como pueden ser Cursor, CODEGPT o Roo Code, solamente hay que ir a la correspondiente configuración de los servidores MCP del cliente y añadir el mismo bloque de código.
 
-## Ejemplos de uso
+## EJEMPLOS DE USO
 
 Una vez configurado correctamente, podrás pedirle cosas como:
 
-```
-- `"¿Qué tiempo hace en Sevilla?"`
-- `"Dime los niveles de radiación en la playa de Maspalomas para mañana"`
-- `"Dime los datos históricos de lluvia en Albacete entre el 1 de enero de 2020 y el 1 de febrero de 2020"`
----
+- ¿Qué tiempo hace en Sevilla?
+- Dame un listado de as playas que hay en la provincia de Málaga
+- Dime los niveles de radiación en la playa de Maspalomas para mañana
+- Dime los datos históricos de lluvia en Albacete entre el 1 de enero de 2020 y el 1 de febrero de 2020
+- Dame un listado de las estaciones meteorológicas en un radio de 50 km respecto a las coordenadas lat:40.4165, lon:-3.70256.
+
+## DISTRIBUCIONES
+
+### Smithery
+
+[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+
+### Glama
+
+<a href="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@AnCode666/aemet-mcp/badge" alt="AEMET-MCP MCP server" />
+</a>
+
+### MseeP
+
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ancode666-aemet-mcp-badge.png)](https://mseep.ai/app/ancode666-aemet-mcp)
+[![Verified on MseeP](https://mseep.ai/badge.svg)](https://mseep.ai/app/f1e68928-2b8e-4bdd-8a3f-9dd2a7f122b5)
+
+### MCP Review
+
+[Certificado en MCP review](https://mcpreview.com/mcp-servers/ancode666/aemet-mcp)
