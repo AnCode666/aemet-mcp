@@ -19,6 +19,7 @@ It includes secure handling of API keys and resource JSON files for using suppor
 - Access to **monthly climate summaries** by station.
 - Filtering by year, month, and AEMET station code.
 - Query beach conditions, including ultraviolet radiation indices.
+- **Rainfall data analysis prompt** for Spanish municipalities with historical precipitation data
 - Responses ready for use in JSON format.
 
 ## INSTALLATION
@@ -63,6 +64,47 @@ pip install uv
 
 For more information about installing uv, visit the [uv documentation](https://docs.astral.sh/uv/getting-started/installation/).
 
+### Install with Docker
+
+You can also run AEMET-MCP using Docker:
+
+#### Prerequisites
+
+- [Docker](https://docs.docker.com/get-docker/) installed on your system
+
+#### Steps
+
+1. **Build the Docker image:**
+
+```bash
+docker build -t aemet-mcp .
+```
+
+2. **Run the container:**
+
+```bash
+docker run -e AEMET_API_KEY=YOUR_AEMET_API_KEY aemet-mcp
+```
+
+Replace `YOUR_AEMET_API_KEY` with your actual API key from AEMET.
+
+#### Integration with Claude Desktop using Docker
+
+To use the Docker version with Claude Desktop, add this configuration to your `claude_desktop_config.json`:
+
+```json
+"aemet_mcp_docker": {
+    "command": "docker",
+    "args": [
+        "run",
+        "--rm",
+        "-i",
+        "-e", "AEMET_API_KEY=YOUR_AEMET_API_KEY",
+        "aemet-mcp"
+    ]
+}
+```
+
 ## INTEGRATION WITH CLIENTS LIKE CLAUDE DESKTOP
 
 Once **uv** is installed, you can use the MCP server from any compatible client such as Claude for Desktop, in which case the steps to follow are:
@@ -97,6 +139,22 @@ Once properly configured, you can ask things like:
 - "Tell me the radiation levels at Maspalomas beach for tomorrow"
 - "Give me the historical rainfall data for Albacete between January 1st, 2020 and February 1st, 2020"
 - "Give me a list of the weather stations within a 50 km radius from the coordinates lat:40.4165, lon:-3.70256"
+
+### Rainfall Data Analysis
+
+The server includes a specialized prompt for analyzing historical precipitation data for Spanish municipalities. Use the `obtener_datos_lluvia_municipio` prompt with:
+
+```
+obtener_datos_lluvia_municipio("Madrid", "2023-01-01", "2023-12-31")
+```
+
+This prompt provides structured guidance for meteorological analysis, including:
+- Municipality code search and validation
+- Nearest weather station identification
+- Historical precipitation data retrieval
+- Statistical analysis and trend identification
+- Climate pattern analysis with seasonal variations
+- Data visualization recommendations
 
 ## DISTRIBUTIONS
 

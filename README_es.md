@@ -19,6 +19,7 @@ Incluye el manejo seguro de claves de API y recursos en formato json para el emp
 - Acceso a **resúmenes climatológicos mensuales** por estación.
 - Filtrado por año, mes y código de estación AEMET.
 - Consulta del estado de las playas, incluyendo índices de radiación ultravioleta.
+- **Prompt de análisis de datos de lluvia** para municipios españoles con datos históricos de precipitación
 - Respuestas listas para utilizar en formato JSON.
 
 ## INSTALACIÓN
@@ -63,6 +64,47 @@ pip install uv
 
 Para más información sobre la instalación de **uv**, consulta la [documentación oficial](https://docs.astral.sh/uv/getting-started/installation/).
 
+### Instalar con Docker
+
+También puedes ejecutar AEMET-MCP usando Docker:
+
+#### Prerrequisitos
+
+- [Docker](https://docs.docker.com/get-docker/) instalado en tu sistema
+
+#### Pasos
+
+1. **Construir la imagen de Docker:**
+
+```bash
+docker build -t aemet-mcp .
+```
+
+2. **Ejecutar el contenedor:**
+
+```bash
+docker run -e AEMET_API_KEY=TU_API_KEY_DE_AEMET aemet-mcp
+```
+
+Reemplaza `TU_API_KEY_DE_AEMET` con tu clave de API real de AEMET.
+
+#### Integración con Claude para Escritorio usando Docker
+
+Para usar la versión de Docker con Claude para Escritorio, añade esta configuración a tu `claude_desktop_config.json`:
+
+```json
+"aemet_mcp_docker": {
+    "command": "docker",
+    "args": [
+        "run",
+        "--rm",
+        "-i",
+        "-e", "AEMET_API_KEY=TU_API_KEY_DE_AEMET",
+        "aemet-mcp"
+    ]
+}
+```
+
 ## INTEGRACIÓN CON CLIENTES COMO CLAUDE PARA ESCRITORIO
 
 Una vez que tenemos **uv** instalado, ya podemos usar el servidor MCP desde cualquier cliente compatible, como Claude para Escritorio, en cuyo caso los pasos a seguir son los siguientes:
@@ -97,6 +139,22 @@ Una vez configurado correctamente, podrás pedirle cosas como:
 - Dime los niveles de radiación en la playa de Maspalomas para mañana
 - Dime los datos históricos de lluvia en Albacete entre el 1 de enero de 2020 y el 1 de febrero de 2020
 - Dame un listado de las estaciones meteorológicas en un radio de 50 km respecto a las coordenadas lat:40.4165, lon:-3.70256.
+
+### Análisis de Datos de Lluvia
+
+El servidor incluye un prompt especializado para analizar datos históricos de precipitación de municipios españoles. Utiliza el prompt `obtener_datos_lluvia_municipio` con:
+
+```
+obtener_datos_lluvia_municipio("Madrid", "2023-01-01", "2023-12-31")
+```
+
+Este prompt proporciona orientación estructurada para análisis meteorológico, incluyendo:
+- Búsqueda y validación del código de municipio
+- Identificación de la estación meteorológica más cercana
+- Recuperación de datos históricos de precipitación
+- Análisis estadístico e identificación de tendencias
+- Análisis de patrones climáticos con variaciones estacionales
+- Recomendaciones para visualización de datos
 
 ## DISTRIBUCIONES
 

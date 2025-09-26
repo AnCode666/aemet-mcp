@@ -9,3 +9,7 @@ wheels/
 # Virtual environments
 .venv
 
+#files
+CLAUDE.md
+.claudeignore
+
