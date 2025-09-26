@@ -1,3 +1,4 @@
+from datetime import datetime
 from mcp.server.fastmcp import FastMCP
 from dotenv import load_dotenv
 import httpx
@@ -9,24 +10,22 @@ import logging
 import os
 import difflib
 from math import radians, cos, sin, asin, sqrt
+from datetime import datetime
 
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(name)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("AemetMCPServer")
 
-mcp = FastMCP(
-    "aemet-mcp",
-    description="MCP server for querying the AEMET (Spanish State Meteorological Agency) API"
-)
+mcp = FastMCP("aemet-mcp")
 
 AEMET_API_BASE = "https://opendata.aemet.es/opendata/api"
 API_KEY = os.getenv("AEMET_API_KEY", "ND")
 
 CODIGOS_PLAYAS = json.loads(
-    files("aemet_mcp.res")
-    .joinpath("Beaches_code.json")
-    .read_text(encoding="utf-8")
+    files("aemet_mcp.res").
+    joinpath("Beaches_code.json").
+    read_text(encoding="utf-8")
 )
 
 NOMBRE_A_CODIGO = {
@@ -110,8 +109,11 @@ def sexagesimal_to_decimal(coord: str) -> float:
     return decimal
 
 
+# ============================================================================
+# MCP TOOLS
+# ============================================================================
+
 @mcp.tool()
-    
 async def search_municipality_code(nombre: str):
     """
     Search Spanish municipalities by name or province (accent-insensitive, typo-tolerant).
@@ -341,9 +343,139 @@ async def get_beach_data_uv(nombre_o_codigo: str, dias_frc: int, tipo_consulta: 
     url = f"{AEMET_API_BASE}/prediccion/especifica/{'playa' if tipo_consulta == 'beach' else 'uvi'}/{codigo if tipo_consulta == 'beach' else dias_frc}"
     return await make_aemet_request(url)
 
+
+# ============================================================================
+# MCP PROMPTS
+# ============================================================================
+
+@mcp.prompt()
+async def obtener_datos_lluvia_municipio(municipio: str, fecha_inicio: str, fecha_fin: str) -> str:
+    """
+    Obtiene los datos históricos de precipitación para un municipio español específico
+    utilizando la estación meteorológica más cercana de AEMET.
+
+    Args:
+        municipio: Nombre del municipio español (ej: "Madrid", "Sevilla")
+        fecha_inicio: Fecha de inicio en formato YYYY-MM-DD (ej: "2023-01-01")
+        fecha_fin: Fecha de fin en formato YYYY-MM-DD (ej: "2023-12-31")
+
+    Returns:
+        Prompt estructurado para obtener y analizar los datos de precipitación
+    """
+
+    # Validaciones básicas
+    try:
+        inicio = datetime.strptime(fecha_inicio, "%Y-%m-%d")
+        fin = datetime.strptime(fecha_fin, "%Y-%m-%d")
+
+        if inicio >= fin:
+            return "Error: La fecha de inicio debe ser anterior a la fecha de fin"
+
+    except ValueError:
+        return "Error: Formato de fecha inválido. Use YYYY-MM-DD (ej: 2023-01-01)"
+
+    # Formatear fechas para presentación
+    meses_texto = {
+        "01": "enero", "02": "febrero", "03": "marzo", "04": "abril",
+        "05": "mayo", "06": "junio", "07": "julio", "08": "agosto",
+        "09": "septiembre", "10": "octubre", "11": "noviembre", "12": "diciembre"
+    }
+
+    inicio_mes = meses_texto[fecha_inicio.split('-')[1]]
+    fin_mes = meses_texto[fecha_fin.split('-')[1]]
+    inicio_texto = f"{inicio_mes} {fecha_inicio.split('-')[0]}"
+    fin_texto = f"{fin_mes} {fecha_fin.split('-')[0]}"
+
+    return f"""
+Actúa como un meteorólogo especializado en análisis de datos históricos de precipitación
+en España utilizando los datos oficiales de AEMET (Agencia Estatal de Meteorología).
+
+**OBJETIVO:** Obtener y analizar los datos históricos de precipitación para el municipio de {municipio}
+entre {inicio_texto} y {fin_texto}.
+
+**PASOS A EJECUTAR:**
+
+1. **BUSCAR EL CÓDIGO OFICIAL DEL MUNICIPIO**
+   - Usa la tool MCP: `search_municipality_code` con el parámetro:
+     * nombre: "{municipio}"
+   - Si hay múltiples resultados, da a elegir al usuario el que quiera de entre los posibles, presentando el nombre del municipio y el de la provincia
+   - Si no hay resultados, devuelve un error indicando que el municipio no fue encontrado
+   - Anota el código del municipio y el nombre de la provincia seleccionados
+
+2. **OBTENER COORDENADAS GEOGRÁFICAS DEL MUNICIPIO**
+   - Busca en internet las coordenadas geográficas (latitud y longitud) del municipio {municipio}
+   - Utiliza fuentes confiables como Wikipedia, datos oficiales, o servicios de geolocalización
+   - Anota las coordenadas en formato decimal (ej: lat: 40.4165, lon: -3.70256)
+
+3. **ENCONTRAR ESTACIONES METEOROLÓGICAS CERCANAS**
+   - Usa la tool MCP: `find_nearby_stations` con los parámetros:
+     * lat: [latitud obtenida en el paso 2]
+     * lon: [longitud obtenida en el paso 2]
+     * radio_km: 25
+   - Si no encuentras ninguna estación, repite la búsqueda aumentando el radio en 5 km (30, 35, 40...)
+   - Continúa hasta encontrar al menos una estación meteorológica
+   - Selecciona la estación más cercana al municipio
+
+4. **OBTENER DATOS HISTÓRICOS DE PRECIPITACIÓN**
+   - Usa la tool MCP: `get_historical_data` con los parámetros:
+     * station_id: [ID de la estación seleccionada]
+     * start_date: "{fecha_inicio}"
+     * end_date: "{fecha_fin}"
+   - **IMPORTANTE:** Los datos incluirán temperatura, viento y otros parámetros meteorológicos
+   - **EXTRAE ÚNICAMENTE LOS DATOS DE PRECIPITACIÓN** (campos como "prec", "precipitacion", "lluvia")
+   - Ignora completamente los datos de temperatura, viento, presión y otros parámetros
+
+**FORMATO DE RESPUESTA:**
+
+1. **RESUMEN EJECUTIVO**
+   - Municipio analizado y estación meteorológica utilizada
+   - Distancia entre el municipio y la estación
+   - Período de análisis y número total de días con datos
+
+2. **ESTADÍSTICAS DE PRECIPITACIÓN**
+   - Precipitación total acumulada en el período
+   - Precipitación media mensual
+   - Día con mayor precipitación registrada
+   - Número de días con lluvia (precipitación > 0 mm)
+   - Número de días sin lluvia
+
+3. **ANÁLISIS TEMPORAL**
+   - Mes más lluvioso del período
+   - Mes más seco del período
+   - Tendencias estacionales observadas
+
+4. **GRÁFICO DE EVOLUCIÓN**
+   - Crea una representación gráfica ASCII de la evolución de la precipitación mensual
+   - Usa caracteres como █, ▓, ▒, ░ para representar diferentes niveles de precipitación
+   - Incluye una escala de referencia
+   - Ejemplo de formato:
+     ```
+     Precipitación Mensual ({inicio_texto} - {fin_texto})
+
+     Ene ████████░░ 80mm
+     Feb ██████░░░░ 60mm
+     Mar ████░░░░░░ 40mm
+     [...]
+
+     Escala: █ = 10mm, ▓ = 7.5mm, ▒ = 5mm, ░ = 2.5mm
+     ```
+
+5. **DATOS TÉCNICOS**
+   - Nombre y código de la estación meteorológica utilizada
+   - Coordenadas de la estación
+   - Cualquier observación relevante sobre la calidad o continuidad de los datos
+
+**NOTAS IMPORTANTES:**
+- Filtra y presenta únicamente los datos de precipitación
+- Si hay días sin datos, indícalo claramente
+- Utiliza unidades en milímetros (mm) para toda la precipitación
+- Redondea los valores a 1 decimal para mayor claridad
+- Si encuentras datos anómalos o sospechosos, menciónalos en las observaciones
+"""
+
 # Main function
 def main():
-    """Arrancar el servidor mcp"""
+    """start the mcp server"""
     mcp.run(transport='stdio')
 
 if __name__ == "__main__":
