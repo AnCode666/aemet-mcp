@@ -158,9 +158,9 @@ This prompt provides structured guidance for meteorological analysis, including:
 
 ## DISTRIBUTIONS
 
-### Smithery
+### LightNow
 
-[![smithery badge](https://smithery.ai/badge/@AnCode666/aemet-mcp)](https://smithery.ai/server/@AnCode666/aemet-mcp)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.AnCode666/aemet-mcp)](https://lightnow.ai/servers/io.github.AnCode666/aemet-mcp)
 
 ### Glama
 
